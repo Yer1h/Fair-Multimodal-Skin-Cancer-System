@@ -46,7 +46,51 @@ This repository documents the entire research process:
 
 ##  Experiments & Code Evolution
 This repository contains the full history of our code development, demonstrating the iterative research process:
+### `/docs`
 
+* **`01_Research_Question_and_Concept_Map.pdf` (Problem Definition)**
+    * *Focus:* Established the foundational scope using the "5Ws" technique and defined the preliminary research question.
+    * *Key Features:*
+        * **Mind Map** visualizing the ecosystem of Deep Learning in dermatology.
+        * Identification of key stakeholders (Patients, Clinicians) and impact areas.
+    * *Outcome:* Confirmed the necessity of a "Fair Multimodal Diagnostic System" (FMDS).
+
+* **`02_Research_Aims_Objectives_and_Gaps.pdf` (Strategic Goals)**
+    * *Focus:* Formulated the specific Research Aim and detailed Objectives for the project.
+    * *Key Features:*
+        * Identification of 3 critical **Research Gaps**: Data Fairness, Limited Metadata, and Explainability.
+        * Objective to create a "Fairness by Design" protocol.
+    * *Outcome:* Defined the roadmap for a paradigm shift from "Black Box" AI to trustworthy systems.
+
+* **`03_Thematic_Literature_Review_and_Matrix.pdf` (Literature Analysis)**
+    * *Focus:* Conducted a thematic analysis of 20 academic sources (2016-2025).
+    * *Key Features:*
+        * Analysis of architectural evolution from Transfer Learning to **Ensemble Methods**.
+        * Evaluation of Data Strategies (Preprocessing, Class Imbalance, Taxonomy).
+    * *Conclusion:* Existing models excel at accuracy but fail at fairness and clinical integration.
+
+* **`04_Methodology_Architecture_and_Fairness_Protocol.docx` (System Design)**
+    * *Solution:* Proposed a novel **3-Branch Hybrid Architecture**:
+        * **EfficientNetV2** for dermoscopic images.
+        * **MLP** for structured metadata (including Fitzpatrick skin type).
+        * **BioBERT** for unstructured clinical notes.
+    * *Key Features:* Implemented a **"Fairness by Design" Protocol** using algorithmic skin tone stratification and fairness-aware loss functions.
+    * *Outcome:* A rigorous experimental design for ablation studies.
+
+* **`05_Midterm_Report.pdf` (Consolidated Report)**
+    * *Focus:* Synthesized the introduction, literature review, and methodology into a formal report.
+    * *Key Features:*
+        * Detailed **Problem Statement** regarding systemic algorithmic bias.
+        * **Research Schedule** spanning 5 phases from preparation to dissemination.
+    * *Outcome:* Validated the project feasibility and theoretical contribution.
+
+* **`06_Questionnaire_Results_and_Model_Training_Logs.pdf` (Implementation & Results)**
+    * *Focus:* Presented empirical evidence from public surveys ($N=11$) and data preparation steps.
+    * *Key Features:*
+        * **Survey Data:** 90.9% of respondents rated AI explainability as critical, justifying the XAI module.
+        * **Dataset Preparation:** Prepared the dataset for training and organized images by diagnosis labels using Google Colab scripts.
+    * *Outcome:* Successfully structured and stratified the data for the deep learning pipeline.
+    
 ###  `/notebooks`
 * **`v1_baseline_unimodal.ipynb` (Initial Draft)**
     * *Approach:* Attempted to train a simple model on images only.
