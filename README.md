@@ -69,8 +69,8 @@ This repository contains the full history of our code development, demonstrating
 This folder contains the evidence of the model's performance and our error analysis:
 
 * **`gradcam_visualization.png`**: The XAI heatmap demonstrating that the model correctly focuses on the lesion area, validating clinical relevance.
-* **`/success_predictions`**: A collection of correctly classified cases, showcasing the model's strength in distinguishing clear diagnostic features.
-* **`/fail_predictions` (Error Analysis)**:
+* **`/success`**: A collection of correctly classified cases, showcasing the model's strength in distinguishing clear diagnostic features.
+* **`/fail` (Error Analysis)**:
     * *Purpose:* We openly document cases where the model failed.
     * *Observation:* Most errors occur between clinically similar classes (e.g., classifying *Benign Keratosis* as *Melanoma*).
     * *Value:* Analyzing these failures provides transparency and points out directions for future improvements (e.g., need for more hard-negative mining).
