@@ -11,12 +11,12 @@ This research project addresses the critical issue of algorithmic bias in automa
 ## Project Timeline & Milestones
 | Phase | Milestone | Status | Completion Date |
 | :--- | :--- | :--- | :--- |
-| 1 | Literature Review & Problem Definition | ✅ Completed | Oct 15, 2025 |
-| 2 | Social Relevance Survey ($N=11$) | ✅ Completed | Oct 20, 2025 |
-| 3 | Data Collection & Preprocessing | ✅ Completed | Nov 05, 2025 |
-| 4 | **Iteration 1:** Baseline Unimodal Model | ❌ Failed (Low Accuracy) | Nov 10, 2025 |
-| 5 | **Iteration 2:** Multimodal Fusion Dev | ⚠️ Integration Challenges | Nov 14, 2025 |
-| 6 | **Final:** Transfer Learning (ImageNet) + Grad-CAM | ✅ Success (~62% Acc) | Nov 18, 2025 |
+| 1 | Literature Review & Problem Definition | Completed | Oct 15, 2025 |
+| 2 | Social Relevance Survey ($N=11$) | Completed | Oct 20, 2025 |
+| 3 | Data Collection & Preprocessing | Completed | Nov 05, 2025 |
+| 4 | **Iteration 1:** Baseline Unimodal Model | Failed (Low Accuracy) | Nov 10, 2025 |
+| 5 | **Iteration 2:** Multimodal Fusion Dev | Integration Challenges | Nov 14, 2025 |
+| 6 | **Final:** Transfer Learning (ImageNet) + Grad-CAM | Success (~62% Acc) | Nov 18, 2025 |
 
 ## Methodology & Justification
 ### 1. Architecture Selection
