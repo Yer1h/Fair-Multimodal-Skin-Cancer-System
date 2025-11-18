@@ -70,10 +70,9 @@ This repository contains the full history of our code development, demonstrating
     * *Conclusion:* Existing models excel at accuracy but fail at fairness and clinical integration.
 
 * **`04_Methodology_Architecture_and_Fairness_Protocol.docx` (System Design)**
-    * *Solution:* Proposed a novel **3-Branch Hybrid Architecture**:
+    * *Solution:* Proposed a novel **2-Branch Hybrid Architecture**:
         * **EfficientNetV2** for dermoscopic images.
         * **MLP** for structured metadata (including Fitzpatrick skin type).
-        * **BioBERT** for unstructured clinical notes.
     * *Key Features:* Implemented a **"Fairness by Design" Protocol** using algorithmic skin tone stratification and fairness-aware loss functions.
     * *Outcome:* A rigorous experimental design for ablation studies.
 
