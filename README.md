@@ -64,6 +64,17 @@ This repository contains the full history of our code development, demonstrating
         * **Grad-CAM** implementation for XAI.
     * *Outcome:* Successful training with ~62% accuracy and clear interpretability.
 
+
+### `/results`
+This folder contains the evidence of the model's performance and our error analysis:
+
+* **`gradcam_visualization.png`**: The XAI heatmap demonstrating that the model correctly focuses on the lesion area, validating clinical relevance.
+* **`/success_predictions`**: A collection of correctly classified cases, showcasing the model's strength in distinguishing clear diagnostic features.
+* **`/fail_predictions` (Error Analysis)**:
+    * *Purpose:* We openly document cases where the model failed.
+    * *Observation:* Most errors occur between clinically similar classes (e.g., classifying *Benign Keratosis* as *Melanoma*).
+    * *Value:* Analyzing these failures provides transparency and points out directions for future improvements (e.g., need for more hard-negative mining).
+
 ---
 **Author:** Nurbol Agybetov, Yermek Khaknazar, Baglan Yessenkeldi, Tokhtar Nuralin, Alisher Mukanov 
 
