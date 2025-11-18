@@ -44,6 +44,26 @@ This repository documents the entire research process:
 3.  Run the cells sequentially. The script automatically handles image downloading and processing.
 4.  Execute the final cell to generate the XAI (Grad-CAM) visualization.
 
+## 🧪 Experiments & Code Evolution
+This repository contains the full history of our code development, demonstrating the iterative research process:
+
+### 📂 `/notebooks`
+* **`v1_baseline_unimodal.ipynb` (Initial Draft)**
+    * *Approach:* Attempted to train a simple model on images only.
+    * *Result:* Low accuracy (~20%). The model failed to generalize due to the small dataset size and lack of clinical metadata.
+    
+* **`v2_experiment_custom_transfer.ipynb` (Second Draft)**
+    * *Hypothesis:* Tried to improve performance by transferring weights from a previously trained custom model ("Brain Transplant" method).
+    * *Challenges:* Encountered technical issues with input shape compatibility (300x300 vs 224x224) and weight freezing.
+    * *Conclusion:* This approach was deemed unstable for the final production environment.
+
+* **`v3_final_solution_multimodal.ipynb` (Final Version)**
+    * *Solution:* Implemented a clean **Fusion Architecture** using **EfficientNetV2B0 (ImageNet weights)**.
+    * *Key Features:* * Correct data preprocessing (handling missing metadata).
+        * Data-Centric fairness adjustments.
+        * **Grad-CAM** implementation for XAI.
+    * *Outcome:* Successful training with ~62% accuracy and clear interpretability.
+
 ---
 **Author:** Nurbol Agybetov, Yermek Khaknazar, Baglan Yessenkeldi, Tokhtar Nuralin, Alisher Mukanov 
 
