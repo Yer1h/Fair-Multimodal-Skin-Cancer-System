@@ -44,30 +44,30 @@ This repository documents the entire research process:
 3.  Run the cells sequentially. The script automatically handles image downloading and processing.
 4.  Execute the final cell to generate the XAI (Grad-CAM) visualization.
 
-##  Experiments & Code Evolution
+##  Experiments & Evolution
 This repository contains the full history of our code development, demonstrating the iterative research process:
 ### `/docs`
 
-* **`01_Research_Question_and_Concept_Map.pdf` (Problem Definition)**
+* **`01_Thematic_Literature_Review_and_Matrix.pdf` (Literature Analysis)**
+    * *Focus:* Conducted a thematic analysis of 20 academic sources (2016-2025).
+    * *Key Features:*
+        * Analysis of architectural evolution from Transfer Learning to **Ensemble Methods**.
+        * Evaluation of Data Strategies (Preprocessing, Class Imbalance, Taxonomy).
+    * *Conclusion:* Existing models excel at accuracy but fail at fairness and clinical integration.
+
+* **`02_Research_Question_and_Concept_Map.pdf` (Problem Definition)**
     * *Focus:* Established the foundational scope using the "5Ws" technique and defined the preliminary research question.
     * *Key Features:*
         * **Mind Map** visualizing the ecosystem of Deep Learning in dermatology.
         * Identification of key stakeholders (Patients, Clinicians) and impact areas.
     * *Outcome:* Confirmed the necessity of a "Fair Multimodal Diagnostic System" (FMDS).
 
-* **`02_Research_Aims_Objectives_and_Gaps.pdf` (Strategic Goals)**
+* **`03_Research_Aims_Objectives_and_Gaps.pdf` (Strategic Goals)**
     * *Focus:* Formulated the specific Research Aim and detailed Objectives for the project.
     * *Key Features:*
         * Identification of 3 critical **Research Gaps**: Data Fairness, Limited Metadata, and Explainability.
         * Objective to create a "Fairness by Design" protocol.
     * *Outcome:* Defined the roadmap for a paradigm shift from "Black Box" AI to trustworthy systems.
-
-* **`03_Thematic_Literature_Review_and_Matrix.pdf` (Literature Analysis)**
-    * *Focus:* Conducted a thematic analysis of 20 academic sources (2016-2025).
-    * *Key Features:*
-        * Analysis of architectural evolution from Transfer Learning to **Ensemble Methods**.
-        * Evaluation of Data Strategies (Preprocessing, Class Imbalance, Taxonomy).
-    * *Conclusion:* Existing models excel at accuracy but fail at fairness and clinical integration.
 
 * **`04_Methodology_Architecture_and_Fairness_Protocol.docx` (System Design)**
     * *Solution:* Proposed a novel **2-Branch Hybrid Architecture**:
