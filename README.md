@@ -1,14 +1,14 @@
 # Fair Multimodal Deep Learning System for Skin Cancer Detection
 
-## 📌 Project Overview
+##  Project Overview
 This research project addresses the critical issue of algorithmic bias in automated skin cancer diagnosis. Standard datasets (like HAM10000) predominantly feature fair-skinned patients. This project develops a **Fair Multimodal Diagnostic System (FMDS)** that integrates dermoscopic images with patient metadata (age, sex, localization) and utilizes diverse data sources (Fitzpatrick17k) to improve inclusivity and accuracy.
 
-## 🎯 Research Objectives
+## Research Objectives
 1.  **Multimodality:** To implement a Fusion Architecture combining CNN (EfficientNetV2) for image processing and MLP for clinical metadata.
 2.  **Fairness by Design:** To apply a Data-Centric AI approach by integrating underrepresented skin tones to mitigate racial bias.
 3.  **Explainability (XAI):** To implement Grad-CAM visualization, ensuring the model's decisions are clinically relevant and interpretable.
 
-## 📅 Project Timeline & Milestones
+## Project Timeline & Milestones
 | Phase | Milestone | Status | Completion Date |
 | :--- | :--- | :--- | :--- |
 | 1 | Literature Review & Problem Definition | ✅ Completed | Oct 15, 2025 |
@@ -18,7 +18,7 @@ This research project addresses the critical issue of algorithmic bias in automa
 | 5 | **Iteration 2:** Multimodal Fusion Dev | ⚠️ Integration Challenges | Nov 14, 2025 |
 | 6 | **Final:** Transfer Learning (ImageNet) + Grad-CAM | ✅ Success (~62% Acc) | Nov 18, 2025 |
 
-## 🛠 Methodology & Justification
+## Methodology & Justification
 ### 1. Architecture Selection
 We selected a **Late Fusion** architecture.
 * *Justification:* Unimodal (image-only) models fail to capture the clinical context used by dermatologists. Combining structured data (age/sex) mimics real-world diagnostic procedures.
@@ -31,23 +31,23 @@ We utilized **EfficientNetV2B0** pre-trained on ImageNet.
 We merged HAM10000 with Fitzpatrick17k.
 * *Justification:* To actively counter the "fair skin bias" inherent in standard medical datasets.
 
-## 📂 Repository Structure
+## Repository Structure
 This repository documents the entire research process:
 * `/docs` - Research proposal, survey instruments, and draft reports.
 * `/notebooks` - Code evolution. Contains both the final successful model and previous experimental iterations.
 * `/data` - Processed metadata CSV files used for training.
 * `/results` - Visual evidence of model performance (Accuracy graphs, Grad-CAM heatmaps).
 
-## 🚀 How to Reproduce Results
+## How to Reproduce Results
 1.  Open `notebooks/final_multimodal_fusion.ipynb` in Google Colab.
 2.  Upload the CSV files from the `/data` folder to your Colab session.
 3.  Run the cells sequentially. The script automatically handles image downloading and processing.
 4.  Execute the final cell to generate the XAI (Grad-CAM) visualization.
 
-## 🧪 Experiments & Code Evolution
+##  Experiments & Code Evolution
 This repository contains the full history of our code development, demonstrating the iterative research process:
 
-### 📂 `/notebooks`
+###  `/notebooks`
 * **`v1_baseline_unimodal.ipynb` (Initial Draft)**
     * *Approach:* Attempted to train a simple model on images only.
     * *Result:* Low accuracy (~20%). The model failed to generalize due to the small dataset size and lack of clinical metadata.
