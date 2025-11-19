@@ -1,0 +1,2202 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization
+FITZ_e783339,e783339effbc628d8b5392db27ba6716,akiec,histo,45.0,male,back
+FITZ_8cb31aa,8cb31aa81fca4e58aad1a07e8e9a06ce,akiec,histo,50.0,male,back
+FITZ_184d4c8,184d4c82d2d715ccc299db11357ea24c,akiec,consensus,45.0,male,face
+FITZ_f5d4119,f5d4119aa4334fce797396a081e0686d,akiec,histo,60.0,male,back
+FITZ_6271153,62711536b80f9a897c6d5bde4f320397,akiec,follow_up,80.0,male,abdomen
+FITZ_6abeff8,6abeff81c2df7fe39f0c0dfe688b6969,akiec,histo,35.0,female,upper extremity
+FITZ_2e096f7,2e096f75543e315d8cf1ccf1ae45ce6a,akiec,follow_up,25.0,male,trunk
+FITZ_8fd4442,8fd4442a2491ef4fe8d17e59a9e15510,akiec,histo,20.0,female,lower extremity
+FITZ_cf5496e,cf5496e725b8060ecd0cc13d63be00e0,akiec,follow_up,50.0,male,face
+FITZ_a418001,a41800186406d09ff17772f3589e2ae7,akiec,histo,25.0,male,abdomen
+FITZ_2b0732e,2b0732e27770e1466ef1a3d918353a69,akiec,histo,45.0,female,back
+FITZ_a7d96aa,a7d96aa10f75ec5c93c09a6bfbbc7fd7,akiec,follow_up,50.0,male,back
+FITZ_226e024,226e024f7a2e67c70cd8e51fdd4edf33,akiec,histo,65.0,female,back
+FITZ_fe43366,fe43366689261c8ccaff1e1ca87ddc05,akiec,follow_up,60.0,male,foot
+FITZ_0c21730,0c21730ed61cd15dc2ad83e5456c77ba,akiec,follow_up,55.0,male,trunk
+FITZ_d7d7980,d7d7980b1fd4fbaf3e14ecfd48c98bdf,akiec,histo,35.0,female,upper extremity
+FITZ_056a9a4,056a9a4fca15486be30ca4c845526b6b,akiec,consensus,40.0,male,lower extremity
+FITZ_9b710ed,9b710ed7f697424f8645ec47db9b03ac,akiec,histo,55.0,male,face
+FITZ_9d2baec,9d2baec802586776659837f2ec7c8116,akiec,follow_up,65.0,female,genital
+FITZ_cdbb509,cdbb50983b24266ce74b5d78b0d5589c,akiec,histo,45.0,male,lower extremity
+FITZ_00c67e6,00c67e6f49ebec99a9db8dc74064cbd3,akiec,histo,10.0,female,back
+FITZ_f23d762,f23d762492106d7cfb3fdb1a3b4c37a6,akiec,histo,60.0,male,trunk
+FITZ_0f98997,0f9899775f4ce2efa31ae2704361db38,akiec,follow_up,55.0,female,unknown
+FITZ_6c17d9f,6c17d9fbcaad3e4db96f91d00618bec5,akiec,histo,45.0,female,upper extremity
+FITZ_9dd7a74,9dd7a74466053926b7ec656b3f8a10d1,akiec,follow_up,35.0,female,trunk
+FITZ_cbe21d8,cbe21d899f4a65ce27c19991565889a1,akiec,histo,60.0,male,upper extremity
+FITZ_b565d1f,b565d1fa267dcf71489723d84cb66506,akiec,histo,40.0,male,chest
+FITZ_3b84306,3b843066b041e22f335a890eae042b2a,akiec,follow_up,45.0,male,abdomen
+FITZ_43e0413,43e04130cc95d9e735a37265decf2636,akiec,histo,70.0,female,back
+FITZ_7571dac,7571dac35d92e2a7398a96ce8287440d,akiec,histo,80.0,male,back
+FITZ_dd3243a,dd3243a389c424fdd01d1aee5cc21926,akiec,histo,70.0,female,abdomen
+FITZ_330f594,330f594ff345fbdd5b58ed187003b067,akiec,histo,80.0,female,back
+FITZ_4caae35,4caae357b8c7b4bc6085936bbaa10740,akiec,follow_up,55.0,male,lower extremity
+FITZ_57f13ec,57f13ecd96dc2ccf73b4ccb9981a91c7,akiec,consensus,70.0,male,neck
+FITZ_7c6643f,7c6643f7a27415231ddcd610f5f17e80,akiec,follow_up,80.0,female,trunk
+FITZ_e63edc9,e63edc9c8c41cc738fad4a6cf90dc9b2,akiec,histo,40.0,male,trunk
+FITZ_44aefdc,44aefdc6bc7f4bc1bbf66f960b6e1985,akiec,follow_up,60.0,male,abdomen
+FITZ_4132a7e,4132a7e048d2d4c5f858423a66ae6b9d,akiec,histo,45.0,male,back
+FITZ_08c31b9,08c31b995b51e21dcb10fb8d900bbaa2,akiec,follow_up,45.0,male,back
+FITZ_18848f2,18848f2fd60a8534d91b20b6da849c53,akiec,histo,25.0,female,lower extremity
+FITZ_185ae0e,185ae0e5acbb25166758dc72e385d3aa,akiec,histo,50.0,male,back
+FITZ_3120a03,3120a03a73c3806bf9e198e242919195,akiec,histo,40.0,male,back
+FITZ_5c40168,5c401681eb1b373ce9d20a8bb1b29422,akiec,follow_up,75.0,male,abdomen
+FITZ_97b6fbc,97b6fbc9f7aed167c17b09b78ffed235,akiec,histo,45.0,female,back
+FITZ_6d8103f,6d8103fe00a1d3d5eccdc9ca1c82bf63,akiec,follow_up,35.0,female,foot
+FITZ_1d87ddf,1d87ddf86f42c4febe29c9b5efcda416,akiec,follow_up,50.0,male,upper extremity
+FITZ_f25f5a5,f25f5a5c007b2ce64cab66fb6037d9d6,akiec,histo,55.0,male,upper extremity
+FITZ_6607d5a,6607d5ae0731bc91e322cc0e26d4f73d,akiec,histo,80.0,female,lower extremity
+FITZ_fa4ed54,fa4ed547ba2ed8055c9d777ee729f70b,akiec,histo,60.0,male,chest
+FITZ_29cec54,29cec54fd4c616bcbc1b0eeb68d8f68b,akiec,follow_up,50.0,male,back
+FITZ_78c42de,78c42deb84b93e5f0e633d88a3f37333,akiec,follow_up,45.0,female,abdomen
+FITZ_3ff13fc,3ff13fc171d4913a78e61506a490aab2,akiec,follow_up,80.0,male,lower extremity
+FITZ_9a69451,9a6945188c02dd2141c1c4660501f74d,akiec,histo,70.0,female,back
+FITZ_5bec7b6,5bec7b68c4b6e5c46953caf631a2cba8,akiec,follow_up,25.0,male,face
+FITZ_8926d45,8926d455016b17296638b119b6962cf2,akiec,histo,55.0,male,lower extremity
+FITZ_f6d7af6,f6d7af6720e60c1c2e304e924c8fa766,akiec,histo,50.0,male,abdomen
+FITZ_9b038a6,9b038a697c4765357a6bacefa1096f68,akiec,histo,70.0,male,abdomen
+FITZ_093fcc4,093fcc49c98d314303ba07aa0d6c1348,akiec,follow_up,50.0,male,lower extremity
+FITZ_4adb2fa,4adb2fa80fc1b77fdf523e07c395084f,akiec,histo,55.0,male,abdomen
+FITZ_cac211b,cac211b988a0695fc15d1a33fb4cb007,akiec,histo,40.0,female,back
+FITZ_e7cb49c,e7cb49cd64f7e1e622afda4938e3b584,akiec,histo,50.0,male,abdomen
+FITZ_47cb1bb,47cb1bb512da0f22002f75e9f158c6e8,akiec,histo,65.0,female,upper extremity
+FITZ_a589f82,a589f826c885576e848a2a4d66235f1f,akiec,follow_up,35.0,female,lower extremity
+FITZ_b2c2253,b2c2253b84792ac44360b51b799fece2,akiec,histo,80.0,female,trunk
+FITZ_30421ab,30421ab67894a095c7cf3d059dd4d977,akiec,histo,35.0,male,hand
+FITZ_ef3e25e,ef3e25ec793d9ae74cb654c60b158680,akiec,follow_up,85.0,female,back
+FITZ_1af9eb6,1af9eb6b01aea02e6459d942c20f3f98,akiec,follow_up,60.0,female,neck
+FITZ_6b8ac39,6b8ac39e81cc6512d79d0edbf519a412,akiec,histo,25.0,male,face
+FITZ_d870e1e,d870e1ebfdd1e22eea5b80a25a8e4cb2,akiec,follow_up,25.0,female,chest
+FITZ_d33000b,d33000ba378f61a583220a7fc0eade81,akiec,consensus,55.0,female,chest
+FITZ_27636e1,27636e10ca656290c8dfc9b238bf5a17,akiec,follow_up,70.0,male,upper extremity
+FITZ_9313cd8,9313cd83e63de37e82a3b69b31776b45,akiec,follow_up,25.0,female,foot
+FITZ_8499362,84993623f4cc766e19b092054f545f6b,akiec,follow_up,60.0,male,abdomen
+FITZ_be7a0fc,be7a0fca0d3ef08aac3427caf387a796,akiec,consensus,85.0,male,chest
+FITZ_7df5463,7df5463a7786a626532df1e434fcd90f,akiec,consensus,35.0,male,abdomen
+FITZ_2b6ea05,2b6ea0581d59b23e033bf2059c2ae6af,akiec,follow_up,50.0,female,back
+FITZ_2b79972,2b7997290f5080c552bd7a9041ca3141,akiec,histo,75.0,female,lower extremity
+FITZ_5b8c122,5b8c122580d078254c8d68273bdb0998,akiec,histo,30.0,male,lower extremity
+FITZ_97ae911,97ae91111b8028ee3ce13d6d2bbe2fc5,akiec,follow_up,35.0,female,lower extremity
+FITZ_e0374ae,e0374ae6c1362ff183cfba28ded5421b,akiec,follow_up,55.0,unknown,back
+FITZ_e923714,e923714f9e9f1efa1b8ba453445e699c,akiec,follow_up,70.0,female,face
+FITZ_b0b5f59,b0b5f5950d2fda0eed8304ea18eef430,akiec,follow_up,10.0,female,upper extremity
+FITZ_4bae18a,4bae18a5cf6f2f211389b5d97f3fe840,akiec,histo,60.0,female,chest
+FITZ_80ce74b,80ce74b194cdbef3f44ffff179c1f912,akiec,histo,50.0,male,trunk
+FITZ_975fab0,975fab05cb8c08459c293ab433080aef,akiec,follow_up,50.0,female,abdomen
+FITZ_f94b06b,f94b06b9dd83db284af0a76a7b49e94c,akiec,follow_up,55.0,female,unknown
+FITZ_cf7bb47,cf7bb4757a021906dc6f9b29bccb31c5,akiec,histo,70.0,female,trunk
+FITZ_dd7b358,dd7b358a3a6d9134abd1271322b5ee99,akiec,confocal,45.0,female,foot
+FITZ_daa62b8,daa62b843848a57cf43017597935af45,akiec,follow_up,40.0,male,back
+FITZ_7063ed5,7063ed50f49bfeb5f95ce401637ac7b8,akiec,follow_up,65.0,male,chest
+FITZ_585de30,585de3087248fafc0600dbeae5cb2692,akiec,histo,25.0,male,abdomen
+FITZ_139b06b,139b06bda340d4dd9b5de96bec4eaad8,akiec,follow_up,45.0,female,unknown
+FITZ_3fbe70e,3fbe70e536d08d96514ce43e1e496a46,akiec,follow_up,40.0,female,upper extremity
+FITZ_a3f5f8e,a3f5f8e2845ee0342da6d6968dffbcec,akiec,follow_up,60.0,female,lower extremity
+FITZ_3c248f6,3c248f623e262cadd1a608642df1934b,akiec,follow_up,50.0,male,lower extremity
+FITZ_c36abe2,c36abe2db70469f33b862a4c7757c2fe,akiec,histo,65.0,female,lower extremity
+FITZ_97d2eb0,97d2eb0a5f487bf6428df978898fff4d,akiec,histo,70.0,female,back
+FITZ_1b50844,1b5084463501e9aa4d58856078f125e8,akiec,consensus,5.0,female,trunk
+FITZ_fdd6daf,fdd6daf1e78c769e6e7ae47246c0aef7,akiec,consensus,45.0,male,neck
+FITZ_739c636,739c636d03d3257e003edc941272d68f,akiec,histo,45.0,female,trunk
+FITZ_46b14e5,46b14e5f085c29e2754a035eb1612089,akiec,histo,35.0,male,lower extremity
+FITZ_b62b758,b62b758e86199928edeb470c25904244,akiec,histo,45.0,female,lower extremity
+FITZ_15ae20e,15ae20e3d92a7416e655443dc94b652d,akiec,follow_up,45.0,male,upper extremity
+FITZ_1744e96,1744e96d318e4d053e925521e69b8ad6,akiec,follow_up,45.0,male,chest
+FITZ_469aefb,469aefba5c7c7d0a4c3b135cefe4ed73,akiec,follow_up,20.0,male,lower extremity
+FITZ_42bc6a8,42bc6a8ccf4a8217798fa5545be2b561,akiec,histo,50.0,female,upper extremity
+FITZ_1186bc8,1186bc81d691487a953153cc0818a28c,akiec,histo,30.0,female,lower extremity
+FITZ_b092336,b09233673fc585369e723ec841ed0acb,akiec,histo,45.0,female,face
+FITZ_8746228,874622847ae2cd9f53171fbc150fdb71,akiec,histo,65.0,male,abdomen
+FITZ_0bb99b2,0bb99b2f270898d179c9fba809e15b41,akiec,histo,55.0,female,upper extremity
+FITZ_8898146,88981464f1de6c3632f3a469727e0961,akiec,histo,55.0,male,back
+FITZ_cb3b1ad,cb3b1adbfffe5ee1ed9c135c0ff7325b,akiec,follow_up,30.0,male,face
+FITZ_f4691ed,f4691ed2d1bddd01e929272db72e22c4,akiec,histo,80.0,male,foot
+FITZ_d426cd0,d426cd06dab461c27fac4964b9865769,akiec,histo,35.0,male,back
+FITZ_fa60f29,fa60f299be44300e85109f587aebfbb3,akiec,follow_up,45.0,male,trunk
+FITZ_6780e84,6780e84c97c2737127f08e25e8242fe0,akiec,follow_up,45.0,female,back
+FITZ_fba7260,fba7260cff0746ea31b54de3d0ab7433,akiec,follow_up,55.0,male,upper extremity
+FITZ_32e185d,32e185d203f0e6b8b0c759fa7e9ce627,akiec,follow_up,55.0,female,back
+FITZ_7f74129,7f7412968370a10d8efd55dc1f8751eb,akiec,histo,45.0,female,abdomen
+FITZ_e23ca96,e23ca962ab4506bf17cfb2174ebb350d,akiec,follow_up,35.0,female,face
+FITZ_0d832e0,0d832e0fc8954df6f599abca35cd881d,akiec,histo,50.0,male,ear
+FITZ_e5edef2,e5edef2961436ce92fb26a7fb9a5a916,akiec,histo,85.0,male,lower extremity
+FITZ_89a7fc0,89a7fc0c590b8437dbf7554ce9676edb,akiec,histo,60.0,female,back
+FITZ_b794858,b7948589620ceb4bdd56002e51d0c0b0,akiec,histo,70.0,male,lower extremity
+FITZ_10cacf2,10cacf2e0873ae8f01f0f13202545ff7,akiec,histo,40.0,male,back
+FITZ_3bb40e7,3bb40e7310c4c6dc1d1e59eb52551afd,akiec,follow_up,75.0,female,abdomen
+FITZ_87b267c,87b267cfaca730eec92b385f6f8199c1,akiec,histo,50.0,female,unknown
+FITZ_a2bcf7f,a2bcf7fd08383c3e53c08d9e7dade2b6,akiec,follow_up,70.0,female,trunk
+FITZ_9fadcc6,9fadcc6923aeb3c4063db94c21b548b9,akiec,histo,15.0,female,trunk
+FITZ_7dabc98,7dabc981c070ef3b157483cc74c78d1a,akiec,follow_up,75.0,female,lower extremity
+FITZ_ce356ad,ce356adb2c23ca1046541ca9011ab701,akiec,follow_up,60.0,male,back
+FITZ_9965621,9965621eb0e381dc51db0ffa0b3033e7,akiec,histo,70.0,female,neck
+FITZ_55e268b,55e268bf2641c7ceeadd9f43ceb55f29,akiec,histo,50.0,female,upper extremity
+FITZ_95189ee,95189ee05b838eae30e5e28a3e2b28cc,akiec,histo,75.0,male,upper extremity
+FITZ_8785763,8785763d2142f4d5fb2cab27018caa18,akiec,histo,45.0,male,genital
+FITZ_2bad4c8,2bad4c856e10e29dcb76b7e1ad11ec51,akiec,histo,70.0,male,unknown
+FITZ_d4b5ff7,d4b5ff78698e3951709d3975b9cd1fd5,akiec,follow_up,60.0,male,back
+FITZ_3be7f19,3be7f195269f4cb0a7d2528223971f44,akiec,histo,50.0,female,lower extremity
+FITZ_200fe2e,200fe2e18a0740f13a871e573c2cee02,akiec,follow_up,50.0,male,face
+FITZ_6e2da28,6e2da28f9169bd9f68f13afaa53f8500,akiec,histo,50.0,male,lower extremity
+FITZ_ff16b28,ff16b28c029963056670f78b0a3d4c6a,akiec,histo,40.0,male,lower extremity
+FITZ_04a6744,04a6744f7ccc81994a58a726bb7636d0,akiec,follow_up,45.0,female,back
+FITZ_3e7cc92,3e7cc92ca80c6803524f926940957f8f,akiec,follow_up,40.0,female,lower extremity
+FITZ_cb7f850,cb7f85053730567e1d4f863fb5f1bdc0,akiec,histo,75.0,male,back
+FITZ_0dd2cb2,0dd2cb24c519040fca7c77ed6609afed,akiec,histo,70.0,male,trunk
+FITZ_10e3db4,10e3db478ab993bbeecea313248c6992,akiec,confocal,60.0,female,lower extremity
+FITZ_6475863,64758634e47d4583b6b2c2e46469fee5,akiec,histo,45.0,female,genital
+FITZ_213936e,213936e7901e7fa1bae80d3df0c4e4c7,akiec,histo,40.0,male,trunk
+FITZ_e72441b,e72441b255003bc02d629502ab1a15b6,akiec,follow_up,30.0,female,trunk
+FITZ_4671abd,4671abd39777720a68af5591bd8cbb17,akiec,follow_up,65.0,male,abdomen
+FITZ_b53ec63,b53ec636f5f8e7b11071d5159d127da0,akiec,follow_up,50.0,male,back
+FITZ_5c9bb8e,5c9bb8ebeeb90ebc169bb299b41466a9,akiec,follow_up,80.0,female,unknown
+FITZ_09890e7,09890e72772d3ca35764342f06c15281,akiec,follow_up,45.0,female,abdomen
+FITZ_68daecb,68daecb39b330760c4faddc47e842c77,akiec,histo,50.0,female,chest
+FITZ_4d62c85,4d62c85e7418437269b3c22b467841bb,akiec,follow_up,75.0,female,upper extremity
+FITZ_b2e953b,b2e953bfa5253045082d15bfc8892b5b,akiec,histo,20.0,male,upper extremity
+FITZ_e38312c,e38312ccf84a0e26adeebb4cb7f9732b,akiec,follow_up,30.0,female,trunk
+FITZ_ad3272a,ad3272a2b434752b68dba1987210b009,akiec,confocal,35.0,female,abdomen
+FITZ_50a5b35,50a5b3518678c84fed613629a0fefeb3,akiec,follow_up,55.0,female,lower extremity
+FITZ_e59bdb7,e59bdb74a1a51eb25815b67ba3369f63,akiec,histo,40.0,male,upper extremity
+FITZ_a95a1fd,a95a1fdfa60c44c42903686bf17acb69,akiec,histo,45.0,male,face
+FITZ_e0fedce,e0fedce02782d3e39feb80fd57380226,akiec,consensus,85.0,male,back
+FITZ_858266d,858266d175faa1b034d19d4257b057fd,akiec,follow_up,80.0,female,back
+FITZ_a5c4f4a,a5c4f4a2536c4183f431aa97d696eb44,akiec,histo,50.0,female,back
+FITZ_af3c985,af3c985f980b54b34337d08ee8b50d0d,akiec,follow_up,15.0,male,lower extremity
+FITZ_2a2b8a3,2a2b8a3357e28cdb445ca00168843970,akiec,follow_up,35.0,male,back
+FITZ_60420b7,60420b7681c5cbc8d4c6a88ec19c2680,akiec,follow_up,45.0,male,abdomen
+FITZ_6e3bca9,6e3bca92f9dec4baa442cec3c10e1161,akiec,consensus,75.0,male,ear
+FITZ_2aa5dac,2aa5dac8b5f87535800796c039a818c8,akiec,follow_up,35.0,male,back
+FITZ_3a2bf30,3a2bf308b3b23c153a64d1cfb46696a8,akiec,histo,45.0,male,lower extremity
+FITZ_aae985e,aae985ea64da012e048edd7dbb75ec21,akiec,histo,85.0,male,lower extremity
+FITZ_d01ee17,d01ee1734e42fb0e876e2b872d0e1145,akiec,follow_up,30.0,male,chest
+FITZ_02471aa,02471aab246d51496fb38fd8650e77f7,akiec,histo,45.0,male,lower extremity
+FITZ_d26b849,d26b849fd202c4a414fd81871e516f8f,akiec,histo,40.0,male,lower extremity
+FITZ_ba66252,ba66252431145c65a4500c85541efa07,akiec,histo,55.0,male,back
+FITZ_d14d5a7,d14d5a7d516cc6e2142e2da1d7bd4af1,bcc,histo,50.0,female,back
+FITZ_8a556d8,8a556d859128eae840cd2c3650819e87,bcc,histo,45.0,female,lower extremity
+FITZ_d33a7ae,d33a7aeb01b93a01a30887eb38ee19f8,bcc,follow_up,45.0,male,upper extremity
+FITZ_bf50a7b,bf50a7b1441576de64d5a5cd44c75c48,bcc,follow_up,70.0,female,lower extremity
+FITZ_95c2deb,95c2deba9f2b97f6f482f0be1c69c0c0,bcc,histo,45.0,male,lower extremity
+FITZ_0a15264,0a152642bc8270880808ab9477846866,bcc,consensus,45.0,male,back
+FITZ_8d8aaf8,8d8aaf80f77278f629697ef2f93d01b5,bcc,consensus,50.0,female,chest
+FITZ_064f398,064f39810e82e6097f9c187f003ede0a,bcc,follow_up,70.0,female,trunk
+FITZ_9dd0c1d,9dd0c1d46a417fa57f686091e213920e,bcc,follow_up,30.0,male,back
+FITZ_84bb739,84bb739a297c4d52efe756a2f398f1da,bcc,follow_up,80.0,female,trunk
+FITZ_11ac867,11ac867b9e3bd555d22a4945ceaffcf6,bcc,consensus,40.0,male,abdomen
+FITZ_ace8245,ace824524daf49082f44882d8659a50b,bcc,follow_up,40.0,male,lower extremity
+FITZ_d42a916,d42a9167697f7c1f6486a799fb863f17,bcc,follow_up,45.0,female,hand
+FITZ_875d767,875d767d2fa63aa3f740d7d19f21e32a,bcc,histo,30.0,male,chest
+FITZ_fa49c5d,fa49c5def9b18a6629d73c63e0255289,bcc,histo,45.0,female,foot
+FITZ_fb32441,fb324416230e80e7a13756a60ac4aef4,bcc,follow_up,50.0,female,upper extremity
+FITZ_ed74e39,ed74e39835213d0c79153d9dcd40b168,bcc,follow_up,75.0,female,lower extremity
+FITZ_850f18a,850f18a45b3fcbcd8b5020cc07273d91,bcc,consensus,30.0,female,upper extremity
+FITZ_5ff2e2c,5ff2e2cbcbb9f92610ec54dca324d149,bcc,histo,70.0,male,trunk
+FITZ_421307b,421307b71f4e267df9fdec5a5c91c67e,bcc,histo,80.0,male,lower extremity
+FITZ_22bcca7,22bcca7d579abf5c2c121c98aa01a4c7,bcc,histo,85.0,female,lower extremity
+FITZ_59c5fd8,59c5fd861d89b4a023e4df0fc57a9b59,bcc,histo,25.0,female,chest
+FITZ_a0fb475,a0fb4759006b0fd3abef5e1d046480ac,bcc,consensus,40.0,male,abdomen
+FITZ_951300e,951300e7c91d96b37e90e00932a7722b,bcc,histo,30.0,male,lower extremity
+FITZ_998ab15,998ab155036c1e9bee491e7f41eb629b,bcc,histo,65.0,male,back
+FITZ_9069774,9069774637223d3e3c1b7663e35e9207,bcc,histo,70.0,female,face
+FITZ_28afda9,28afda98cfe6e58e76e1e011b7424f7c,bcc,follow_up,55.0,male,upper extremity
+FITZ_bbf7ad7,bbf7ad746b18c2968b664e4d0b70b6f8,bcc,consensus,80.0,female,abdomen
+FITZ_e3c7536,e3c75365688405c937c460e674b37a7b,bcc,histo,65.0,male,back
+FITZ_49ed416,49ed416e5f1dc646ecbaf99b23b48095,bcc,consensus,45.0,female,back
+FITZ_6983939,6983939c38cb0d103d2ee332858ee485,bcc,follow_up,60.0,female,chest
+FITZ_ab4abc3,ab4abc3e9ffa363dabdf695e768e9c44,bcc,histo,45.0,female,lower extremity
+FITZ_1bbe451,1bbe4519608f606a18adf1811fd1c051,bcc,histo,35.0,male,chest
+FITZ_bb3d087,bb3d08781eb23890a9909201deed8c85,bcc,histo,70.0,male,face
+FITZ_bc3fd36,bc3fd36c7d32ae2f2961409049e240b4,bcc,follow_up,70.0,female,upper extremity
+FITZ_12cbe66,12cbe66e3a99633092732daf3351b3c2,bcc,follow_up,80.0,male,back
+FITZ_e3e180e,e3e180ecaeadef19fd487caab7655316,bcc,follow_up,45.0,male,back
+FITZ_855a18d,855a18d13f9678703baaef0fff725f4e,bcc,histo,70.0,female,lower extremity
+FITZ_c861de9,c861de9262f7289ad4b5730f7ec2a28a,bcc,histo,40.0,female,upper extremity
+FITZ_4a42c72,4a42c72a20a24c80ee1d43aca4a1e498,bcc,histo,55.0,female,chest
+FITZ_6cffc54,6cffc5468287dbcd08d253d0dd512dc5,bcc,follow_up,85.0,male,chest
+FITZ_ac8651d,ac8651d882e7b28e886479882460b900,bcc,consensus,40.0,male,abdomen
+FITZ_7270099,7270099b2bb8e4b2454a5e23c5c8960b,bcc,histo,75.0,male,foot
+FITZ_f6e6065,f6e60656f07352aa4b604fd121c7b8a6,bcc,follow_up,55.0,male,lower extremity
+FITZ_2fffc03,2fffc030779c4f39555af05bd6131e03,bcc,follow_up,45.0,female,upper extremity
+FITZ_849d862,849d862189a58f44a063ee6ba1a80b1b,bcc,histo,30.0,male,scalp
+FITZ_60c20c7,60c20c7458e1a508b96bd1dec2702e3b,bcc,follow_up,40.0,female,trunk
+FITZ_a18693f,a18693f7fc1cf91848857da05da1efb6,bcc,histo,30.0,male,upper extremity
+FITZ_17e506f,17e506f1cde9d7898f116fd532c4e4a6,bcc,follow_up,75.0,male,back
+FITZ_3887855,3887855c8303e3c019d89f384140a9f9,bcc,histo,15.0,male,back
+FITZ_518264d,518264d189db5695195a516892b7a3f0,bcc,follow_up,70.0,male,foot
+FITZ_ac79340,ac79340a5e752f4fd0ee3888ade0b735,bcc,follow_up,35.0,female,upper extremity
+FITZ_3875c96,3875c968bfb44ad137180f3b944132c2,bcc,histo,60.0,male,abdomen
+FITZ_439bb57,439bb574cde699bdfba6fdb28e2a79ef,bcc,histo,40.0,male,back
+FITZ_c02bd8d,c02bd8d61feda28f1cf90efb126b5b1a,bcc,histo,55.0,male,back
+FITZ_0fd4f7d,0fd4f7d195dd7b1355d2389d8b2ed1dc,bcc,follow_up,40.0,female,back
+FITZ_6fbf42c,6fbf42c93073d3b18c3a5df584110122,bcc,follow_up,40.0,male,upper extremity
+FITZ_af9d45b,af9d45b023176c21ca2981915e033219,bcc,histo,55.0,female,abdomen
+FITZ_ec434ee,ec434ee7ba467dd5ec5a4b87fd515e29,bcc,histo,40.0,female,back
+FITZ_6d9d3d6,6d9d3d6ab99f09c25d9c2042b303d167,bcc,histo,55.0,female,back
+FITZ_3fe6884,3fe688434b98e1f3cdfb1deb1adc1dbc,bcc,follow_up,55.0,male,lower extremity
+FITZ_02b1a2a,02b1a2a60d2b3b6b2e5d15d1f48eab33,bcc,histo,35.0,male,trunk
+FITZ_220357a,220357a155bc3297e3f140d7b447348c,bcc,follow_up,25.0,male,foot
+FITZ_ac9bb3a,ac9bb3ab57b87b0d02453fb4fd291157,bcc,histo,20.0,female,back
+FITZ_624ea46,624ea4699ff36103f7eb2c040b4933fe,bcc,histo,35.0,male,lower extremity
+FITZ_9f3e74e,9f3e74ee111f2eaec8e4f23fa6ec1b67,bcc,histo,75.0,male,abdomen
+FITZ_f240402,f2404024ad9adf7355a5363efe418567,bcc,consensus,35.0,female,trunk
+FITZ_52514f7,52514f7abd18bb524279c10943916512,bcc,consensus,40.0,female,abdomen
+FITZ_10ed2d0,10ed2d0e269bb1a60f466fef6cdf367b,bcc,follow_up,70.0,male,face
+FITZ_6291ff3,6291ff38493700eccb9816dc3586cd17,bcc,follow_up,35.0,female,upper extremity
+FITZ_032b3ad,032b3adb839c23047aedc87707ff978e,bcc,follow_up,50.0,female,back
+FITZ_acd3aa9,acd3aa9405d92f6395ae33cfbc9e32f0,bcc,histo,75.0,male,abdomen
+FITZ_8aafd44,8aafd44ba6e441f308962a6844c60b66,bcc,histo,65.0,female,upper extremity
+FITZ_399d923,399d923af5d3a27f638f0292ca0c3d7f,bcc,follow_up,40.0,male,abdomen
+FITZ_06447e1,06447e1b664fcc93d61c9a0effc50f27,bcc,follow_up,85.0,male,back
+FITZ_44501b6,44501b66878c664dcc464ac40ba90211,bcc,histo,10.0,female,trunk
+FITZ_9209a4b,9209a4be6a83500ae0c536cc16386284,bcc,follow_up,55.0,male,trunk
+FITZ_d95c392,d95c392d3e9ee2f7adbd7ddbda21d686,bcc,consensus,45.0,female,trunk
+FITZ_a9de540,a9de5402ce212bd50fbc1c0484b2d7d2,bcc,follow_up,75.0,female,abdomen
+FITZ_0e6bfff,0e6bfff557daaf8554f3107d05cd921f,bcc,consensus,55.0,male,lower extremity
+FITZ_dbc4723,dbc4723c22330a15613ebc8281d4565a,bcc,follow_up,30.0,female,abdomen
+FITZ_f6ccdc5,f6ccdc5b72ec1c8360ca3625c6caae82,bcc,consensus,45.0,female,back
+FITZ_19e7cad,19e7cad902144cb742b342bb82b395eb,bcc,histo,55.0,male,upper extremity
+FITZ_4eff46b,4eff46ba9c97e429dc688f530a4e5fbc,bcc,histo,60.0,male,abdomen
+FITZ_1a0c9c2,1a0c9c273d706d38e5a25149e0a37971,bcc,histo,50.0,female,chest
+FITZ_6472c26,6472c26e82d307a0929503604f91bcac,bcc,histo,30.0,male,trunk
+FITZ_98c8c17,98c8c173707c296687a67fade1e0cc5b,bcc,follow_up,40.0,female,trunk
+FITZ_42bb46c,42bb46cb779b95f10e531e2b6181e439,bcc,histo,40.0,male,back
+FITZ_c5d35b4,c5d35b4740eb83ed02bfa93966de2276,bcc,histo,65.0,male,back
+FITZ_c6b6b5c,c6b6b5cddf46b913a5faecf6c3b49f05,bcc,histo,10.0,female,abdomen
+FITZ_2537f56,2537f560e93ab84301b020f3433c088f,bcc,histo,45.0,female,lower extremity
+FITZ_1a440e5,1a440e59ff14cf1461796f7b3b58844b,bcc,histo,70.0,female,trunk
+FITZ_8f00177,8f00177862cb143ca7effe4d6f57a104,bcc,histo,50.0,male,back
+FITZ_4938b2e,4938b2e7e1d3eb8465e779d83a705dff,bcc,follow_up,65.0,male,lower extremity
+FITZ_1b1a8cf,1b1a8cfbe054b2fa9895a08644a10e28,bcc,histo,40.0,male,upper extremity
+FITZ_f1a8ee8,f1a8ee83b4685293766735b551acea9b,bcc,histo,60.0,female,trunk
+FITZ_4f0f726,4f0f7269f00d59e3d47fc6ad5e8cbda2,bcc,histo,50.0,female,trunk
+FITZ_4774398,4774398105aa32b8d004b499ccbf5633,bcc,histo,70.0,female,back
+FITZ_5b80aba,5b80aba14b5caf42e854d17d3cdf2df2,bcc,histo,25.0,female,chest
+FITZ_13135f4,13135f44ed77ea527b70db862a83bd61,bcc,histo,35.0,female,upper extremity
+FITZ_344cf83,344cf83a64c8312aa83a952f87ede69e,bcc,consensus,20.0,male,genital
+FITZ_89867fe,89867feafae04841becf921893861722,bcc,histo,25.0,male,back
+FITZ_9b470af,9b470afe41438bbf127bcff35591a461,bcc,histo,85.0,female,upper extremity
+FITZ_3b7e06d,3b7e06dda645a02dca6abfc20a02c4b5,bcc,histo,65.0,female,back
+FITZ_63a6b11,63a6b1136f9d27d8a2cdb4c88e3bf99d,bcc,histo,75.0,female,lower extremity
+FITZ_2f330a2,2f330a206b1b7c37b1d82dfd04e25e04,bcc,histo,50.0,female,upper extremity
+FITZ_7912ab0,7912ab0cf1c1a04708f78e68ebee8d34,bcc,histo,85.0,male,trunk
+FITZ_2d924a5,2d924a5a87ebe16ae171aa19ae304f5b,bcc,histo,35.0,female,trunk
+FITZ_59590ce,59590ce6f167203c6478ee52d775e8e5,bcc,histo,50.0,male,trunk
+FITZ_6726665,67266657fb927c2a00a1da2ac535a3ce,bcc,follow_up,50.0,female,back
+FITZ_989def5,989def5053f967a52780018e95c65b09,bcc,histo,55.0,male,upper extremity
+FITZ_8756c0c,8756c0cf6831bd5dadb7a2a50dcf4077,bcc,histo,30.0,female,lower extremity
+FITZ_01ba602,01ba602def4506d8bfd5900cccd2ab4d,bcc,follow_up,20.0,female,upper extremity
+FITZ_f576c38,f576c38e09eb3ecc24e6326eb3a881f1,bcc,consensus,30.0,male,chest
+FITZ_06c3129,06c312978164d6cc204751b5d7bea2f8,bcc,follow_up,50.0,female,scalp
+FITZ_5e7d0cf,5e7d0cf1d8901eea8361b2be45a6fec2,bcc,histo,70.0,male,lower extremity
+FITZ_2dbfde7,2dbfde719030684dfeb4475ada20ef66,bcc,histo,60.0,female,back
+FITZ_e10a182,e10a18206ceaefd148ed1fec42054dd4,bcc,follow_up,70.0,male,lower extremity
+FITZ_782e232,782e232de169de8134de4ef7b2cf5b66,bcc,histo,50.0,male,abdomen
+FITZ_16c089e,16c089e04436faa844be84aba9d0179a,bcc,follow_up,25.0,male,chest
+FITZ_80e45e3,80e45e3f57a4c7003a5b80d46975897a,bcc,histo,65.0,male,trunk
+FITZ_67c9271,67c9271813f07f5311e2cb435a817403,bcc,follow_up,60.0,male,upper extremity
+FITZ_4e66d9b,4e66d9b65b4bf81189a9777167bc78ec,bcc,histo,35.0,female,lower extremity
+FITZ_de24cc0,de24cc0b5dc20eccdd67e7a60c8a1fa9,bcc,follow_up,65.0,female,neck
+FITZ_f08034a,f08034a69a57680dbe4521f6e913ba22,bcc,histo,70.0,male,lower extremity
+FITZ_7945721,794572175ce2487d073bcbd2d62f2743,bcc,follow_up,65.0,male,back
+FITZ_99c3570,99c3570d8e954271883159615e7ccbff,bcc,histo,75.0,male,back
+FITZ_861205f,861205f569d0f00f0695f079bf1ec296,bcc,histo,35.0,male,lower extremity
+FITZ_d4e34cb,d4e34cb55c84345465f5e931ec4e014e,bcc,histo,50.0,male,trunk
+FITZ_acd650a,acd650a29294e11114a43014d39fcd1c,bcc,follow_up,40.0,male,back
+FITZ_3f5585b,3f5585b2050389844a621e34f98dc191,bcc,consensus,40.0,female,trunk
+FITZ_62def66,62def66062d6648a61d4003c4b8ddfd2,bcc,follow_up,35.0,male,back
+FITZ_dbb854f,dbb854f5cf3cc3ebf4912e860da2efc7,bcc,histo,50.0,male,abdomen
+FITZ_ddae49c,ddae49c6b9f879444bfcdd1e6abd8325,bcc,histo,25.0,female,back
+FITZ_63d45ab,63d45ab797b56c3f56e8b4bb32d4aac1,bcc,follow_up,35.0,male,upper extremity
+FITZ_a613f79,a613f7932b3012eeff5ace8e062e5c05,bcc,histo,40.0,female,upper extremity
+FITZ_82158cd,82158cd3f9176568df93075f082f178d,bcc,histo,55.0,male,back
+FITZ_6b8443f,6b8443f997a29f08833996007cf7b10d,bcc,follow_up,30.0,female,back
+FITZ_7b2417d,7b2417ddf1a9d8f3fa5a7989d1b45c86,bcc,consensus,40.0,female,scalp
+FITZ_735dbc3,735dbc37793f6e7200b54898591fd31f,bcc,follow_up,45.0,male,lower extremity
+FITZ_0ca7391,0ca7391635dab0884c85a1d929e723aa,bcc,follow_up,25.0,male,back
+FITZ_41af897,41af89709e2ded0b92e2c6bf0787cb13,bcc,consensus,35.0,male,face
+FITZ_7e6c56b,7e6c56b7130f902c4a7ee3a5ac8860e4,bcc,histo,60.0,female,trunk
+FITZ_740692c,740692c63bd9548c20fd137692455bb7,bcc,histo,55.0,female,abdomen
+FITZ_4517c65,4517c65b158e114b9f6326c027d5e0e7,bcc,follow_up,50.0,female,upper extremity
+FITZ_f09c390,f09c390a5c161dae5c0f1d47a48dfcfa,bcc,consensus,25.0,female,foot
+FITZ_9d83cf9,9d83cf9b9cc4a03580de63b62ea2a8f0,bcc,follow_up,40.0,male,abdomen
+FITZ_688ac2b,688ac2ba9aff76f589c14be2813f9d5f,bcc,follow_up,50.0,female,lower extremity
+FITZ_cdb9d51,cdb9d51cd1835796a6f898537693ee69,bcc,histo,20.0,male,trunk
+FITZ_4abcc08,4abcc083990e6408c7936f204a913a81,bcc,follow_up,70.0,male,back
+FITZ_9828078,98280785c17860f879d21525a92af31f,bcc,consensus,45.0,female,lower extremity
+FITZ_692291f,692291fbe26955598d023a64256383dd,bcc,histo,45.0,female,upper extremity
+FITZ_c501135,c50113547f82a9ad4d3ce4dc0972a698,bcc,follow_up,35.0,male,lower extremity
+FITZ_b1ef894,b1ef89446212681c2eac7dde82654133,bcc,follow_up,40.0,female,upper extremity
+FITZ_8762fce,8762fce8f5074f4b742bd8c69b83330b,bcc,histo,75.0,male,upper extremity
+FITZ_3b0a859,3b0a85962bfea9a937d4619ef7e3ea37,bcc,histo,40.0,male,abdomen
+FITZ_13b24f8,13b24f877270a05937f4c80fff693b04,bcc,follow_up,30.0,male,upper extremity
+FITZ_0e80299,0e802991cd0257f69f62adedb41152f8,bcc,consensus,30.0,female,back
+FITZ_dabb7b1,dabb7b14d2d6adc6b3a5a87aaa0238b2,bcc,follow_up,45.0,male,lower extremity
+FITZ_635cdb6,635cdb6a1cd94c714c8c393adb7c3ac1,bcc,follow_up,45.0,female,face
+FITZ_883f86d,883f86d67408c70ab89b9c54a3118cd4,bcc,follow_up,35.0,female,upper extremity
+FITZ_b02abb6,b02abb6e18e64ffd99083dcf884ad75a,bcc,follow_up,65.0,female,hand
+FITZ_6ed58ed,6ed58ed2e4c8b378493cd5766f7bad56,bcc,follow_up,70.0,female,face
+FITZ_20ae00f,20ae00ff7ebdbc67170b2dc89b68320c,bcc,follow_up,40.0,female,trunk
+FITZ_ff7fc62,ff7fc623af53e40e882be0c85c8b6877,bcc,follow_up,50.0,female,back
+FITZ_da81b04,da81b0441ab66a8c3f55489a0d8a9572,bcc,histo,55.0,male,back
+FITZ_cd2ce29,cd2ce2950537aa3b8996035ead991d2b,bcc,histo,50.0,female,abdomen
+FITZ_6231826,62318269e0e3e839c5d063ad8d8676b2,bcc,histo,80.0,male,lower extremity
+FITZ_4ab6234,4ab6234ead6b243165c53ad33b708d12,bcc,histo,50.0,female,face
+FITZ_516b8ed,516b8ed8e7db3a27e68118aac9191fb5,bcc,histo,50.0,female,lower extremity
+FITZ_cc51c69,cc51c6979e02359fea44e4c7eeb4aee5,bcc,consensus,35.0,male,abdomen
+FITZ_45a0207,45a0207eae8a4305c1030a9ead023953,bcc,follow_up,75.0,male,lower extremity
+FITZ_e668628,e668628ce95135ab58957a41687fa659,bcc,histo,45.0,male,upper extremity
+FITZ_5217732,521773286f1d292e0cdcf5c1354fc0ea,bcc,histo,35.0,male,lower extremity
+FITZ_be96f63,be96f6317def92f5e2464c84ebda5b50,bcc,follow_up,50.0,female,lower extremity
+FITZ_521bec8,521bec867654c32d592f32f9256c5704,bcc,follow_up,70.0,female,unknown
+FITZ_75d9082,75d9082e5e87d5776c563bc924965b18,bcc,follow_up,50.0,female,lower extremity
+FITZ_edaf72d,edaf72dfe0910228db8eb491ed9dc2b3,bcc,consensus,70.0,male,trunk
+FITZ_dd1d61f,dd1d61f452b3cef90fff6d200ad675a5,bcc,follow_up,40.0,male,back
+FITZ_3bf3afa,3bf3afa6c145d67e06f6e839b1699a2d,bcc,histo,75.0,male,lower extremity
+FITZ_275c30d,275c30d6007c0e989da6e99f899ac20b,bcc,histo,55.0,male,upper extremity
+FITZ_e48d91b,e48d91bb0d6ce9221b89b9662fce4473,bcc,histo,70.0,female,face
+FITZ_6cdf268,6cdf26807d52792218193f5bce1a8567,bcc,histo,45.0,female,unknown
+FITZ_ebcf2b5,ebcf2b50dd943c700d4e2b586fcd4425,bcc,follow_up,70.0,male,foot
+FITZ_c5ebb84,c5ebb84482a21015073cebc37b31f515,bcc,follow_up,85.0,male,back
+FITZ_bcb7326,bcb7326b02e64d66b66f7f8b503c4250,bcc,follow_up,75.0,male,abdomen
+FITZ_ac82b00,ac82b001c4a7158056790b014728b5e9,bcc,histo,85.0,male,back
+FITZ_1cfd418,1cfd4183faea0843fb7be3e3c106c943,bcc,histo,50.0,male,trunk
+FITZ_77512d4,77512d4a352e4055a313c0e931a96aba,bcc,histo,45.0,male,trunk
+FITZ_8c39f64,8c39f641d7cc2d5df257143a854b28ad,bcc,histo,70.0,female,back
+FITZ_6eab970,6eab97097e17ebb49078b6f45c9f185a,bcc,consensus,35.0,male,lower extremity
+FITZ_34f2d6c,34f2d6c11c3118413a4e23bc1a6b8992,bcc,histo,75.0,female,chest
+FITZ_e82cda3,e82cda3eeecc9ba74ba226cc1f8efc38,bcc,histo,35.0,female,face
+FITZ_7cc6621,7cc6621d7d99fcca1f0bf2b6bd3043fb,bcc,histo,55.0,male,trunk
+FITZ_b394018,b394018dd777aaf58edc5504b52ed1b7,bcc,consensus,75.0,female,unknown
+FITZ_286ea55,286ea551a105d965fcc718e447932479,bcc,follow_up,40.0,male,lower extremity
+FITZ_83167c5,83167c5a26bd4a459c381834ecf97558,bcc,histo,70.0,female,abdomen
+FITZ_414d1ba,414d1baaee908089a3c09143507d5fd8,bcc,histo,50.0,male,back
+FITZ_a635c17,a635c175e16ecb941617a1f263139b95,bcc,histo,45.0,female,face
+FITZ_9fd62a1,9fd62a1923f391578254a8b7c05229a9,bcc,histo,30.0,male,back
+FITZ_0e55b54,0e55b54825db2d67edecfe12d01144a6,bcc,follow_up,45.0,male,back
+FITZ_d1ea3ea,d1ea3ea5e8908baf46fc72644eda51c4,bcc,histo,55.0,female,upper extremity
+FITZ_0f9a80f,0f9a80fc4b30ce96e2440e1a67cd31d2,bcc,follow_up,60.0,female,abdomen
+FITZ_dc02b8b,dc02b8bab10a4ce35a00ee4dba2b51ea,bcc,histo,80.0,female,lower extremity
+FITZ_fb7c974,fb7c974e189e0dc9cbd83e2d22835e94,bcc,follow_up,85.0,male,abdomen
+FITZ_b4d8bec,b4d8bec23e7dd5dfde93e9632f317ea7,bcc,follow_up,65.0,male,back
+FITZ_804c20d,804c20da98db71680bd8d6ed0299fcac,bcc,histo,15.0,male,back
+FITZ_91865b4,91865b45a367c49a4ee9d990322d4947,bcc,confocal,75.0,female,upper extremity
+FITZ_11ff0a5,11ff0a5d68ae06faa047fe33425b6953,bcc,histo,40.0,female,trunk
+FITZ_658e06c,658e06cda94514a21bb7610f49f525cb,bcc,consensus,85.0,unknown,neck
+FITZ_b18b6e0,b18b6e010b16dcee28deb5160b13b1e1,bcc,follow_up,40.0,male,chest
+FITZ_21a8b19,21a8b19f40009c5473c80977bf9efbf4,bcc,follow_up,55.0,male,back
+FITZ_95e4e2e,95e4e2ee44567f284171a4f368a7aecd,bcc,follow_up,45.0,female,trunk
+FITZ_961f066,961f0669f23e82f0a4fbd12de80e14b8,bcc,consensus,40.0,female,abdomen
+FITZ_6356561,6356561c31f7f041f30e0bf9f96e4372,bcc,histo,55.0,male,abdomen
+FITZ_91c13b3,91c13b3c952550f97adc320b51b10557,bcc,histo,35.0,male,face
+FITZ_61dc5a8,61dc5a89e18cc03cdc9594a18bfe3c84,bcc,histo,85.0,male,trunk
+FITZ_5532bbc,5532bbc902f5d50f6f8a972016bcf04f,bcc,follow_up,75.0,male,lower extremity
+FITZ_45119bc,45119bcf9dab198dfdfa04b14736c240,bcc,histo,45.0,male,back
+FITZ_9f0704d,9f0704d534bda1e469eb5e19bd4aa4e6,bcc,histo,55.0,male,lower extremity
+FITZ_1809435,18094354afbe15ab6966e9d23858acd3,bcc,histo,75.0,female,back
+FITZ_185942f,185942f8efd8a8c00a3b7b42096f458b,bcc,follow_up,40.0,male,back
+FITZ_c780727,c78072771a39d4d94d0430cf8ec6dab3,bcc,histo,35.0,female,lower extremity
+FITZ_38f5a1f,38f5a1f21c8256dc3af93a54b62a8a41,bcc,follow_up,70.0,male,abdomen
+FITZ_1f8ce7c,1f8ce7c9eee7929c5f18fa64134f0551,bcc,histo,75.0,male,back
+FITZ_a1d96df,a1d96dfd1897917119021000c1f9a5af,bcc,follow_up,80.0,female,face
+FITZ_b6d0b5d,b6d0b5d92783a7e1d273eeebd91a8bff,bcc,histo,85.0,female,lower extremity
+FITZ_019fde7,019fde7f8b6aa85f6f0a653707d9aa06,bcc,consensus,10.0,female,upper extremity
+FITZ_60a66b9,60a66b9e5dba0b5aa3542b82d997b44c,bcc,histo,45.0,male,chest
+FITZ_6b174a5,6b174a5db8261270d5620a19f78898c8,bcc,histo,30.0,female,trunk
+FITZ_16da44c,16da44ca4bd3c77321401f8f4ae82138,bcc,histo,60.0,female,foot
+FITZ_4213b1f,4213b1f75d491c3b253975caed41d6de,bcc,histo,50.0,female,upper extremity
+FITZ_be7bead,be7bead78fed91bdc5056a70246ed703,bcc,consensus,45.0,male,abdomen
+FITZ_0fe16f6,0fe16f60d42c04ba809fd70085a11b50,bcc,follow_up,30.0,male,lower extremity
+FITZ_64ad852,64ad852dc5e267ec279e02f7ec0b7307,bcc,histo,30.0,female,trunk
+FITZ_5832419,5832419baf0cbfefcac35578a40fa5a5,bcc,histo,35.0,female,back
+FITZ_2cc4769,2cc47698a46f2371a31a5a5a547de03a,bcc,follow_up,40.0,female,lower extremity
+FITZ_09df230,09df23048c17d2d5d298ea991a762a7b,bcc,histo,40.0,female,lower extremity
+FITZ_bef06bd,bef06bdd8c19ecbcc0d6c5598878ffae,bcc,histo,45.0,female,trunk
+FITZ_2dc262a,2dc262a2cfe7ec4b3d15971b9b391808,bcc,histo,55.0,female,lower extremity
+FITZ_9e9056f,9e9056fd822eb40e875da5573b284c7e,bcc,histo,65.0,female,upper extremity
+FITZ_d70a167,d70a1677a855b45e2049e3f08f47f153,bcc,histo,45.0,female,trunk
+FITZ_aae474e,aae474e9c797f5bd5cd7956b479e6622,bcc,histo,50.0,male,back
+FITZ_5199cce,5199cceebe2d23bbae855ea7dda2418b,bcc,histo,35.0,male,abdomen
+FITZ_966ee4e,966ee4e919b56e4275755f9ec9cfc676,bcc,histo,40.0,male,abdomen
+FITZ_46cfd1a,46cfd1a77dfc44893b3166eca5f5514d,bcc,consensus,75.0,female,lower extremity
+FITZ_db87141,db871411820979160cb098e6453399ce,bcc,follow_up,45.0,female,upper extremity
+FITZ_e853570,e853570597d53d361cc70868ada1a07b,bcc,follow_up,65.0,female,back
+FITZ_250e855,250e8552aca769e9e33e753f50423bda,bcc,histo,40.0,female,abdomen
+FITZ_ee71a2f,ee71a2faae114b91878f7460a0ce9d6f,bcc,histo,75.0,male,lower extremity
+FITZ_76c6ff5,76c6ff58a8babae647dcc37ea074939d,bcc,histo,65.0,female,foot
+FITZ_4f528bf,4f528bf1928eb2aeb6fea903ef744a55,bcc,histo,5.0,male,back
+FITZ_9cc65e5,9cc65e527c182ae53fb7570790171f0c,bcc,follow_up,65.0,male,ear
+FITZ_1899a65,1899a650833c9dce36fe8d7da87b2755,bcc,consensus,45.0,male,back
+FITZ_9255b18,9255b18c770f58de26221d16839fadb2,bcc,histo,55.0,male,lower extremity
+FITZ_af98116,af98116844cc81ff8cceaaba707315af,bcc,histo,75.0,male,lower extremity
+FITZ_0ea04f0,0ea04f0f86df742d1ab4850a61c888ba,bcc,histo,35.0,female,back
+FITZ_68cd6c2,68cd6c2474a38716c149a5e76d383703,bcc,histo,55.0,female,lower extremity
+FITZ_aba2c3e,aba2c3ec9c4fba92da45793c80e87a2c,bcc,follow_up,40.0,male,back
+FITZ_a2ec892,a2ec8926634557d70aa984c446b774b1,bcc,follow_up,30.0,male,trunk
+FITZ_a72ce77,a72ce770400ce35db667f4cef6295192,bcc,follow_up,45.0,male,back
+FITZ_9a2703b,9a2703b526c057a1563b6579cb3024fa,bcc,histo,35.0,female,lower extremity
+FITZ_a5a3555,a5a355561aa62dd374d3bd2e52926d66,bcc,follow_up,55.0,female,face
+FITZ_dec2d1a,dec2d1ae044897a3eae71fae8a9bc154,bcc,follow_up,75.0,female,trunk
+FITZ_9907ba6,9907ba6ff299b804f3c440b5bf0d7dc5,bcc,follow_up,15.0,female,back
+FITZ_c22dfb4,c22dfb448848253cc53435cdb23c1271,bcc,follow_up,35.0,male,lower extremity
+FITZ_32f9baf,32f9baf164c8c1ced611cba6def3b2d8,bcc,histo,45.0,female,lower extremity
+FITZ_0c0700f,0c0700fc7177d09e2df0c6658288cf8f,bcc,histo,55.0,male,trunk
+FITZ_cbe2462,cbe2462ea2735fda74acfb882295cad9,bcc,histo,45.0,male,back
+FITZ_8c2d0ea,8c2d0eae8d6a28c6447947de236648dc,bcc,consensus,65.0,male,back
+FITZ_0055bbe,0055bbe758e1f61904d462d966c5520e,bcc,follow_up,50.0,male,upper extremity
+FITZ_e3b5c99,e3b5c9993cd0e73962762d295213d05f,bcc,histo,45.0,female,lower extremity
+FITZ_ee55ddd,ee55ddd3005fc2d998337343c5da8be5,bcc,consensus,65.0,female,trunk
+FITZ_fb11cc0,fb11cc09b9df6abad072d5e45f2d45c5,bcc,consensus,60.0,female,lower extremity
+FITZ_7297014,7297014b0c70456e5bae9b3d0c846bfe,bcc,consensus,40.0,female,genital
+FITZ_67de8c6,67de8c6b48d080d216e000a2d970645b,bcc,follow_up,50.0,male,back
+FITZ_b6efb8e,b6efb8e75edeefb2a3bf2069e41fcac4,bcc,consensus,50.0,female,upper extremity
+FITZ_c84a877,c84a8774938c008cb188779efa58dd16,bcc,histo,70.0,female,back
+FITZ_3a25489,3a2548935342032a9aff94b776e31c1d,bcc,consensus,60.0,male,face
+FITZ_45e35db,45e35db618b244432264b132c2dc6c59,bcc,histo,45.0,male,face
+FITZ_4442aec,4442aec61aba4663d4810c0786ed86c8,bcc,follow_up,45.0,female,back
+FITZ_0639e79,0639e79ac41e8de5cceee9f84b729b0e,bcc,follow_up,50.0,female,trunk
+FITZ_0b283a4,0b283a47352d88ab55257c9fce2d3603,bcc,histo,60.0,female,trunk
+FITZ_2fb9993,2fb99937ca6b73a7902fbd118e056d92,bcc,histo,25.0,female,hand
+FITZ_af64774,af64774e30b2dc701e3f2a88348a78dc,bcc,follow_up,50.0,female,abdomen
+FITZ_aac1291,aac12918e020bed883f2eb321dac661e,bcc,histo,65.0,male,neck
+FITZ_5d07648,5d07648c809dcaca09feef5c856ed3ed,bcc,histo,35.0,female,lower extremity
+FITZ_437159c,437159c605260bdd079af230566af291,bcc,consensus,30.0,male,lower extremity
+FITZ_fdb5f19,fdb5f19a252508ddc849272975161099,bcc,histo,70.0,female,chest
+FITZ_63c66f1,63c66f12f7358540ad83f37f109c2a83,bcc,consensus,65.0,male,lower extremity
+FITZ_c67d42e,c67d42e5e91434bea27c8063d8cf3964,bcc,histo,25.0,male,lower extremity
+FITZ_44c91c1,44c91c12f8b40bdad75905d0a51553e8,bcc,consensus,50.0,female,lower extremity
+FITZ_d65fdc3,d65fdc32c79ea26ffaaeb7204efc0223,bcc,histo,40.0,female,face
+FITZ_8d94801,8d94801522438510b44bbfa73fd4a541,bcc,follow_up,40.0,female,back
+FITZ_543017d,543017d891174b7fe9443a4dfa537410,bcc,follow_up,45.0,male,lower extremity
+FITZ_e9ad55d,e9ad55d2f13c5dbada7b02cb369c7849,bcc,histo,20.0,female,back
+FITZ_a2898cb,a2898cb754e221b22d10680ffffbe9a1,bcc,histo,60.0,male,trunk
+FITZ_10cbd07,10cbd07a7f2e658a27f31eac2ae17269,bcc,histo,5.0,male,upper extremity
+FITZ_2bceb03,2bceb0364ef64fe3ef5236db2cfbe02a,bcc,histo,75.0,male,back
+FITZ_cb9baa2,cb9baa2c3e0255370714b9736e24d3a6,bcc,histo,45.0,male,foot
+FITZ_acb264b,acb264b31d70f98301b812a134879bbf,bcc,histo,75.0,male,foot
+FITZ_8cb3945,8cb3945cf58f8e5540208408a50b5827,bcc,histo,40.0,female,back
+FITZ_72430e8,72430e826363a44a2f9d5dd7e88aed64,bcc,histo,45.0,male,back
+FITZ_082e748,082e7482504084c98c2262a38b0ecbd3,bcc,follow_up,85.0,female,back
+FITZ_137e440,137e4409b39d92e3884100c87d7fdf6a,bcc,follow_up,55.0,male,back
+FITZ_90022c2,90022c24071c11e07fee084bc45d5262,bcc,follow_up,50.0,male,neck
+FITZ_b7ccee8,b7ccee8c91bd6ecd6d7ce5b66e4513c2,bcc,histo,80.0,female,back
+FITZ_08a9599,08a95993fb93e265c4120e9ad88cc326,bcc,follow_up,50.0,male,back
+FITZ_5f1a4d8,5f1a4d80fdc87563f3cc7174241c3477,bcc,histo,35.0,male,face
+FITZ_c7aac9b,c7aac9b9850c541b1cf2619c7cec8d06,bcc,histo,70.0,male,scalp
+FITZ_ea2d3af,ea2d3af76bbd9961ebd38d47af57ac47,bcc,histo,50.0,male,foot
+FITZ_c558af1,c558af11b54f8c7789a2a0b0bff1826f,bcc,follow_up,75.0,female,face
+FITZ_2a40e05,2a40e05f47c6754d9f2ba7707d8f5cde,bcc,histo,50.0,male,unknown
+FITZ_cf3d226,cf3d2262e2ddccfee4641197f689e6dd,bcc,histo,40.0,male,genital
+FITZ_375fb0b,375fb0b667a132850089bb99ab896972,bcc,histo,65.0,male,lower extremity
+FITZ_218ea23,218ea232ca4b0255a395886ee86cbada,bcc,histo,40.0,male,trunk
+FITZ_570bb03,570bb039a6f13ce828d8a1551623a513,bcc,histo,75.0,male,lower extremity
+FITZ_7cd58d1,7cd58d112f623644c0914d53b1e99d5c,bcc,follow_up,30.0,female,upper extremity
+FITZ_2c55416,2c55416b24b17cbfc05fc156f8c97ae4,bcc,histo,40.0,female,lower extremity
+FITZ_41dffc4,41dffc4224be2a0a9b2b31243755b1ae,bcc,histo,85.0,male,ear
+FITZ_ee63778,ee637782bb19282cff0a55b7b0edb871,bcc,histo,75.0,female,back
+FITZ_e11d8a5,e11d8a5581a737afa24b5da28b0ebe5b,bcc,histo,20.0,female,unknown
+FITZ_a4df5fa,a4df5fa2bab38ee98922e0fbc586b93f,bcc,follow_up,50.0,female,trunk
+FITZ_7868910,786891098d43f04f9f2370bb7c614321,bcc,histo,55.0,male,back
+FITZ_9d6fc07,9d6fc0774c68a7caec5d86148bcba524,bcc,consensus,35.0,male,back
+FITZ_0ac16a5,0ac16a51ecec3c5fc464706a72c81db2,bcc,follow_up,80.0,male,upper extremity
+FITZ_70a0b05,70a0b051fb01abcd5cdd01bf8b6aa5da,bcc,follow_up,55.0,male,back
+FITZ_23b55a0,23b55a045c5f88159ce54f69df645c5f,bcc,histo,45.0,female,foot
+FITZ_a3b979d,a3b979dc226529d318f5dae79f5548fb,bcc,follow_up,75.0,female,upper extremity
+FITZ_6be528e,6be528e219f8ce45c9782e2b05ae3c24,bcc,histo,70.0,female,trunk
+FITZ_6abd190,6abd190e1ce339a018ef0776f530678f,bcc,histo,35.0,male,trunk
+FITZ_d2c77aa,d2c77aa81ca884f99174471132bd3e24,bcc,follow_up,45.0,male,trunk
+FITZ_46d0b60,46d0b60ab14b134341ad87bae08e4755,bcc,histo,30.0,male,trunk
+FITZ_6996802,69968020bf7744ffa3c0caf7d4d01ca6,bcc,follow_up,70.0,male,trunk
+FITZ_a607cc0,a607cc074aa116f50c08cfae72c5a147,bcc,follow_up,45.0,female,upper extremity
+FITZ_84d8616,84d8616020e202285cb4b5505d18541b,bcc,follow_up,50.0,male,back
+FITZ_95ac125,95ac125ff5c616b972d9be4419f2a7a6,bcc,histo,65.0,male,back
+FITZ_e433c63,e433c638effeb97a769362917b7827d0,bcc,follow_up,40.0,female,upper extremity
+FITZ_da5c274,da5c274e15de5f5d36f0f880d577d3bb,bcc,follow_up,55.0,female,back
+FITZ_053a5ee,053a5ee87f2fc71f07e99a25fd379210,bcc,histo,75.0,female,scalp
+FITZ_915d7fa,915d7fa381560d5b77f1e37cd1c37206,bcc,histo,75.0,female,upper extremity
+FITZ_1695bd1,1695bd10a336ec55c2ef289b51b8b43a,bcc,confocal,45.0,male,upper extremity
+FITZ_30fd701,30fd701054b889dcde3c3632585fd523,bcc,histo,75.0,female,back
+FITZ_3c8898c,3c8898cea81673fe523d75dc4a4c0d2d,bcc,follow_up,85.0,male,neck
+FITZ_92f8f7f,92f8f7f3126dbb65a601e1734fe4d8c8,bcc,histo,50.0,male,trunk
+FITZ_40c5672,40c567216c3762b0d364abb3f718e9b9,bcc,follow_up,55.0,female,unknown
+FITZ_7200dfb,7200dfb344d1c161b36c83598445e35d,bcc,histo,70.0,male,upper extremity
+FITZ_e2d0f7a,e2d0f7a666d346a7f149185b23a42483,bcc,histo,85.0,female,lower extremity
+FITZ_5423e2d,5423e2d3ad68054e7b51e27e146fddca,bcc,follow_up,25.0,female,back
+FITZ_9464630,94646305d86635230c4eb1763bb043bc,bcc,follow_up,65.0,male,back
+FITZ_7091705,7091705f9c33843e3a354eee3895e958,bcc,histo,80.0,female,upper extremity
+FITZ_40b9006,40b9006b90679ab5560ebe3ce1a589a1,bcc,histo,35.0,male,unknown
+FITZ_70b99a1,70b99a1005a08821fd9b9c48d7e8e698,bcc,histo,55.0,female,trunk
+FITZ_76a5da8,76a5da87f72f5712243ff4bcf52337b6,bcc,histo,60.0,male,chest
+FITZ_ddbe1c3,ddbe1c3f36e36d3e2c884742ce576279,bcc,histo,55.0,female,back
+FITZ_4658f75,4658f75d78bcfa7ee4ba67e24acf8289,bcc,histo,55.0,female,lower extremity
+FITZ_e4935b8,e4935b8adee2f49d77b7e906047db5c9,bcc,consensus,70.0,female,abdomen
+FITZ_b5a8be0,b5a8be0c4808c2b192bed85fe0d5706e,bcc,histo,55.0,male,trunk
+FITZ_6323e7b,6323e7bf168cb3f170902b24cd05e8c4,bcc,follow_up,35.0,male,abdomen
+FITZ_ee9728f,ee9728f1e771a1922abe13af66282b41,bcc,histo,65.0,male,foot
+FITZ_a7821ca,a7821ca7a0f65f9095a61d66c234f683,bcc,histo,45.0,female,trunk
+FITZ_c8e35e3,c8e35e39c4662af6d64bb1d937ab048b,bcc,histo,30.0,female,abdomen
+FITZ_0185043,018504389f4fa566232eb6e3ff838cb8,bcc,follow_up,50.0,male,face
+FITZ_ce61852,ce6185287c4b9aabd353be048b379f22,bcc,histo,50.0,female,trunk
+FITZ_d285b21,d285b21fff5ae6aa95600e1c9064b8f8,bcc,histo,50.0,female,lower extremity
+FITZ_c11dc05,c11dc056d43c21dde17846610f0f89e8,bcc,histo,45.0,female,trunk
+FITZ_7aa128d,7aa128d60de3bc2ab010d87cf3bd6ad7,bcc,follow_up,40.0,female,abdomen
+FITZ_8237558,82375585ff47e3738a54447e43b613f2,bcc,follow_up,70.0,male,lower extremity
+FITZ_79aaed8,79aaed87b0076030d5e6893bff164476,bcc,follow_up,75.0,female,face
+FITZ_e0674b6,e0674b69da176c57feada6db80a6af09,bcc,histo,50.0,male,neck
+FITZ_70a8a40,70a8a40f55e900e60a42054326f62e28,bcc,histo,70.0,female,back
+FITZ_2d88a3f,2d88a3fa67aa761b65e280c2e14c68c3,bcc,follow_up,45.0,female,lower extremity
+FITZ_524aaeb,524aaebd1cc57cbc543f8f1c499615d4,bcc,histo,80.0,male,back
+FITZ_4914fa9,4914fa9dae16b9762acae30d0349ad85,bcc,follow_up,45.0,male,trunk
+FITZ_d2e96d3,d2e96d346577a155b0125dda66b16395,bcc,histo,55.0,female,trunk
+FITZ_ff27aa2,ff27aa2fa61a28227ed8e2866eb9cbd1,bcc,histo,5.0,female,upper extremity
+FITZ_bba3db5,bba3db5954f7975d59a37347222d954d,bcc,follow_up,35.0,female,lower extremity
+FITZ_88e4962,88e49623b7d05cee8a59abc21d4a2aac,bcc,histo,50.0,male,unknown
+FITZ_413a896,413a896e96ee3c63962834b0e6498bd4,bcc,follow_up,40.0,female,unknown
+FITZ_190822f,190822f2e75490299428db99d2f34486,bcc,histo,25.0,female,chest
+FITZ_9838b65,9838b6548e7842a1c228e9548a32099c,bcc,histo,45.0,female,trunk
+FITZ_63f2efe,63f2efe8aab42d66f08a223d21b79f9d,bcc,histo,25.0,female,unknown
+FITZ_6fcaf3c,6fcaf3c1ecef5a938bf70ae2b6ed24f6,bcc,histo,45.0,female,trunk
+FITZ_c3b96b6,c3b96b61412f2004d8c5a281ce9ffcd3,bcc,histo,40.0,female,face
+FITZ_f563de4,f563de4c84fed5c664de85aa37d72f16,bcc,follow_up,65.0,female,lower extremity
+FITZ_5f58348,5f5834848e3b14da13ede7598b0d644b,bcc,consensus,70.0,female,lower extremity
+FITZ_31ef169,31ef1691003e2135a9e796254d596d64,bcc,histo,55.0,female,trunk
+FITZ_67ae5e2,67ae5e29e6130fd512620df5116193eb,bcc,follow_up,45.0,female,face
+FITZ_c3833af,c3833afba496feeb4153ed76ff2da85d,bcc,confocal,40.0,male,trunk
+FITZ_32402e8,32402e8c62ef1a1d67723e10a356335b,bcc,histo,65.0,female,face
+FITZ_3b290d2,3b290d262098f761d719aa07cf36c040,bcc,histo,50.0,female,abdomen
+FITZ_5d25c66,5d25c6673ea2d8b1268f9b644723843d,bcc,follow_up,35.0,male,face
+FITZ_c819e82,c819e82dc15ddf2d0ceb08515f303123,bcc,histo,45.0,female,neck
+FITZ_da29e01,da29e015fe50cf3edacae2dbc223a868,bcc,follow_up,65.0,female,abdomen
+FITZ_0ef0d6f,0ef0d6fa3124b76205a8d514b22fafaa,bcc,follow_up,60.0,female,abdomen
+FITZ_063e848,063e8484c60d38b357b37f20054a32c7,bcc,follow_up,70.0,male,back
+FITZ_7468d62,7468d62b08cd2e5dd9433527bfe0143e,bcc,consensus,80.0,female,lower extremity
+FITZ_7361437,736143719650b30bb48965ee67c3ee4e,bcc,histo,45.0,male,hand
+FITZ_8d0d972,8d0d9724e46caa4b82829e70e672fd1f,bcc,histo,70.0,male,abdomen
+FITZ_dfc8499,dfc849919c7f749a42f6059f927eb82f,bcc,histo,25.0,male,back
+FITZ_ae0f57a,ae0f57af6ace4b075703d55ff00f2574,bcc,consensus,30.0,male,face
+FITZ_660f8ea,660f8eabfd38d964b474def9b7d640c3,bcc,follow_up,35.0,male,back
+FITZ_9ca9d8e,9ca9d8e0946f6d8598daad6770b5581f,bcc,consensus,25.0,female,abdomen
+FITZ_3a94ec8,3a94ec88b1b1ef09ff93f7d5f619d879,bcc,follow_up,85.0,female,ear
+FITZ_172f146,172f14659765abda1c123e9bb8c511c9,bcc,follow_up,70.0,male,trunk
+FITZ_8befc3a,8befc3a0c8600e273977e3a8888a802f,bcc,follow_up,30.0,male,lower extremity
+FITZ_bf74c80,bf74c80811a674d498e6fc30eada833c,bcc,histo,50.0,male,back
+FITZ_04672ea,04672ea146d9dbc081cf63c160c7dfa0,bcc,follow_up,50.0,female,neck
+FITZ_3889e11,3889e119deceb3e9f6b0719ad9431086,bcc,histo,45.0,male,lower extremity
+FITZ_d250615,d2506151428601cd8566330c781f82e0,bcc,follow_up,50.0,male,upper extremity
+FITZ_e1673c9,e1673c9de5483c8f06c57d9b8b6a99df,bcc,histo,45.0,female,neck
+FITZ_9c50598,9c505985a3ac619b4562e20e8d1b2933,bcc,follow_up,40.0,female,scalp
+FITZ_6e923b1,6e923b13c1fd768eca8b3000ff6101f8,bcc,histo,80.0,male,face
+FITZ_f63bcee,f63bcee2007b22d4faa707508d819781,bcc,histo,50.0,male,abdomen
+FITZ_4d43d8e,4d43d8ea8c6102ec7d6c66dcf0e78006,bcc,follow_up,40.0,male,lower extremity
+FITZ_3486bb9,3486bb9f5a4ad3006519845196bca697,bcc,follow_up,75.0,male,trunk
+FITZ_11002a9,11002a9c39999ab4a7beed083ca113d8,bcc,follow_up,50.0,female,unknown
+FITZ_f44f345,f44f3454329e674663e68da31c24e674,bcc,histo,60.0,male,back
+FITZ_47d2cf8,47d2cf8ad5e2a8f673060480a1c3462f,bcc,consensus,65.0,female,back
+FITZ_855091d,855091d4e9e28177eddbe7528da50f52,bcc,follow_up,30.0,female,hand
+FITZ_e2b108e,e2b108ec0b0d9df5ad536cfde4fb543f,bcc,histo,50.0,female,trunk
+FITZ_ba7238a,ba7238a41b59c7c34af5702047039833,bcc,follow_up,45.0,female,back
+FITZ_6bc3cb3,6bc3cb3a8500f1fb22684028b720a032,bcc,follow_up,60.0,female,lower extremity
+FITZ_9a5f998,9a5f998ab51a9b43f16b21b25aaf96a8,bcc,histo,40.0,female,back
+FITZ_89fec58,89fec580f8f8f7bab2f4199ff2234e7f,bcc,follow_up,85.0,female,abdomen
+FITZ_4981320,4981320ef16be15730f7fce6207c9f88,bcc,follow_up,30.0,female,trunk
+FITZ_0eeedaa,0eeedaab444d95748536ae2d4764c3ac,bcc,histo,40.0,female,back
+FITZ_6a72724,6a727240423e70d739921e7ca293cbdc,bcc,follow_up,70.0,female,upper extremity
+FITZ_5add954,5add954298359b4281d027a5e03e2bd6,bcc,histo,50.0,female,trunk
+FITZ_c4019e6,c4019e6a8693ad04c1df4949518aaf2d,bcc,histo,55.0,female,lower extremity
+FITZ_ce8b4ab,ce8b4abaeb52e4499341e7c5ad2de039,bcc,consensus,65.0,female,abdomen
+FITZ_34eb782,34eb78207519afd3d4835e52a67218d5,bcc,histo,75.0,male,foot
+FITZ_3cd463a,3cd463a67a89b87959f1ef9e987c50d5,bcc,histo,25.0,male,abdomen
+FITZ_72a203a,72a203a8ac092bf38134a81b608c005c,bcc,follow_up,45.0,female,foot
+FITZ_e2578e8,e2578e85c48471e76706a9eb6f3ab16d,bcc,follow_up,50.0,female,back
+FITZ_ffd7f00,ffd7f005115373b98a9a19ebae1ee863,bcc,histo,55.0,female,back
+FITZ_badbfab,badbfab4e0fe826cade1351c9e3405a3,bcc,follow_up,65.0,female,chest
+FITZ_94937a8,94937a8ab45b71486731a59c5e5448e4,bcc,histo,60.0,male,face
+FITZ_6e2b2c6,6e2b2c6a1b8b749644259934a898a375,bcc,histo,45.0,male,chest
+FITZ_45faa12,45faa12ef71900861d9a6d3d448035f2,bcc,consensus,60.0,male,face
+FITZ_2dc5c70,2dc5c700e1ba2c10091d84c7c8818a7a,bcc,histo,75.0,male,trunk
+FITZ_93c3ccc,93c3ccc320820c1ea641dc6244f03109,bcc,histo,35.0,female,unknown
+FITZ_296ec47,296ec4776e89a65ce8e262ed545ed4bb,bcc,histo,55.0,male,lower extremity
+FITZ_4ea4ab5,4ea4ab5f3ef5e7f1b8b422eaff3066f6,bcc,histo,50.0,female,face
+FITZ_910c7ae,910c7ae0e80a50e2774cf4b166378b18,bcc,follow_up,50.0,female,lower extremity
+FITZ_4aba045,4aba04560b6a2bf126c128be1fc4a417,bcc,follow_up,40.0,female,back
+FITZ_658a744,658a7441448655ad189b84645fdef0ac,bcc,follow_up,35.0,male,upper extremity
+FITZ_6946d50,6946d50ada3bbfc10a3df8f5c0223b47,bcc,confocal,40.0,male,foot
+FITZ_eb8fc90,eb8fc90c6716f948a533986727bca286,bcc,histo,70.0,male,lower extremity
+FITZ_900c572,900c572691e399d8bf78d5bd1f8a74a7,bcc,histo,35.0,male,trunk
+FITZ_dd43abc,dd43abce22fa616ad8f39ba85461b9ce,bcc,follow_up,55.0,female,abdomen
+FITZ_e54daa4,e54daa4b483474920f81739c264c1efc,bcc,histo,55.0,male,lower extremity
+FITZ_7775a59,7775a597ee681b47cd1b0aff8a72f2c5,bcc,histo,35.0,male,abdomen
+FITZ_1dcc2fb,1dcc2fb45c366dafbb1f45c0e8afd3bd,bcc,consensus,60.0,female,back
+FITZ_a4d86ff,a4d86ff0f5c85e2fe204ece83b710f1a,bcc,histo,25.0,male,lower extremity
+FITZ_e89c396,e89c3964e21e13fbd832f844f6a2bc6e,bcc,histo,50.0,female,trunk
+FITZ_edf35e6,edf35e6b539a3e45719abf48ea368744,bcc,histo,70.0,female,back
+FITZ_8dff440,8dff4409431ca7a83a108fa35ec2959d,bcc,follow_up,65.0,male,trunk
+FITZ_39caa21,39caa210f24486000791251976b55f08,bcc,follow_up,85.0,female,trunk
+FITZ_e2ec3ed,e2ec3ed300a3bae68e03b1a3f5992c5f,bcc,follow_up,85.0,female,face
+FITZ_f420eb7,f420eb73f0b50a89b5fddccc85796062,bcc,follow_up,65.0,female,lower extremity
+FITZ_3a99a52,3a99a5259471f5fee1d4db0d2067b413,bcc,consensus,45.0,male,lower extremity
+FITZ_9d0ac05,9d0ac0581b79c21928705c61bc05a636,bcc,histo,25.0,female,lower extremity
+FITZ_4c73141,4c731419c06a0d56f81cb03929783d38,bcc,histo,70.0,female,face
+FITZ_1c5adfd,1c5adfdbc1c9bda0bc57c328a0ed4b35,bcc,follow_up,45.0,female,abdomen
+FITZ_593c544,593c544bf75684c898826405ab9b3971,bcc,consensus,50.0,male,scalp
+FITZ_d96a857,d96a857ee0300968debe100bdf7d6e24,bcc,consensus,65.0,male,foot
+FITZ_4ce7ce8,4ce7ce893e106e74c0be70b7e3190355,bcc,histo,70.0,female,back
+FITZ_12fee8f,12fee8f83ba4accfc58f4dc964a2b7cc,bcc,follow_up,40.0,male,abdomen
+FITZ_2d49aa5,2d49aa5627d63fd067eb6f705065dbe3,bcc,histo,50.0,male,back
+FITZ_f34329e,f34329eba4bb2a5eb9bdc7d2b9ae6fcb,bcc,histo,50.0,female,trunk
+FITZ_b913934,b913934059b41d32282034a891466afb,bcc,follow_up,85.0,female,lower extremity
+FITZ_507263a,507263a5f78fa973dc27c6cee096a1bc,bcc,follow_up,50.0,male,trunk
+FITZ_c3cd918,c3cd9180e228bbfdef3576ccbbf8ae9e,bcc,histo,35.0,female,upper extremity
+FITZ_ac09be6,ac09be61655dbfbe6f1cb239b4379522,bcc,histo,50.0,male,trunk
+FITZ_0d582df,0d582dfe778f718b94bd58195433eb47,bcc,follow_up,40.0,male,trunk
+FITZ_b0cd8c1,b0cd8c1027cc87f02dadb783c347dabc,bcc,histo,35.0,male,back
+FITZ_8ef5d5a,8ef5d5a7bb6885ec41ec53df40fbfee7,bcc,histo,45.0,female,back
+FITZ_88f832c,88f832ca8663565a1cc99507213b194d,bcc,histo,30.0,male,abdomen
+FITZ_2c658f5,2c658f5384d52f4c0943335694b10fc0,bcc,follow_up,50.0,female,upper extremity
+FITZ_a4bb4e5,a4bb4e5206c4e89a303f470576fc5253,bcc,histo,65.0,male,lower extremity
+FITZ_eafb972,eafb972a77674171d9bc9d3f5e34b14f,bcc,follow_up,55.0,female,back
+FITZ_de1ea15,de1ea15218edff0e29e0a0c4b18acef3,bcc,consensus,40.0,male,lower extremity
+FITZ_58f8a6e,58f8a6ea4d65b0c235565a6f0dab1643,bcc,histo,50.0,male,chest
+FITZ_fac2418,fac24183c8bb25e3f3221dcc4421b95f,bcc,follow_up,45.0,female,back
+FITZ_c3311f9,c3311f93b2393069480a7d54b42b75c0,bcc,follow_up,20.0,male,face
+FITZ_7937e70,7937e706bf8c198bad6f337ac0f1296c,bcc,histo,55.0,male,chest
+FITZ_9289853,9289853db2501ac7d600ec0fc713cf5a,bcc,histo,75.0,female,chest
+FITZ_c8adb00,c8adb004ca533f6be5fb1a83acc7515e,bcc,histo,75.0,female,scalp
+FITZ_125369d,125369d0260cf8e84641341e80678436,bcc,histo,60.0,male,face
+FITZ_3e31ac6,3e31ac6eb572d47fa7dcf890d6c16dc6,bcc,histo,65.0,female,lower extremity
+FITZ_71b67be,71b67be202663f843f95b5f409b358e4,bcc,follow_up,65.0,male,trunk
+FITZ_44ab470,44ab470249555e7936c6bf6f196f0292,bcc,histo,75.0,male,back
+FITZ_6e7bfd0,6e7bfd02ac7b8fb2c8497250d6f7ce82,bcc,histo,30.0,female,unknown
+FITZ_f1768f1,f1768f126b20979695dfd986ba5ec740,bcc,follow_up,25.0,male,lower extremity
+FITZ_a07a483,a07a48332fa6c0b2c5614d8377c6b86f,bcc,histo,50.0,female,lower extremity
+FITZ_31a8db3,31a8db3e9da7907512beaa575d638be4,bcc,histo,55.0,male,lower extremity
+FITZ_6bd32d6,6bd32d6620c8b17674547ebd9fc112f5,bcc,histo,35.0,male,unknown
+FITZ_865eb4d,865eb4dc2f13c93b8537f281fb68b6f5,bcc,histo,65.0,female,trunk
+FITZ_43d7ea1,43d7ea1cae8cfa3f6a9f7ac73e7d1479,bcc,histo,65.0,male,chest
+FITZ_68064a8,68064a802e353660f323bc42c2eb67e7,bcc,follow_up,50.0,male,abdomen
+FITZ_30e6f94,30e6f943452facf1ffbed708e645f4b8,bcc,histo,35.0,female,face
+FITZ_0a5c591,0a5c59128959230b7b3005d277a7c8e6,bcc,histo,60.0,female,abdomen
+FITZ_576faa7,576faa7eb74b377212e11c85847c41fb,bcc,histo,60.0,male,lower extremity
+FITZ_074e696,074e696e6cdf066eabf5b68d957487c9,bcc,histo,55.0,female,back
+FITZ_6c76dd4,6c76dd4272bca93a132fbcbd7500877a,bcc,histo,5.0,male,face
+FITZ_51c066c,51c066c6dcf0d10fc8bc867b77fb2d16,bcc,histo,25.0,female,back
+FITZ_99aa6f5,99aa6f56fa29834fb0086965da35fb11,bcc,histo,5.0,male,lower extremity
+FITZ_3148e06,3148e06be77894f760bf482fe7e6f2e5,bcc,follow_up,65.0,female,upper extremity
+FITZ_cee1515,cee1515c2a95ad0ba3d8ef577439feaa,bcc,follow_up,50.0,male,chest
+FITZ_2526f45,2526f45c72e51e324cc70a56faa9616a,bcc,histo,45.0,female,lower extremity
+FITZ_b7bef6a,b7bef6a70726af17d4945654d94e413a,bcc,histo,15.0,female,trunk
+FITZ_d9c204f,d9c204f6e15a59b6fc1af7ebb36b2ea4,bcc,follow_up,50.0,male,back
+FITZ_6d2fb27,6d2fb27bbaf2691ea85fa2ad7f334060,bcc,follow_up,50.0,female,abdomen
+FITZ_a5ada31,a5ada31a7c9cfbc58ff478d092a015b6,bcc,follow_up,55.0,male,lower extremity
+FITZ_589f48c,589f48c7090ead494b0cea65d960d9d9,bcc,histo,45.0,female,face
+FITZ_2acfb24,2acfb2445e28ad5daacb391257171611,bcc,follow_up,30.0,female,abdomen
+FITZ_4072794,40727941934994bc194e5c8a8a2bd99e,bcc,histo,55.0,female,upper extremity
+FITZ_d94908c,d94908c34e1ae46ff12e1a87accfd529,bcc,histo,40.0,male,trunk
+FITZ_534efa4,534efa4991400aa326f3ddadbe961225,bcc,follow_up,80.0,female,lower extremity
+FITZ_3310c8f,3310c8f8bb1c974cbf1a3e33969ef039,bcc,histo,55.0,male,abdomen
+FITZ_ae5dbb5,ae5dbb5d80c5ccff3104ffe0221639e8,bcc,follow_up,55.0,male,genital
+FITZ_42bd014,42bd014b8d42437fbb9849ae52d00e5d,bcc,histo,15.0,male,lower extremity
+FITZ_84e0052,84e0052d39fb4df649679f0106fe05bb,bcc,consensus,55.0,female,lower extremity
+FITZ_1550241,15502416617d675ef40e3e358fbcb74c,bcc,follow_up,40.0,female,unknown
+FITZ_418d009,418d009435bf224eef9a07097696a305,bcc,follow_up,30.0,female,face
+FITZ_d66bf5d,d66bf5de79446335d16025eac09bf65e,bcc,follow_up,30.0,male,trunk
+FITZ_1d5f5e2,1d5f5e2acb325eef27470722488a7e44,bcc,histo,30.0,female,abdomen
+FITZ_e5c82d2,e5c82d28f05a70b9d9a85a6c9f087976,bcc,follow_up,60.0,male,trunk
+FITZ_2a10c3a,2a10c3a61da65ed775ea0e5b7c767472,bcc,follow_up,60.0,female,abdomen
+FITZ_bfc941f,bfc941f033368a818af29b3afebcb47b,nv,follow_up,40.0,male,back
+FITZ_b506b13,b506b138e7eb2bd034f44b8fa3879ec1,nv,consensus,15.0,male,face
+FITZ_6f59826,6f5982607821a7d3ed421e37447be61d,nv,histo,45.0,male,upper extremity
+FITZ_67a5980,67a5980c2855fb037a812e716dc911ca,nv,histo,35.0,female,lower extremity
+FITZ_4f385ab,4f385ab88233e751897478048ed6ff85,nv,histo,40.0,female,lower extremity
+FITZ_49635d6,49635d65d9bc4f7d605f912397ffb3ff,nv,histo,45.0,female,lower extremity
+FITZ_d52c33f,d52c33f0ce4c9947fc062f4c95ab50f2,nv,histo,35.0,female,lower extremity
+FITZ_dd1fbd4,dd1fbd4548204025098aa9b7489ae169,nv,histo,75.0,female,back
+FITZ_f7e5563,f7e5563617222a2c2e7c8451b0e2c342,nv,follow_up,40.0,female,lower extremity
+FITZ_d1603db,d1603db4f4b5efc013984ee9bcaa6b06,nv,histo,20.0,male,upper extremity
+FITZ_7fa9516,7fa9516f572bf13cb7536fdcd6218c3e,nv,histo,35.0,male,back
+FITZ_3d2be48,3d2be4881ff91259398649e3fc6fd399,nv,histo,70.0,female,face
+FITZ_6a4b03f,6a4b03f7cf0e7b6fcc018ea929e4acd5,nv,follow_up,45.0,male,lower extremity
+FITZ_4eb7991,4eb799199c491b819bf1068cac715d7d,nv,histo,25.0,male,back
+FITZ_dee91df,dee91df31211c000479ccabce17807b9,nv,histo,60.0,male,lower extremity
+FITZ_5444d55,5444d551df8e1549d7b1fb51b9a87c2f,nv,follow_up,20.0,male,upper extremity
+FITZ_968e1a5,968e1a5756f64d872387e90182a2babf,nv,follow_up,60.0,male,back
+FITZ_e8f882e,e8f882e1ef0c63548f06ce062136f7a0,nv,histo,45.0,male,lower extremity
+FITZ_cca5d4a,cca5d4acebaa0dc8d0e9ad625084129f,nv,histo,55.0,female,abdomen
+FITZ_70f0fd4,70f0fd4d38ece05739370023a873cc10,nv,follow_up,55.0,male,lower extremity
+FITZ_b9e384f,b9e384f23afb5f3b9312668aebfc342f,nv,histo,65.0,male,back
+FITZ_7edd1ea,7edd1ea64cd58993db33eb7f63c9e23b,nv,histo,45.0,male,abdomen
+FITZ_6adeb96,6adeb96003f09a82eb1ef973b9d157e4,nv,histo,55.0,female,lower extremity
+FITZ_6135408,6135408e7729eb1deb0711446ecc4883,nv,histo,40.0,female,scalp
+FITZ_beef658,beef65842e03df80f6cfadb503fe372b,nv,histo,45.0,female,acral
+FITZ_76f0d1f,76f0d1fce3cc2fa2bb994ceab13bcd44,nv,consensus,75.0,female,lower extremity
+FITZ_71519f7,71519f71874f422ce1725b42cb8f689b,nv,histo,50.0,male,trunk
+FITZ_fd290d1,fd290d16122769606f90056313b37078,nv,histo,65.0,male,chest
+FITZ_f17ef6a,f17ef6aa971a4075cd4e10033b947e89,nv,histo,50.0,male,back
+FITZ_c0a5c44,c0a5c449ab3d9164f7558370210dadfb,nv,consensus,65.0,male,face
+FITZ_d0bfab0,d0bfab00dfa3c2c832ddf9e95ad23075,nv,follow_up,40.0,female,back
+FITZ_731faa2,731faa24d8d0b5dc3b266fdfaa0a3154,nv,histo,30.0,female,trunk
+FITZ_10055ef,10055efa4928f28500cd12510e614faf,nv,histo,65.0,female,abdomen
+FITZ_58e9650,58e9650ff17c44666bc3778762242d67,nv,follow_up,55.0,male,back
+FITZ_029ab44,029ab44da79e21d978697ee30f4dbf18,nv,follow_up,30.0,male,back
+FITZ_55d60f5,55d60f568a6881980a9f4499389ac928,nv,follow_up,50.0,male,trunk
+FITZ_870cc15,870cc15be006f854b30fb4959bb54eae,nv,follow_up,45.0,male,lower extremity
+FITZ_8a3f07d,8a3f07df6cf5f88cf06a9a2b0aa35422,nv,follow_up,60.0,male,back
+FITZ_feabe7a,feabe7afd5bf64029cde195e8edad3a5,nv,histo,60.0,male,upper extremity
+FITZ_a141b19,a141b19f10d2ed716b3f34c0c7612fdd,nv,histo,55.0,male,lower extremity
+FITZ_c273d2a,c273d2ad583d0c0d4031734914ca6c76,nv,follow_up,20.0,male,back
+FITZ_7995475,7995475c6fa1b38a709c12c249751ff6,nv,histo,30.0,female,unknown
+FITZ_7fcf488,7fcf488081345e8e4a3b2e3636900f70,nv,follow_up,35.0,male,foot
+FITZ_9b80bb0,9b80bb011a2ae3f741c6c1af12ec34e9,nv,histo,75.0,male,upper extremity
+FITZ_2b40798,2b407981c8bf792b9a0fbd0c8c1b1a99,nv,consensus,80.0,male,lower extremity
+FITZ_8169683,8169683ac60b87ed3de3870d8a5e1c19,nv,histo,80.0,male,unknown
+FITZ_d91f196,d91f1961238599efad26aa8142fb196d,nv,consensus,55.0,male,upper extremity
+FITZ_c2ad409,c2ad4097f6661db4fa3699d09e4d698d,nv,follow_up,45.0,male,lower extremity
+FITZ_f2a275f,f2a275f5f8fe396644e1601abfe356f9,nv,follow_up,40.0,female,foot
+FITZ_33b733f,33b733f4f6ddac886832188b770ce64a,nv,follow_up,45.0,female,foot
+FITZ_3f22618,3f226185baafb9808f99b79de8b7dd2a,nv,follow_up,20.0,male,trunk
+FITZ_5ba8b78,5ba8b780e042f1b8f79e53010df24d9f,nv,histo,35.0,male,back
+FITZ_7414a1d,7414a1d3b0319e921a73b2dbf874b7c9,nv,follow_up,60.0,male,neck
+FITZ_04ff895,04ff8956172642998a8edbcaa0960f09,nv,histo,65.0,male,upper extremity
+FITZ_6b47a0d,6b47a0d5da60cff2e090ac44d1728e25,nv,histo,65.0,female,abdomen
+FITZ_a5b74f0,a5b74f0f8c740b49f46f008db324a096,nv,follow_up,60.0,male,chest
+FITZ_30a0b72,30a0b728b7c6da516439bae2e0b0cf20,nv,follow_up,40.0,female,hand
+FITZ_7094ebc,7094ebc9834c1cbe6991ca9eb6f38c9a,nv,histo,50.0,female,abdomen
+FITZ_c8c63f5,c8c63f5f347e408981de99a00cbd255d,nv,histo,45.0,female,trunk
+FITZ_50e8843,50e884335df0cc38774797b1e3da724c,nv,follow_up,35.0,male,chest
+FITZ_a858300,a8583006eb83757f8a183bb8aef23f14,nv,follow_up,25.0,male,face
+FITZ_ea98d1d,ea98d1de050f9dc7f3dec15022fa51e5,nv,histo,60.0,male,trunk
+FITZ_8d06774,8d06774261b4beba2b6e91ebd76e8981,nv,histo,70.0,male,back
+FITZ_886e41a,886e41a00b7d754d53e7ecd9dec9058f,nv,histo,55.0,male,lower extremity
+FITZ_23298fb,23298fb4037f3307f5a65b9e65d201a5,nv,histo,45.0,female,trunk
+FITZ_1e8e1f5,1e8e1f523ca089efdeffd0244eec6c85,nv,follow_up,60.0,female,scalp
+FITZ_235c6d7,235c6d790fcb524141becab92804a2da,nv,histo,65.0,female,lower extremity
+FITZ_f6fe73e,f6fe73e66c6d27e33da417c8bc431847,nv,histo,35.0,female,upper extremity
+FITZ_0db67ec,0db67ec1711c7ab9d13c8fef53e527ea,df,follow_up,35.0,male,scalp
+FITZ_1ca7a0d,1ca7a0d873e3ebdfbdbe0e22c4d5d485,df,histo,40.0,male,chest
+FITZ_e29dbcf,e29dbcf1fed04e83e9bead565d00ed82,df,histo,75.0,male,abdomen
+FITZ_155d696,155d6961a4ba33aac316c0ed099690fe,df,consensus,45.0,female,lower extremity
+FITZ_86043b1,86043b13f9827619a75240c95ef49d7c,df,histo,70.0,female,lower extremity
+FITZ_a4a41ec,a4a41ecfe71f94927ec8c3bcebb5eb80,df,histo,80.0,female,chest
+FITZ_d15aaf8,d15aaf8aa0c88f984cc03f7baf5a2256,df,follow_up,40.0,male,trunk
+FITZ_e6919d4,e6919d4f7cf524992736b9a0cb7b2589,df,histo,45.0,male,lower extremity
+FITZ_600410c,600410cdc0fcd7be30fbf4f51f92b7cf,df,histo,45.0,female,face
+FITZ_ccbdf86,ccbdf86f338d08dab2803d10d791331d,df,histo,50.0,male,lower extremity
+FITZ_d4745bc,d4745bc61322c928977409d3be613566,df,follow_up,25.0,male,back
+FITZ_66c25b4,66c25b46db5e35e62de1cfa20070563c,df,follow_up,55.0,male,lower extremity
+FITZ_c1310fb,c1310fbed87817cbc010298cba09af2f,df,histo,75.0,male,upper extremity
+FITZ_b39695f,b39695f246374fd531122d6f8e238359,df,histo,75.0,female,back
+FITZ_8a53979,8a539794b96a6bf2b5ae4d1f53d3faa5,df,histo,60.0,female,lower extremity
+FITZ_7c96661,7c966614667a9055f244ea4b32b74a15,df,follow_up,50.0,male,neck
+FITZ_2f6da8d,2f6da8d300aa57e53da36cc3afb59aec,df,follow_up,55.0,female,back
+FITZ_5a11757,5a11757de44e14ee556aa61633aaca25,df,follow_up,35.0,female,lower extremity
+FITZ_eb59c26,eb59c26469a2593257987b77965a6a7b,df,histo,40.0,female,lower extremity
+FITZ_ee1ac61,ee1ac615e11be8151e056da0b12a4ac2,df,histo,75.0,male,back
+FITZ_5ec9109,5ec9109b6b51f49e0dfa8450a5e092be,df,histo,50.0,male,unknown
+FITZ_67ac5bb,67ac5bbaeb3f15071e74a36f64270aef,df,histo,55.0,female,abdomen
+FITZ_5c95b3d,5c95b3d93a9d6649c44b0a275a3a5d64,df,histo,50.0,male,face
+FITZ_cd6ce97,cd6ce97763ba3f98385e83b05aa7458c,df,follow_up,55.0,female,lower extremity
+FITZ_58752b7,58752b78ff77e26b3e0add57ff6811c6,df,histo,55.0,male,back
+FITZ_a9b8d91,a9b8d91729eee474193f0ffe3fbfb9c8,df,histo,45.0,male,lower extremity
+FITZ_f09d722,f09d722b7a405f63f6ae4c1bea67faf4,df,histo,40.0,male,abdomen
+FITZ_ce926e8,ce926e8153b5920e1529b6b11c5c3e86,df,histo,65.0,male,upper extremity
+FITZ_f5b3d65,f5b3d653b90167017440d0fed9ec6859,df,follow_up,70.0,male,lower extremity
+FITZ_21a8563,21a85638fd9420f2dab59c2fdd3ff49d,df,follow_up,80.0,female,back
+FITZ_bc3621b,bc3621be57a0eeaec4b593b7be843ed4,df,follow_up,30.0,male,upper extremity
+FITZ_01bebaa,01bebaa9dd8897bcab5aa8b16a5bfce3,df,histo,30.0,male,upper extremity
+FITZ_002100f,002100fdd81baa28c893ddcde6892e3e,df,histo,35.0,female,face
+FITZ_deb7f91,deb7f9173d96ad9562d8957eccaeb2a7,df,histo,65.0,female,chest
+FITZ_a1a88ed,a1a88ed01d7bb83af84d8f4df1f72744,df,follow_up,50.0,female,face
+FITZ_e654f6c,e654f6c8ac970fe75d7fd45967f5c27a,df,follow_up,40.0,female,upper extremity
+FITZ_f64dc9f,f64dc9f426c207b5cf918983cbeebfc2,df,consensus,40.0,male,back
+FITZ_6c696fb,6c696fbd08a9e2d5cf7d8f47f721738d,df,histo,45.0,female,back
+FITZ_71a893e,71a893ec119b26b689459b8e236276c0,df,follow_up,50.0,male,hand
+FITZ_b2ed578,b2ed578a520fb52a62ca4192c1da4280,df,histo,75.0,female,foot
+FITZ_21e5abc,21e5abcfc50bf608f15a0653418adc35,df,histo,15.0,female,abdomen
+FITZ_44216d8,44216d85579ed13593238bc6bbcde91f,df,follow_up,80.0,male,upper extremity
+FITZ_d4d1b34,d4d1b34e080afe191fa9cd18fd1830d4,df,follow_up,35.0,female,back
+FITZ_d34976d,d34976d2cebb41b26f8cc2bec26f6b64,df,histo,5.0,male,upper extremity
+FITZ_374de22,374de2215f3eb571d87207e5d5089354,df,histo,70.0,female,face
+FITZ_61c220d,61c220d156f4c0cf2acdf5c8a9cc8ab1,df,histo,45.0,male,upper extremity
+FITZ_0335f86,0335f86b43703c613d0678ad8be337b6,df,consensus,30.0,male,back
+FITZ_32e46d3,32e46d3d67fefd90a43e49f084f55349,df,histo,65.0,female,abdomen
+FITZ_5a84d9c,5a84d9c3518bad3403c31fde904acc74,df,follow_up,65.0,male,back
+FITZ_bc3c9dd,bc3c9dd43c061e18fd28bec45d7b04c2,df,follow_up,35.0,male,abdomen
+FITZ_d158f34,d158f3410028e939551a949b4b34a5f0,df,follow_up,70.0,male,upper extremity
+FITZ_763ebb4,763ebb49235a2e20644e8f5a83b94d18,df,histo,55.0,female,foot
+FITZ_322b68d,322b68d37074c1950a21243137800788,df,follow_up,70.0,male,back
+FITZ_4823735,48237352d0b9a0cf720baad78ba6582d,df,follow_up,25.0,male,abdomen
+FITZ_689433a,689433a232b85e487ba0bf089792e374,df,follow_up,60.0,male,lower extremity
+FITZ_99247c9,99247c9fe486aa9ab71686c8e676c135,df,histo,35.0,male,lower extremity
+FITZ_375d442,375d442424a9d97c9eb00d4717602897,df,follow_up,30.0,male,back
+FITZ_f2b14e5,f2b14e54536ed100f633eaedf5a27ca4,df,consensus,70.0,male,back
+FITZ_c94935d,c94935d1c39a141916812538e6be7e87,df,histo,40.0,female,back
+FITZ_b29caa9,b29caa9fd3efd8880d63636f7bc9a740,df,histo,30.0,female,abdomen
+FITZ_c18ef5d,c18ef5d1ddaa5651b201046f079f1607,df,follow_up,30.0,male,upper extremity
+FITZ_bbb67c7,bbb67c787d21931388b25c948dbf1b5a,df,histo,80.0,female,face
+FITZ_000b631,000b6317b3be6d504e212a50e4d5667f,df,consensus,65.0,male,abdomen
+FITZ_d2bac3c,d2bac3c9e4499032ca8e9b07c7d3bc40,df,histo,70.0,female,lower extremity
+FITZ_8ba5189,8ba5189cc891891e6f1b4d5f4f9bc1e1,df,consensus,60.0,female,back
+FITZ_5d593c0,5d593c0b80c11c11b49d48af12490a10,df,histo,70.0,male,chest
+FITZ_f1e2648,f1e26485eb0dc75866b8526a00b90edd,df,follow_up,75.0,male,face
+FITZ_b6defae,b6defaedae600adc3d74c06a560f5c25,df,follow_up,35.0,female,back
+FITZ_2852394,2852394d9f17ff45a34592f2e735b8da,df,follow_up,50.0,male,lower extremity
+FITZ_54ed3d7,54ed3d7dfd9a6e606a3653ecc1d92052,df,follow_up,80.0,female,abdomen
+FITZ_9611547,961154706f5938c81e64757ae78fa2d5,df,follow_up,50.0,male,abdomen
+FITZ_7c240ef,7c240ef9f5e1bf6b0ed299d7128c7fe0,df,histo,35.0,female,back
+FITZ_0563ffb,0563ffb3690c6de90707a8181f08f66f,df,follow_up,65.0,male,chest
+FITZ_7781a3d,7781a3d68175a687b18a4693a4ee493f,df,follow_up,70.0,female,upper extremity
+FITZ_78f71a3,78f71a3a8abdeba82370a839e8aae1c9,df,histo,35.0,female,lower extremity
+FITZ_df53b37,df53b37a24059f861759c6d31d69830a,df,follow_up,75.0,female,trunk
+FITZ_d32bb38,d32bb38989704f645004d6340d501466,df,histo,55.0,female,face
+FITZ_58e7594,58e7594f5727cdfc362cf5b071520a1f,df,histo,60.0,male,lower extremity
+FITZ_db7e857,db7e857dec9dd0c61b22b0e85f94ef54,df,follow_up,45.0,female,lower extremity
+FITZ_df7a29a,df7a29a21bbad544068a9a45fb340893,vasc,consensus,65.0,male,lower extremity
+FITZ_2d9ebe9,2d9ebe9cb6f414ec647c136fa3cab203,vasc,consensus,55.0,male,back
+FITZ_b90ba1b,b90ba1b1f272151fea13d0afa91aba1a,vasc,consensus,10.0,female,upper extremity
+FITZ_aa07d5f,aa07d5ff21753220717afa06e64daea8,vasc,consensus,30.0,male,back
+FITZ_62462e1,62462e18a0638d8e480dd2f80ea05f9a,vasc,histo,60.0,female,abdomen
+FITZ_26a3423,26a3423baeb9501ddd17245f3c60b17f,vasc,histo,80.0,female,lower extremity
+FITZ_5226732,522673224fcd3333c71648cfa95a9505,vasc,histo,35.0,female,back
+FITZ_2da01a0,2da01a06b7835f458d8b27ccf5302cc2,vasc,histo,80.0,male,face
+FITZ_a029d1d,a029d1da1db8341949fd61300b4f29f1,vasc,histo,85.0,female,face
+FITZ_6de447a,6de447a43bdde9d2d681aaf5e344b1ec,vasc,histo,40.0,female,back
+FITZ_d6dfb47,d6dfb47fe3c00e624af51b3548b8ee5e,vasc,histo,45.0,female,chest
+FITZ_cb7ba3d,cb7ba3d4180b6ffd2da632bcdd160b40,vasc,histo,40.0,male,lower extremity
+FITZ_be9e851,be9e8510972a707e21393af63104ab28,vasc,follow_up,30.0,male,lower extremity
+FITZ_55f6996,55f69965ecea816e4e8394f7d3ef6f39,vasc,histo,60.0,male,back
+FITZ_1914e3c,1914e3c00a7d0bb468c53a67c18165b8,vasc,follow_up,25.0,male,back
+FITZ_5ba6e72,5ba6e729a29e8a2fbab55a9bcec3f942,vasc,histo,85.0,male,chest
+FITZ_d72dd26,d72dd26e7819c76d4b981611cc9649c6,vasc,consensus,30.0,male,lower extremity
+FITZ_1520641,1520641157c9e8e9f18bb1c80196befa,vasc,histo,55.0,male,upper extremity
+FITZ_3b4462e,3b4462e55091f72aa82cf730de467e10,vasc,histo,85.0,male,chest
+FITZ_cca4d6c,cca4d6cb306087ac189ba9d1e14958cb,vasc,consensus,65.0,male,face
+FITZ_1acb76e,1acb76e4dfa5190743e42d02a4a78ff9,vasc,follow_up,55.0,female,face
+FITZ_8bad734,8bad7346e145eedbce83aee080ab22c7,vasc,histo,70.0,female,back
+FITZ_ae1511b,ae1511b9bbc0fa89c73c335ef666b986,vasc,follow_up,55.0,male,face
+FITZ_4d1e620,4d1e620c7134299fe96eecba9f12991d,vasc,histo,80.0,unknown,back
+FITZ_8f103b8,8f103b8f8623f45d44e6df4b9b71c181,vasc,follow_up,25.0,female,upper extremity
+FITZ_981a221,981a221101743fc1d21c84a02156b020,vasc,histo,65.0,male,scalp
+FITZ_c0901ea,c0901ea10a72665f35e0a44da7cd05fa,vasc,follow_up,40.0,female,upper extremity
+FITZ_4d11c36,4d11c36b249cfebffe516998f9c6db31,vasc,follow_up,70.0,female,abdomen
+FITZ_7cadfa5,7cadfa5af0ac596f76ab9fb727a8342a,vasc,histo,55.0,male,upper extremity
+FITZ_ce4c87e,ce4c87e3f39e11632be2d5f4eb4cb603,vasc,histo,55.0,male,face
+FITZ_f96b527,f96b527163e088d38f047634985e19db,vasc,histo,60.0,male,abdomen
+FITZ_55ec848,55ec84888f157069c8d601b229d377f6,vasc,consensus,60.0,female,upper extremity
+FITZ_269b465,269b46501e3c6c5d5dcef164a2293698,vasc,follow_up,50.0,male,chest
+FITZ_84a6fff,84a6fff2cdd6e254aa98355d53d78f01,vasc,histo,40.0,male,trunk
+FITZ_109ac25,109ac254a9dfbe1f7ed3308081480697,vasc,histo,40.0,female,chest
+FITZ_516f653,516f653ad62aac360ff790f52ae5437c,vasc,histo,75.0,male,neck
+FITZ_0dfef32,0dfef32f62e52aa8133b7434ab2aed56,vasc,histo,60.0,female,back
+FITZ_f65ab33,f65ab33af43c9a896e3e3f2346e7f54d,vasc,consensus,65.0,male,back
+FITZ_6b337bc,6b337bc10e258453c38f7d284ac4bbef,vasc,histo,70.0,male,trunk
+FITZ_0fdf33a,0fdf33ad3befb50b72464bc515abc9e3,vasc,histo,85.0,male,trunk
+FITZ_7673dcc,7673dccf4286755cef8cf26f19b2822e,vasc,histo,55.0,male,upper extremity
+FITZ_c8c8ae1,c8c8ae17619e647185103a7715f45d67,vasc,histo,75.0,male,scalp
+FITZ_da90292,da90292bc5bfffe960bd3c3d4767a846,vasc,histo,30.0,female,trunk
+FITZ_af3461d,af3461ddd71b9e67eae813a6e68b013e,vasc,follow_up,75.0,male,back
+FITZ_c505ece,c505ecef64b561953eeb4ad3fcdfbeea,vasc,histo,45.0,male,chest
+FITZ_e969d26,e969d2602934e10e0e174749e66d2d99,vasc,histo,65.0,male,foot
+FITZ_1e00469,1e00469bdb63c78ec2ed2e686ce354cc,vasc,consensus,40.0,female,lower extremity
+FITZ_a96d9f9,a96d9f9d604ecca87d59aa89aa84c00a,vasc,consensus,55.0,male,lower extremity
+FITZ_a849e24,a849e24d8c47b80f4e169839806e8c1f,vasc,follow_up,50.0,female,foot
+FITZ_deb34f3,deb34f3851453cae8bcfee01d736507d,vasc,follow_up,60.0,female,trunk
+FITZ_68317da,68317da6a46ee51da61f8973fb36c13c,vasc,histo,70.0,male,back
+FITZ_6d26c54,6d26c54ea783d44f038562bfacbe4043,vasc,follow_up,70.0,female,upper extremity
+FITZ_0cfd9ae,0cfd9aedeb0daf2288a021d08b5de1f1,vasc,histo,30.0,female,upper extremity
+FITZ_eaed718,eaed7184b1a9e5afdd5d214c2dd98d57,vasc,histo,50.0,female,upper extremity
+FITZ_1ecd46e,1ecd46ecb902f7b2a9e32d233968f8f2,vasc,histo,60.0,female,upper extremity
+FITZ_4480500,44805004d06cf19ce138a38055bd938e,vasc,histo,50.0,female,trunk
+FITZ_7f936d1,7f936d161d0a8a1b7c48cd5d962ef8fd,vasc,histo,85.0,male,back
+FITZ_b22b662,b22b6623b4a161c90e43de85c5be87f5,vasc,follow_up,65.0,male,chest
+FITZ_b5f1a2d,b5f1a2dd12b70470be98ed6311bd7a51,vasc,follow_up,40.0,male,trunk
+FITZ_c7c5612,c7c56128496340b59c604f3c5fabe1b9,vasc,follow_up,80.0,female,lower extremity
+FITZ_f090c44,f090c4485572120e94c74abbdaa465dd,vasc,follow_up,70.0,female,face
+FITZ_014a5d6,014a5d6dcf9e1a5ffe46d5a312174de5,vasc,follow_up,65.0,female,trunk
+FITZ_96bec8f,96bec8fd4da31a9d4121ca5d0b98c0f3,vasc,follow_up,65.0,male,trunk
+FITZ_a014608,a0146083f2f6fa73d4e3fe398469a6ea,vasc,histo,50.0,male,lower extremity
+FITZ_bfd62fc,bfd62fc2abac5bf2d689b08777f061f4,vasc,histo,70.0,female,back
+FITZ_c447c88,c447c881dcecbb330609801d1ce21270,vasc,histo,45.0,female,upper extremity
+FITZ_b4bf598,b4bf598429ab4d25f2b9d11495167cec,vasc,histo,40.0,male,face
+FITZ_d43b671,d43b671a4e8df49753fe28c336acd243,vasc,follow_up,50.0,male,back
+FITZ_6d589d1,6d589d145a183c5642047b1529b5e959,vasc,follow_up,45.0,male,lower extremity
+FITZ_870637b,870637b4dcb26996ddbaf4783a0ef343,vasc,histo,60.0,male,back
+FITZ_cc24d9c,cc24d9c78429432344d10a42abde03ef,vasc,histo,75.0,female,back
+FITZ_0585f18,0585f181e556e00195b5cd00f19b18ad,vasc,histo,70.0,male,lower extremity
+FITZ_205e603,205e6030665cf92c6643f2bcf2151b7c,vasc,follow_up,50.0,male,back
+FITZ_2a27190,2a271900fcedee1afe14d81485e1cac9,vasc,follow_up,40.0,male,back
+FITZ_47589b8,47589b8fcc3ee4e1aba39ac7edf0d10d,vasc,histo,60.0,male,chest
+FITZ_2f2ea9c,2f2ea9c853995a458c2b10ac8cbfb9bb,nv,histo,50.0,female,lower extremity
+FITZ_dafa833,dafa8331d9e81cf78a60d7b42175d044,nv,follow_up,60.0,female,abdomen
+FITZ_50320d3,50320d3ed1d18dcc095c8e0a75fbaf9f,nv,follow_up,30.0,female,lower extremity
+FITZ_3eb460a,3eb460ad57144b0d189b5688579cb8bc,nv,follow_up,75.0,female,lower extremity
+FITZ_1d00f17,1d00f1720f305a0fff13b4221ca70702,nv,follow_up,65.0,male,abdomen
+FITZ_e122dc6,e122dc6b87398b68b760d9779f08fe5a,nv,histo,60.0,male,trunk
+FITZ_572a802,572a802d11a61721053e7dee8911cfa6,nv,follow_up,50.0,male,trunk
+FITZ_5a49bd5,5a49bd55ae4c256696d1104349f485e0,nv,follow_up,40.0,male,back
+FITZ_cd1723a,cd1723ac116758cb87a16e7a1a30f270,nv,follow_up,75.0,female,trunk
+FITZ_e4e454f,e4e454f19f97b4438229aa58ead1d365,nv,follow_up,50.0,male,unknown
+FITZ_0e04006,0e040061170c554a1945be51928f7e3e,nv,histo,65.0,female,hand
+FITZ_be59955,be599559f6785849983e74f69ddde85a,nv,histo,20.0,male,trunk
+FITZ_510413b,510413b3456cc13b60e7700a61ee8f1b,nv,histo,80.0,male,lower extremity
+FITZ_931d34d,931d34dec55210d6241da6b512f0110e,nv,histo,20.0,female,neck
+FITZ_20020bf,20020bfc288acba2db3230d2ed0cd7a2,nv,consensus,80.0,female,back
+FITZ_558c79a,558c79ac06c4784ae50dc16f65ce131d,nv,follow_up,10.0,female,abdomen
+FITZ_868f958,868f958c11b28e37a895cf599fa6004a,nv,histo,55.0,male,face
+FITZ_d7ecaeb,d7ecaeb5e44506cc5f7df224d70b61e6,nv,follow_up,25.0,female,back
+FITZ_55b0a18,55b0a18bf7d66e453577477afad86967,nv,follow_up,45.0,female,foot
+FITZ_91a1288,91a12888aa3eb6ac9011939352a9c6e2,nv,consensus,55.0,female,upper extremity
+FITZ_3fdd457,3fdd45702d0b257710468787ab2e0ea4,nv,histo,75.0,female,trunk
+FITZ_935e9b1,935e9b16cd6eca6242e054234fa2e020,nv,histo,50.0,male,back
+FITZ_6a0264f,6a0264fec349d4487c83a53bc8d5d690,nv,histo,45.0,female,back
+FITZ_b1098b2,b1098b20b934997bfc37b366c6bbbf72,nv,histo,50.0,male,back
+FITZ_f5289a4,f5289a44be7bbf579e192c12774390c2,nv,histo,65.0,female,abdomen
+FITZ_a11c754,a11c754f8e19c7a770d73878f86766b8,nv,histo,70.0,male,upper extremity
+FITZ_ff4e3f0,ff4e3f0f9de132366d95d594c6ee8769,nv,histo,55.0,male,face
+FITZ_8a12cd5,8a12cd54a30abc7c99421a0a27d41472,nv,follow_up,30.0,female,lower extremity
+FITZ_aedc433,aedc43302200cc1743842a25a2e2b34e,nv,follow_up,40.0,male,neck
+FITZ_6672391,6672391f14d4f3384ae398930d3feb06,nv,histo,30.0,male,unknown
+FITZ_bb81458,bb814584ad715755d1ea9556fd8c822d,nv,follow_up,70.0,male,back
+FITZ_fdbc2b1,fdbc2b165cfa772a4ea0a676e1abd141,nv,follow_up,40.0,male,back
+FITZ_e177222,e17722252027aefdf87b79472efdfc4a,nv,follow_up,35.0,male,back
+FITZ_5df724c,5df724c6d38885cf245b8413cffab3f7,nv,consensus,45.0,female,lower extremity
+FITZ_f27cd92,f27cd92ce48e3148f78e5a46c11a460a,nv,histo,45.0,male,face
+FITZ_c8a80bb,c8a80bba7fc2167ae764b4005891637b,nv,follow_up,65.0,female,upper extremity
+FITZ_6e5b6dd,6e5b6dd420449782f1ab8046701408f7,nv,histo,45.0,female,abdomen
+FITZ_aafbf7d,aafbf7d0e817f7bf2d1a9098d8514666,nv,follow_up,45.0,female,back
+FITZ_2d47534,2d47534396dae6130583dfb65c30fe61,nv,histo,25.0,female,face
+FITZ_773ad86,773ad86674166846f5568c000bc394a1,nv,histo,50.0,male,trunk
+FITZ_bf82b98,bf82b98572753ebeb30643d8cbc267da,nv,histo,30.0,male,lower extremity
+FITZ_d65d571,d65d57104c490f783805bf584c7d5ce5,nv,follow_up,45.0,female,upper extremity
+FITZ_c38bce2,c38bce203721447588af7c8b977af343,nv,histo,35.0,male,lower extremity
+FITZ_e4ba095,e4ba0957015d8478e9a1974968a34b31,nv,histo,55.0,female,lower extremity
+FITZ_f689fa4,f689fa41fe5017859e0d149b4b2e3454,nv,histo,60.0,male,back
+FITZ_f2eda43,f2eda43c2fa0e4d269fe8cc4baf1e7d6,nv,histo,60.0,male,back
+FITZ_a72a10a,a72a10a9c7ba7a9dcd3e273e542993d7,nv,follow_up,20.0,female,lower extremity
+FITZ_f996199,f996199e614a87b407e098365bf6bafd,nv,consensus,55.0,male,face
+FITZ_2d1714e,2d1714ec6d8fb7089eea8d8e301564e1,nv,follow_up,80.0,male,back
+FITZ_dea8f4f,dea8f4fc4ec290d3bc9b5b0977bdf880,nv,follow_up,35.0,male,back
+FITZ_94238b7,94238b7bc1fa76e2fb7825d28a755453,nv,histo,40.0,male,lower extremity
+FITZ_0524c7e,0524c7e156295bd71bea39f7bde2595c,nv,follow_up,55.0,male,back
+FITZ_bf09902,bf099025b4eb00a75d473a3b366952f5,nv,follow_up,35.0,male,upper extremity
+FITZ_0a7d0e3,0a7d0e3f4df5d8e69dc3763ae9ba8d96,nv,histo,65.0,male,abdomen
+FITZ_02fd9e1,02fd9e1b56e0c3adae18233f430f2fea,nv,follow_up,50.0,male,face
+FITZ_9a049a3,9a049a3ca3f96ae3356d30d1486f7bef,nv,follow_up,45.0,female,face
+FITZ_1e6506f,1e6506ff6a31d4763e689edd96d2cc5b,nv,histo,20.0,male,upper extremity
+FITZ_1bafc44,1bafc4435143804067e03a6a5aa1ae83,nv,histo,65.0,male,back
+FITZ_34fab4b,34fab4bfd519c164775c8b50d3470ab7,nv,histo,55.0,female,lower extremity
+FITZ_1c6a524,1c6a524b16ee5c5c460d3e9e3d7ce055,nv,follow_up,70.0,male,abdomen
+FITZ_d4e6307,d4e6307697e22eed8376fb2e2c54ab1f,nv,follow_up,20.0,female,trunk
+FITZ_6f14b7d,6f14b7d091a6e0108b1b5d8ecc8e9d07,nv,histo,65.0,male,face
+FITZ_5e13c19,5e13c19a8e2da3eefdcb074832afd99a,nv,follow_up,75.0,male,back
+FITZ_2662ec6,2662ec60b55a541f038558eaae6cf54d,nv,follow_up,55.0,male,back
+FITZ_31a39ea,31a39ea6712ece70be83409c1ab50908,nv,follow_up,5.0,female,back
+FITZ_4bb9b9c,4bb9b9c7ffb630e640c49511b856dfbf,nv,histo,40.0,male,upper extremity
+FITZ_8647998,8647998b1f27e513e405a7a42224a3d5,nv,follow_up,40.0,male,lower extremity
+FITZ_805da8f,805da8fa28da5d9bf276d1c29dde3098,nv,consensus,65.0,male,lower extremity
+FITZ_3f7ec88,3f7ec88191c117596be47dbb6807a6c0,nv,histo,60.0,female,lower extremity
+FITZ_26b4662,26b46628697510ce0ede5851006d5c34,nv,histo,40.0,female,scalp
+FITZ_535e726,535e72695bd844f8ef74d4aab4299f33,nv,follow_up,45.0,male,trunk
+FITZ_b99be0d,b99be0d9c64b6ee61f4cd1679c43387c,nv,confocal,40.0,male,face
+FITZ_ee0cca6,ee0cca6b53ab15d28e448031f01d4d0f,nv,follow_up,55.0,female,abdomen
+FITZ_7351165,7351165c5359e4b8f65ea7f1ebd4abb9,nv,follow_up,70.0,male,back
+FITZ_32a5eca,32a5ecac69adc9fefc35ed907f5c03de,nv,histo,50.0,female,foot
+FITZ_78a06c0,78a06c0b3d0da8506826ca9fca8cf3aa,nv,follow_up,80.0,female,back
+FITZ_3041e7e,3041e7e1be8d1c4c4eb6ac470e6ecb8f,nv,follow_up,45.0,female,back
+FITZ_afb1549,afb1549a32af6db1a892ba9c8f162efb,nv,histo,85.0,female,ear
+FITZ_c416431,c41643194aa3caf3969d201020f5ec12,nv,consensus,60.0,unknown,abdomen
+FITZ_6c5a2ea,6c5a2eadcae07743eb77945fadf0e7bd,nv,histo,25.0,female,back
+FITZ_67af6e2,67af6e2923e52eff436a013572b7088b,nv,histo,70.0,male,back
+FITZ_4538448,4538448ea8e0642839225ba04b8faab8,nv,follow_up,40.0,male,trunk
+FITZ_1ea327d,1ea327d045b97047a089db7fb80b6c10,mel,histo,45.0,male,foot
+FITZ_6c0dd25,6c0dd2544391e097ce4e832a5308ac83,mel,histo,35.0,male,upper extremity
+FITZ_caf7053,caf7053829e13ecad9c9bdf62fa1b4b5,mel,follow_up,45.0,female,chest
+FITZ_0b57e0f,0b57e0f45e5f6b2da953b908dca9d2a6,mel,histo,50.0,female,chest
+FITZ_f27b150,f27b150981c616b704721a1fa8cc9374,mel,follow_up,45.0,male,lower extremity
+FITZ_91c7a0a,91c7a0ad483e2e2a7365ea7c6f395a01,mel,consensus,70.0,male,upper extremity
+FITZ_5e44d66,5e44d665d68cca052a33dca12ad2bf29,mel,histo,55.0,male,back
+FITZ_74e4d3e,74e4d3e1f87a0688a7da7501713ad315,mel,histo,60.0,male,lower extremity
+FITZ_3aed518,3aed5185b51f45442ea73cc33bc78eb1,mel,consensus,70.0,male,lower extremity
+FITZ_6cb2868,6cb2868a96ad853abffa7a057b19c975,mel,histo,30.0,female,back
+FITZ_86055a7,86055a71df0b07eb091c0883f47dff26,mel,follow_up,60.0,male,lower extremity
+FITZ_6c4b827,6c4b827b4e044c6e9ddd8953ecbd3359,mel,histo,45.0,male,back
+FITZ_a41e3b9,a41e3b93d534045649351abbf4b39a95,mel,follow_up,85.0,male,face
+FITZ_6152f62,6152f62f6273b8d9ffa0f19bf812a491,mel,histo,35.0,male,face
+FITZ_a3a2e68,a3a2e68f839c7eabb994e3ec4fa4ed5a,mel,histo,70.0,male,chest
+FITZ_150bf17,150bf177206b9ff86140d5348df29865,mel,histo,25.0,female,unknown
+FITZ_8e8674a,8e8674abd53e4d087da3798f478edb8c,mel,consensus,60.0,male,upper extremity
+FITZ_29640d4,29640d46e79286cdaa8d7f0c9d33dac5,mel,histo,50.0,female,lower extremity
+FITZ_008c8be,008c8be183aa54af2d29a6f75521ebce,mel,histo,40.0,female,back
+FITZ_88585fc,88585fc7b3ebb360c2ca8bc2cdfaf736,mel,follow_up,70.0,male,scalp
+FITZ_06cc4fb,06cc4fb3cdb76cdfe4ef9a0ae2137108,mel,follow_up,40.0,female,lower extremity
+FITZ_f247c2f,f247c2f65828b5a87b9c2c7e1fc13a88,mel,consensus,50.0,female,face
+FITZ_a20fb79,a20fb796843188fa92dd9a1553926be3,mel,follow_up,50.0,male,back
+FITZ_7ae29c7,7ae29c77630925f8a534d815f1559251,mel,follow_up,45.0,female,lower extremity
+FITZ_f15b404,f15b404a3af7bc64ce3b9bd6398c5d59,mel,histo,40.0,female,ear
+FITZ_3dd9ae5,3dd9ae5ab1b9677e06a3b0141ead201d,mel,follow_up,55.0,female,back
+FITZ_5fa619d,5fa619d00f15dc1f92063f54a85e8bb4,mel,follow_up,70.0,female,trunk
+FITZ_daa499e,daa499ebb4481c1c21113fa4e2f3f93f,mel,follow_up,40.0,female,back
+FITZ_9b5a17a,9b5a17a89ac84a918ad6d115de8297ff,mel,follow_up,45.0,male,lower extremity
+FITZ_ba91b92,ba91b9271c0ca0a534ca96e0bab9d98a,mel,consensus,55.0,female,foot
+FITZ_80203c8,80203c8b58176d8666b6500d6363a5d7,mel,histo,20.0,male,abdomen
+FITZ_cfe8cb7,cfe8cb78da8aea85c889540ac9863d90,mel,consensus,25.0,male,abdomen
+FITZ_9a7cea3,9a7cea383c596b7969f945a20ca2f4d1,mel,histo,45.0,male,upper extremity
+FITZ_7c6b7a1,7c6b7a1a6e946bcefd118b37ca1e6e1c,mel,histo,30.0,female,back
+FITZ_4d4ba55,4d4ba55545548d6dd95a8791fd75d675,mel,histo,30.0,female,back
+FITZ_0e5f2b3,0e5f2b371f082ab91db473d9913d326a,mel,follow_up,80.0,female,face
+FITZ_4eb6d37,4eb6d37849e5cdb1459cf21a11788543,mel,follow_up,65.0,female,upper extremity
+FITZ_612f87b,612f87b255a58ac9e4838ecefb21c522,mel,follow_up,70.0,female,trunk
+FITZ_6796442,67964427e3d2fb4acf861c52e014ed60,mel,histo,75.0,male,abdomen
+FITZ_07a0948,07a0948ac4037dc426b60e96a750da32,mel,histo,65.0,female,back
+FITZ_abecb06,abecb063d11b6607bacd2fd04026d2fb,mel,consensus,45.0,male,lower extremity
+FITZ_c8f2bae,c8f2bae4a66a6efd22da431e3f54f441,mel,follow_up,25.0,male,abdomen
+FITZ_66cae1c,66cae1c2ad834b6d00dd3b9957ec9e1d,mel,histo,50.0,male,lower extremity
+FITZ_bfead4e,bfead4ee428b49d3de415b28ddee47bf,mel,histo,70.0,male,trunk
+FITZ_b0a5137,b0a513787e3c28076c3c197342be5ffa,mel,histo,55.0,female,upper extremity
+FITZ_673e30a,673e30acf479e147718bf2b8b7ad13db,mel,histo,70.0,male,back
+FITZ_9e55507,9e555077493565a25648af77a1da5e06,mel,follow_up,30.0,female,lower extremity
+FITZ_1e5bfd1,1e5bfd1c3fe8617d6963470286e8e1ca,mel,histo,50.0,male,back
+FITZ_05285a4,05285a4b2c635374814704052379a29f,mel,histo,30.0,female,lower extremity
+FITZ_33df701,33df7010afc0c9b9e660114abc46dfa4,mel,histo,50.0,male,face
+FITZ_0bcd16b,0bcd16b715c47df35609c723676d6f42,mel,histo,50.0,female,face
+FITZ_5402370,54023705b87b95747f0731684ffb37b4,mel,confocal,80.0,male,lower extremity
+FITZ_84f75c6,84f75c6da21686206f64b40ba5135716,mel,follow_up,50.0,female,chest
+FITZ_9b6a29c,9b6a29c58a5cc9dd856128b9e28881ae,mel,follow_up,40.0,male,lower extremity
+FITZ_c6d23b3,c6d23b3dc7d33e5f5ebbec5fcbcdf3f5,mel,follow_up,80.0,female,lower extremity
+FITZ_a8520cd,a8520cd85f68ff2903eb41873717e092,mel,histo,50.0,male,upper extremity
+FITZ_027380d,027380dfd609fa5720c1eaf30f77c776,mel,histo,35.0,female,lower extremity
+FITZ_c43518a,c43518ab9959d77b63bf6b9eeab7611b,mel,histo,75.0,male,abdomen
+FITZ_c9d7841,c9d7841b24e456ae4b89e60afafd9bbd,mel,histo,55.0,female,lower extremity
+FITZ_ebddf63,ebddf635594d950f3e61005f756c4530,mel,consensus,45.0,female,back
+FITZ_27dc91b,27dc91b50a048be76e0116779ed1f7ff,mel,follow_up,35.0,male,lower extremity
+FITZ_2630494,263049401830de0dee7571422e407e47,mel,follow_up,60.0,male,lower extremity
+FITZ_ede3cf4,ede3cf4179d6e3de2764edecc494c118,mel,follow_up,30.0,female,back
+FITZ_a0f2068,a0f2068e51347646de82f360a06f6d0c,mel,histo,35.0,male,lower extremity
+FITZ_8c310a5,8c310a5a6a25464a6b346f67ab06f1d4,mel,histo,85.0,female,upper extremity
+FITZ_c513980,c513980bf1671f270b14d6b060972c60,mel,histo,55.0,female,trunk
+FITZ_4fd9aba,4fd9aba347052ec3f544e84cf38716b1,mel,histo,75.0,female,upper extremity
+FITZ_309f71d,309f71ddfd6e5ec10f83992f9a664932,mel,histo,35.0,female,back
+FITZ_2804111,2804111c34d79685a356fd694ae8ca21,mel,follow_up,40.0,female,face
+FITZ_cb0516a,cb0516a3a69f69eb2d5b7eafcfa5fc22,mel,follow_up,55.0,female,lower extremity
+FITZ_c5714d2,c5714d20b28a2e3e75d14bc64d616ff7,mel,histo,60.0,female,upper extremity
+FITZ_24a4d75,24a4d75183c81800691347ad769b9a7b,mel,histo,35.0,male,upper extremity
+FITZ_1a5f1a8,1a5f1a8649503887c535b4e7dad59d5f,mel,follow_up,80.0,male,trunk
+FITZ_fe7e889,fe7e88943637af0b837b6aaf8e49ef3a,mel,histo,60.0,female,lower extremity
+FITZ_1cf2810,1cf28107bbd82eebc64c7c395d711c2b,mel,follow_up,55.0,female,lower extremity
+FITZ_a3308a1,a3308a1ba83738f6914b390a23c12256,mel,histo,30.0,male,lower extremity
+FITZ_8211416,8211416ba87e05e21bb976d6852b38a7,mel,consensus,70.0,female,neck
+FITZ_6ee7f65,6ee7f655e7465c97833e86830a9bf2b4,mel,follow_up,45.0,male,back
+FITZ_be63770,be63770d79e886d395d1248c4404502e,mel,histo,0.0,male,face
+FITZ_d76810b,d76810b768f47a4dd71bd933a3983c1e,mel,follow_up,35.0,male,abdomen
+FITZ_758c500,758c500ff6ec8a726f5ae6175689d624,mel,histo,55.0,female,lower extremity
+FITZ_45005e1,45005e10b9ecc6241aa723a8c33086ed,mel,follow_up,45.0,female,lower extremity
+FITZ_6d6143e,6d6143ed759a187ffe9907e2ef15dfb2,mel,histo,40.0,male,face
+FITZ_43ff4f2,43ff4f26e808270c6be266126a4b4cb4,vasc,follow_up,40.0,male,abdomen
+FITZ_bb08f7f,bb08f7f37bd50c097aebe0629f93217d,vasc,histo,40.0,female,lower extremity
+FITZ_ab295f5,ab295f59ff4449a90f87c70b55088b81,vasc,histo,45.0,male,upper extremity
+FITZ_a0e26d0,a0e26d07cae16cf575350367af56ae8b,vasc,follow_up,50.0,male,trunk
+FITZ_65bca08,65bca080f82253ea14b5639e230720f3,vasc,consensus,55.0,female,back
+FITZ_4321628,4321628c680d97fc661d86f1522b82c2,vasc,follow_up,35.0,female,lower extremity
+FITZ_9670452,9670452bf052f8df369f9f7b541be934,vasc,histo,60.0,female,back
+FITZ_e18dc15,e18dc15aabfabf8052407d797a9957dc,vasc,follow_up,55.0,female,back
+FITZ_c1ea1a8,c1ea1a8f9448f4007dab8c04e3b9b30d,vasc,histo,45.0,male,abdomen
+FITZ_6f971de,6f971def61306f5c79993a9d87c95f09,vasc,follow_up,55.0,female,abdomen
+FITZ_880e841,880e841479be24b7569923e9e4b82ecd,vasc,follow_up,60.0,male,lower extremity
+FITZ_0a1ca67,0a1ca67fbbf7047acbf7c684694cf688,vasc,histo,45.0,male,hand
+FITZ_0559367,055936793773f78dbdb287808a4a146c,vasc,histo,45.0,female,abdomen
+FITZ_1f9f3e0,1f9f3e0024823814500c723134d988a7,vasc,follow_up,50.0,female,unknown
+FITZ_1323cbd,1323cbd6ca0833ff55b6ecad90dc828b,vasc,histo,30.0,male,lower extremity
+FITZ_f665fb1,f665fb18ebbfffb55fac28c152548c68,vasc,follow_up,70.0,female,upper extremity
+FITZ_9825636,9825636bbcd1662b43fda915077b2db0,vasc,histo,15.0,male,upper extremity
+FITZ_68080d1,68080d1e8abc99eb6a82f334bc5a693f,vasc,follow_up,65.0,male,lower extremity
+FITZ_b0ba55e,b0ba55ed5bc9eaa4ff35911a0d8d4ecc,vasc,histo,45.0,female,trunk
+FITZ_2653e6d,2653e6dc19eeb299b71b74cfa8ac561b,vasc,histo,65.0,male,abdomen
+FITZ_1622d7c,1622d7ca565473660e51b1d68d4027e3,vasc,histo,35.0,male,chest
+FITZ_27a1b2d,27a1b2d775742ee03b9997395f99d764,vasc,follow_up,5.0,male,abdomen
+FITZ_2e5fd22,2e5fd22630f3224369ec174774afc904,vasc,histo,45.0,female,trunk
+FITZ_f6109f7,f6109f70b663e04b94a08065e4d91340,vasc,histo,30.0,female,trunk
+FITZ_1f9fe13,1f9fe1370af69d7a3b059a99988ea84b,vasc,follow_up,45.0,female,foot
+FITZ_f46a3de,f46a3de0be162ee4e28da54d299fc48d,vasc,follow_up,55.0,male,foot
+FITZ_16b1c46,16b1c46677ef7bad4b2caf68cafa6c56,vasc,follow_up,75.0,male,back
+FITZ_dcb68b2,dcb68b2c4896b863eadf77e05b786222,vasc,follow_up,25.0,female,abdomen
+FITZ_2760e72,2760e721c008be69252471dee9713631,vasc,histo,45.0,female,upper extremity
+FITZ_ee978d4,ee978d469f2a50f16638f9f571e39115,vasc,histo,40.0,female,hand
+FITZ_791ff00,791ff00ac1c5f24c92b41826575b5aea,vasc,follow_up,70.0,male,back
+FITZ_3202056,32020563a40c3090c9458e56f0894eba,vasc,follow_up,50.0,female,trunk
+FITZ_d1b94a4,d1b94a4a16d6a1f9460a01d9d3e60e3d,vasc,follow_up,40.0,female,back
+FITZ_8902bc0,8902bc05554d3ff316575246688a5286,vasc,histo,5.0,male,face
+FITZ_f7a948d,f7a948d57ebc9e5ca4f6045ff82f899d,vasc,follow_up,75.0,female,back
+FITZ_dec811b,dec811bc9afafa9d870960fc31a1d11d,vasc,follow_up,40.0,female,abdomen
+FITZ_58e381d,58e381db621adcc7dfb8d6755a61bccd,vasc,follow_up,60.0,female,back
+FITZ_ba3b050,ba3b05057183a7678520ecdebdd4f0fc,vasc,histo,65.0,male,lower extremity
+FITZ_5dd1288,5dd12882ef5c8ad33b1314649874a3ff,vasc,follow_up,60.0,male,trunk
+FITZ_8fd64ca,8fd64caa1504bbdf6d33933c9b6b6a35,vasc,histo,35.0,female,face
+FITZ_3544c60,3544c601355bbdfb23d62293757db2cc,vasc,follow_up,30.0,male,lower extremity
+FITZ_698875b,698875b364a276a917ec097232955dba,vasc,histo,40.0,female,upper extremity
+FITZ_01c8b25,01c8b25b26abbf6bf51e5818105ef478,vasc,histo,45.0,male,abdomen
+FITZ_f938b17,f938b1757e030e713c81ab5ccf86dc93,vasc,follow_up,35.0,male,scalp
+FITZ_d34ce41,d34ce41a600828f4485015ed149ce8df,vasc,histo,65.0,female,unknown
+FITZ_f2dd132,f2dd1322151c3cca6d3aac559474bfad,vasc,histo,35.0,female,trunk
+FITZ_872d559,872d559389f4fe809c69cdefb62777ba,vasc,histo,40.0,male,back
+FITZ_7230f78,7230f78df0d54eb04c5ccd5443c799ec,vasc,histo,25.0,female,trunk
+FITZ_f609584,f6095846440acca969ac59cc7fc70f63,vasc,histo,50.0,male,unknown
+FITZ_d8999e9,d8999e963be6f4ade3cdf0903f894b05,vasc,consensus,5.0,male,lower extremity
+FITZ_662dc77,662dc776a4c17aa2b54a94f7fd72485f,vasc,follow_up,25.0,female,foot
+FITZ_269ad28,269ad28d5e12505ddb13533c7d80221c,vasc,histo,40.0,female,face
+FITZ_83999ec,83999ec4fd61583a9b63b648f2500d3d,vasc,histo,55.0,female,lower extremity
+FITZ_9360b4f,9360b4fb151ca5928e9f11a32cf60046,vasc,histo,35.0,female,abdomen
+FITZ_5778cb3,5778cb35fc348b080812dc4af74cb6ef,vasc,follow_up,60.0,female,face
+FITZ_787f00f,787f00fdb60c9a4d97332a4ee0558d77,vasc,follow_up,30.0,male,back
+FITZ_48915dd,48915dd80fdc13f46015f6c62917a8dd,vasc,histo,75.0,male,foot
+FITZ_db019be,db019be21b0b9773a97b4e996f9d14c9,vasc,follow_up,65.0,male,back
+FITZ_9a55f89,9a55f89f282f3702b58a7a2dca4f37f8,vasc,follow_up,45.0,female,trunk
+FITZ_2f37c56,2f37c56e176fa36370e96baa1a894473,vasc,histo,40.0,male,back
+FITZ_068ded0,068ded0527f4d8d58915a7aa915df177,vasc,follow_up,45.0,male,face
+FITZ_ffffdec,ffffdecd2ded614ecd1f27a3fe919674,vasc,histo,30.0,male,abdomen
+FITZ_4fb37a0,4fb37a02a43af27df0dbe3354331047a,vasc,histo,70.0,male,back
+FITZ_1272664,1272664fdb6b3fe6ea59381e02716169,vasc,follow_up,60.0,female,lower extremity
+FITZ_a6d66f5,a6d66f5b22fe69c436d3e34efad7f2bc,vasc,histo,80.0,male,back
+FITZ_7da3f53,7da3f537fffb57d916c28cdcd8440c6e,vasc,histo,35.0,female,lower extremity
+FITZ_14d0d57,14d0d57b5430a9923c415e5148ee7ba1,vasc,histo,80.0,male,upper extremity
+FITZ_2dde520,2dde520367328e9ca2433a16ae82ed4a,vasc,histo,50.0,male,face
+FITZ_72f62bf,72f62bfc9dc7ce48b315ec3da1b4a0b4,vasc,histo,50.0,male,lower extremity
+FITZ_13ce683,13ce683b41cc842f3ceaaa767d0ff1b0,vasc,histo,50.0,male,upper extremity
+FITZ_2317f02,2317f02daf84a995c5f519ce82ec9d83,vasc,follow_up,0.0,female,trunk
+FITZ_1ee5e3e,1ee5e3e9e7a355ba2d70e35c79bac082,vasc,follow_up,40.0,female,lower extremity
+FITZ_3dbdf55,3dbdf558dcfe15e8f7f3c1cc13e66422,vasc,follow_up,65.0,male,lower extremity
+FITZ_ea0bea3,ea0bea34747c5755bdbb337d40abf3d2,vasc,histo,65.0,female,foot
+FITZ_14b5377,14b5377983a89a22369ee7c9de43dff9,vasc,follow_up,30.0,female,back
+FITZ_64222f3,64222f330373f656d40c112087e3a4a2,vasc,follow_up,20.0,male,lower extremity
+FITZ_6097fdd,6097fdd9701dc4989980e25bba322ed7,vasc,histo,35.0,male,back
+FITZ_6caad95,6caad957310af9d481aaf9c65feb1324,vasc,follow_up,65.0,female,upper extremity
+FITZ_d4c2fc8,d4c2fc8deaeb6545a9fe1db26254a955,vasc,histo,30.0,female,upper extremity
+FITZ_f9b7f13,f9b7f1320ca721e3523d0d5e0062c4f9,vasc,histo,65.0,female,back
+FITZ_7909083,7909083a8f2ae0c6359e48c9999e0c15,vasc,histo,65.0,male,lower extremity
+FITZ_dfe8da5,dfe8da5278baf99ff1d0b1240e47a291,vasc,follow_up,35.0,male,back
+FITZ_1a2a4cd,1a2a4cd513ec93802d6c85e195441c1b,vasc,histo,45.0,male,back
+FITZ_4c0cd9e,4c0cd9e89e0856ea4cebc3b04064861a,vasc,follow_up,70.0,female,lower extremity
+FITZ_79623bf,79623bf5002072b1872f0622cb552bd8,vasc,histo,40.0,male,face
+FITZ_f63c035,f63c03528b28521611282af085060357,vasc,histo,50.0,female,upper extremity
+FITZ_89127ec,89127ec79892859f64bab57ac7cddb27,vasc,consensus,35.0,female,lower extremity
+FITZ_d181fde,d181fde8e6e74c0d851fe607a8453908,vasc,histo,35.0,male,abdomen
+FITZ_11a612d,11a612d364d91616d3ed4a68cc4e49d5,vasc,follow_up,60.0,male,face
+FITZ_c211433,c211433ad5840b99351e89e03f8d35f7,vasc,histo,75.0,male,lower extremity
+FITZ_22954dc,22954dc55a604abca986d0bda8981d88,vasc,follow_up,20.0,male,abdomen
+FITZ_b2b4e07,b2b4e078200e7efa153dfd27d4e2458a,vasc,histo,60.0,male,abdomen
+FITZ_9b55c93,9b55c935b601ffba9b8cc53b6967f6d3,vasc,follow_up,45.0,male,abdomen
+FITZ_42899ae,42899aead8769c1a0c7033672137a220,vasc,histo,65.0,female,face
+FITZ_720aa2c,720aa2c6680e77a8ba33413acdfd8684,vasc,histo,40.0,female,back
+FITZ_d6bf6b9,d6bf6b90ebc94bae2cc529263b6a14ad,vasc,histo,70.0,female,trunk
+FITZ_45c2f95,45c2f95cb90f2634e7e699c3e558a208,vasc,histo,40.0,female,upper extremity
+FITZ_1cbfbb0,1cbfbb03b5aaab54304c3192c8f29ddc,vasc,consensus,80.0,male,upper extremity
+FITZ_e5b2170,e5b21703030bace5f64a0b3afbe8ae7a,vasc,follow_up,45.0,female,trunk
+FITZ_8599c9a,8599c9a4bf7feba4c8e1304c14177097,vasc,histo,50.0,female,hand
+FITZ_2cd4cd2,2cd4cd289e9c8b7c9cac0c9cf0b9fdd1,mel,histo,70.0,female,hand
+FITZ_d740f99,d740f99aa0236f9972d66f0821cf14b0,mel,histo,40.0,male,lower extremity
+FITZ_07e86b7,07e86b7dfbd6ffe274193d330c182876,mel,follow_up,65.0,male,abdomen
+FITZ_bb6e739,bb6e7390c63e78607a7308076972713a,mel,histo,45.0,male,scalp
+FITZ_130b209,130b209f100bcbbd8b444f22ea3cbb24,mel,follow_up,55.0,male,unknown
+FITZ_3463d25,3463d25c4b8bc5061a3faa4ca6715537,mel,follow_up,55.0,male,lower extremity
+FITZ_98b0322,98b0322096085a163b8b849ec481e30f,mel,follow_up,60.0,female,neck
+FITZ_4c57a9e,4c57a9eec4b544ae4dae4a56a6d9f8cf,mel,histo,85.0,male,scalp
+FITZ_584c4f9,584c4f9057c17656a36c862d527000a3,mel,follow_up,55.0,female,abdomen
+FITZ_16e8de6,16e8de6bd449154d0823adddef933b73,mel,histo,55.0,male,trunk
+FITZ_f4cb8f2,f4cb8f2760402923d840b55e4ef6f729,mel,histo,45.0,female,lower extremity
+FITZ_ce123c8,ce123c8a38d3da4112480b175c948142,mel,histo,25.0,female,trunk
+FITZ_d3503da,d3503da01b612ccb8cdeb1d72fb00298,mel,histo,75.0,female,scalp
+FITZ_70e5ffc,70e5ffc51b9d4dc96616b52ded3ea665,mel,follow_up,80.0,unknown,back
+FITZ_33b93a3,33b93a3dabdd6249159f5f3b1661f218,mel,histo,25.0,male,abdomen
+FITZ_74e9c27,74e9c27efd60a074b6b4d7e40f61c270,mel,confocal,75.0,male,abdomen
+FITZ_72aa410,72aa410d76f560607fb2e74083b2e87d,mel,histo,50.0,male,back
+FITZ_3a53ca1,3a53ca1051283d46649008921c687d29,mel,histo,60.0,female,back
+FITZ_64ac709,64ac709a505775c19e96b55f0278aa61,mel,consensus,55.0,male,upper extremity
+FITZ_b3c86bb,b3c86bb9fac904880ece450b882ee8d6,mel,consensus,30.0,female,lower extremity
+FITZ_a0e5ab8,a0e5ab87f7d3fe482d098d1e250804c2,mel,histo,75.0,female,trunk
+FITZ_248f924,248f9241c4e76abbf049ba8b06e968ff,mel,histo,35.0,female,chest
+FITZ_7e1a633,7e1a63312318ffca8b95875238836aa2,mel,follow_up,60.0,male,lower extremity
+FITZ_0844ae6,0844ae634f0e6e7ef1f73c2aeecbae0e,mel,histo,65.0,female,trunk
+FITZ_8a09118,8a091188db498974b231e3e4eb542317,mel,histo,45.0,female,ear
+FITZ_7a9d200,7a9d20013b87019f62372a31dc98ac92,mel,follow_up,70.0,female,back
+FITZ_05eae8b,05eae8b3cf51683f62e9dcedd403c9ac,mel,follow_up,50.0,female,lower extremity
+FITZ_ee61335,ee61335699d455db49d11a4b7023a104,mel,follow_up,55.0,female,foot
+FITZ_ba250d0,ba250d0f0b1ed48ecc19465085c41cb0,mel,follow_up,60.0,female,back
+FITZ_407d41d,407d41dc4b0e9e0fddd2fe5a4e155986,mel,histo,25.0,male,back
+FITZ_92d9830,92d9830f22b0eaa4ced0575d60f5662b,mel,histo,50.0,male,trunk
+FITZ_f77c1c3,f77c1c3ab01cf6fb70d8de77238ed3d6,mel,consensus,35.0,male,lower extremity
+FITZ_936dc91,936dc916bc990b05cf256667186b5396,mel,histo,55.0,female,lower extremity
+FITZ_50203f0,50203f0e1cc3ccf33cd2cbfdfd475c02,mel,histo,5.0,male,lower extremity
+FITZ_0f64450,0f644501a2c12e1bf8edf3ac59103ae4,mel,follow_up,50.0,male,abdomen
+FITZ_32f2109,32f210990987f39829733c1ab5e7f307,mel,follow_up,50.0,male,back
+FITZ_c094d18,c094d187bbdb87186eed24cba84dea57,mel,histo,50.0,male,chest
+FITZ_9506d68,9506d68feabca7db121bbf5527c8f502,mel,consensus,60.0,female,trunk
+FITZ_a5caf18,a5caf184b8e343e568d0d250f061739f,mel,histo,40.0,male,back
+FITZ_ada1872,ada18724a43831db99512cf39a174d0a,mel,histo,65.0,male,abdomen
+FITZ_ad94730,ad94730f787cc90b11c25655c41366b6,mel,histo,45.0,male,lower extremity
+FITZ_b2413c3,b2413c3578edf4a33ab4f56e9c7d0aa1,mel,histo,15.0,male,upper extremity
+FITZ_1681c65,1681c65312e7c67fcec67b39a5f31162,mel,follow_up,40.0,male,back
+FITZ_ad6a439,ad6a439e55fd8b5bd17caf2d72b76d61,mel,histo,45.0,female,lower extremity
+FITZ_a9f9491,a9f949191444e250146b49ff8c95c6ac,mel,histo,50.0,male,lower extremity
+FITZ_f9b0f69,f9b0f69231d1badc35b481868d4eb2cc,mel,histo,70.0,female,lower extremity
+FITZ_8579d8e,8579d8e49e2dd64d3969d8a16bf2a8c6,mel,consensus,10.0,male,lower extremity
+FITZ_852b1cb,852b1cbfb924539f2aa31a036ea6b565,mel,histo,25.0,female,back
+FITZ_088f756,088f75621475639f8316e4a34b170ac6,mel,follow_up,70.0,male,chest
+FITZ_a13eaf2,a13eaf2826329cee2e8ab3b16a9df3f9,mel,histo,60.0,male,trunk
+FITZ_82c7173,82c7173ab4927d071fb7a749f8ae2a5f,mel,confocal,70.0,female,upper extremity
+FITZ_0d9b3b6,0d9b3b69f19baf1b3db887dfbacafb26,mel,histo,40.0,male,upper extremity
+FITZ_f1bdfe9,f1bdfe975f053e9b464b14f555db1aec,mel,follow_up,30.0,male,back
+FITZ_b12d076,b12d076ff5807ed202abdecad845d75d,mel,follow_up,40.0,female,back
+FITZ_3791b30,3791b30f96733f69b473c8d2fcf3998b,mel,follow_up,20.0,female,back
+FITZ_c4ea214,c4ea214b9c8cec7349c9d6fceb487191,mel,histo,55.0,female,trunk
+FITZ_6cf10bf,6cf10bfb15d43652310bd5ce509069a9,mel,histo,70.0,female,upper extremity
+FITZ_8a661b7,8a661b72496bad203ff9f93322252a2e,mel,follow_up,55.0,male,abdomen
+FITZ_840db47,840db47356fcaadc19f36af0843a12c8,mel,consensus,30.0,male,chest
+FITZ_b38e8cb,b38e8cb50b2d60ecd2d2e2a9da5930b2,mel,histo,45.0,male,abdomen
+FITZ_4644f52,4644f52d635a683a54e256e0431b6536,mel,histo,55.0,male,trunk
+FITZ_83f39da,83f39daba0fbd5d90c07da1eb1c4f80e,mel,histo,75.0,male,back
+FITZ_ce104e4,ce104e40baa37a3b52cec156a66bcfac,mel,histo,80.0,male,abdomen
+FITZ_2004c88,2004c88f0aba56122257c4f71e67c719,mel,histo,45.0,female,lower extremity
+FITZ_045b1d7,045b1d751bdafb3c8126c61c5caf270d,mel,follow_up,70.0,female,back
+FITZ_8a82dec,8a82dec5919fd014a82bd03d62ae4055,mel,follow_up,50.0,male,hand
+FITZ_b5fa340,b5fa3405377953a1b7de9049a4d3e4dc,mel,histo,85.0,female,lower extremity
+FITZ_55f29d5,55f29d5e1fc765bc2f169bcce8578469,mel,follow_up,70.0,female,lower extremity
+FITZ_a58fdf7,a58fdf7caed5065862cc7a1045ac35dd,mel,histo,55.0,female,back
+FITZ_82d7c8e,82d7c8ecba1bb065d7d0c0d807f8785e,mel,histo,85.0,female,trunk
+FITZ_4670285,4670285632e1c288ec0ac64a15ef82af,mel,histo,40.0,male,foot
+FITZ_2314884,231488499bc589c8b446af5197cc3478,mel,follow_up,25.0,female,back
+FITZ_30eddb4,30eddb4d034991652db156f7ddbe9a6d,mel,follow_up,70.0,male,upper extremity
+FITZ_e815861,e815861f140e305baf441814e6dbda48,mel,consensus,55.0,male,lower extremity
+FITZ_4acf72b,4acf72bae41e9006b388309adb1b24ac,mel,histo,30.0,male,back
+FITZ_33f441f,33f441f638fce62e18cd77ff583d6273,mel,histo,60.0,male,upper extremity
+FITZ_6d1ee77,6d1ee7768124fde2d8543d38b23c25de,mel,histo,70.0,male,abdomen
+FITZ_1092a8b,1092a8b1d5054fc49428a554d1126042,mel,confocal,40.0,male,genital
+FITZ_a4158b6,a4158b66a1435b2882c4075faa163c45,mel,follow_up,60.0,male,back
+FITZ_be813be,be813befb6f1f53ce07c77838af159ea,mel,histo,45.0,female,neck
+FITZ_43262c5,43262c5ed7d5c29f9547e40f5bcac4fd,mel,histo,30.0,female,lower extremity
+FITZ_cad0c1b,cad0c1ba75e1aec69f532f699a56f8db,mel,histo,60.0,male,abdomen
+FITZ_b2b9e1c,b2b9e1cdf5ddb3859cbb6289928e7d3e,mel,follow_up,40.0,female,unknown
+FITZ_c8a6962,c8a6962325692dfdd5db9428d46bfdb0,mel,histo,70.0,male,upper extremity
+FITZ_b6a30b0,b6a30b0b1f973a931f6cce35ac6607d1,mel,follow_up,50.0,male,foot
+FITZ_90749d7,90749d71571a4caae55cb226918d68c9,mel,consensus,60.0,female,face
+FITZ_e624718,e6247183a2fc69e8ea89dddc6f60f904,mel,follow_up,50.0,male,back
+FITZ_ed277f4,ed277f414662d8203eeb4a5ddbd58644,mel,follow_up,50.0,male,back
+FITZ_f128b43,f128b4331ee4e8a26ed43c0082a64b98,mel,histo,40.0,female,lower extremity
+FITZ_031906e,031906ece1abcde6af5ef82780ea3034,mel,follow_up,55.0,male,back
+FITZ_29e5519,29e5519889107e210f878f86e0d17436,mel,histo,50.0,male,abdomen
+FITZ_eae8d8e,eae8d8e779633f16b622bac6a56f59ed,mel,consensus,40.0,male,trunk
+FITZ_dc2a400,dc2a400c943a17772ea55dc50e376435,mel,histo,80.0,male,upper extremity
+FITZ_fb8397b,fb8397ba14203f2442cb607bf6fd9fb7,mel,histo,80.0,male,back
+FITZ_400e335,400e3359fc83a621bcfe57435ca6ca49,mel,consensus,45.0,female,foot
+FITZ_d340f64,d340f64a533f1be3a5c8d0fc9e621472,mel,follow_up,25.0,female,foot
+FITZ_3eed669,3eed6692c19f3cbf19bf5a52192fdeb7,mel,histo,20.0,female,back
+FITZ_a8ffa90,a8ffa90c01aaf037a5a965209eafef6f,mel,histo,75.0,male,back
+FITZ_ddc0ffc,ddc0ffc7185b94bf040684ec8f2d01bd,mel,histo,0.0,male,upper extremity
+FITZ_694398f,694398f9c2544b3ef11350e7bf3c3d29,mel,histo,55.0,male,upper extremity
+FITZ_fe1bb49,fe1bb49509d3638c2930d94268ed1463,mel,histo,75.0,female,lower extremity
+FITZ_ae398e0,ae398e0d27c79b0c70ff15cd25d62ce6,mel,histo,30.0,male,back
+FITZ_e5afcf9,e5afcf9d9bec4f9fd806aef0808366cd,mel,follow_up,50.0,female,trunk
+FITZ_0041c75,0041c7551e027def40cf81ab8fe14a36,mel,histo,35.0,male,trunk
+FITZ_2c5bbb7,2c5bbb7a25f705c768c9f71b6ff6935c,mel,follow_up,60.0,female,lower extremity
+FITZ_7e6838d,7e6838d693e1748adf0ea38d6420f8ee,mel,follow_up,85.0,male,back
+FITZ_1673296,16732968b8b8bf0e9dc529bb65031adf,mel,consensus,75.0,female,face
+FITZ_fab4ccf,fab4ccfe80780b02c35451533bceb848,mel,histo,35.0,male,back
+FITZ_f1aba86,f1aba86c1e48a3b1a4bc5e599f7024bf,mel,follow_up,65.0,male,back
+FITZ_a1e1e79,a1e1e7987bed1732f1fa29b1945e6cf0,mel,consensus,45.0,female,back
+FITZ_e0bea7f,e0bea7f6fa7ff29c53055a7f5c8857d1,mel,histo,10.0,male,abdomen
+FITZ_576c5c3,576c5c37a21c1c767733e486ac69b71c,mel,histo,55.0,female,lower extremity
+FITZ_7a2e696,7a2e6969eb645f2aced2aaa7b309b573,mel,follow_up,70.0,female,trunk
+FITZ_2701b06,2701b06d904bfe8d8979bc1fad14a23a,mel,consensus,55.0,male,trunk
+FITZ_9180caf,9180caf457da660165757eb4de0cd35c,mel,follow_up,80.0,male,abdomen
+FITZ_e894e98,e894e98ec3b149d53b202e1cef0fa9ad,mel,histo,5.0,male,back
+FITZ_392eb33,392eb33bdb10edb95f740abbcc378a6f,mel,histo,45.0,female,foot
+FITZ_81614ef,81614ef48a63119af1349a28cc86a2af,mel,consensus,30.0,female,lower extremity
+FITZ_125842e,125842e1870ae0f3b77a57f228da33fc,mel,follow_up,60.0,male,back
+FITZ_ecdcd89,ecdcd89dda8fa5b30706532fb49f315c,mel,follow_up,25.0,unknown,back
+FITZ_937958a,937958a33a48e5f49058b3f598dfaf30,mel,follow_up,35.0,male,unknown
+FITZ_7c015dc,7c015dcdbe6e3f3c2911a64342c135c6,mel,histo,70.0,female,unknown
+FITZ_ecc71c4,ecc71c47ea7467dd1dfb3ba6ad63ce1f,mel,follow_up,45.0,male,abdomen
+FITZ_2311fe1,2311fe11163e4e84336c53eefb5e24d7,mel,follow_up,30.0,female,chest
+FITZ_ddb15be,ddb15beb69fc4276b74a948a00eed2c8,mel,histo,65.0,male,abdomen
+FITZ_f31a5c7,f31a5c7d32b7b4479739bff76a23e8e4,mel,histo,60.0,male,back
+FITZ_a933cf0,a933cf003cc523204544c8820bc5c73e,mel,histo,70.0,female,lower extremity
+FITZ_47636cb,47636cb8d1cea91cc2363e837a0a5954,mel,follow_up,55.0,male,face
+FITZ_361c860,361c860d6d11345eb0d14b6ff560a952,mel,histo,80.0,female,upper extremity
+FITZ_9aced25,9aced25f0da2ff491cf0da3fee0a8f3c,mel,consensus,60.0,female,lower extremity
+FITZ_87ae4c6,87ae4c6a6e5d03d360fdd19b3a2d8092,mel,consensus,70.0,male,abdomen
+FITZ_3edf305,3edf305f280a7b9753a141631b8f3ad9,mel,follow_up,55.0,female,face
+FITZ_b7492f6,b7492f6251c4b495085d9517724ff953,mel,follow_up,35.0,male,upper extremity
+FITZ_38c5bd7,38c5bd7619923f1297d3b49cebd1bd85,mel,consensus,65.0,male,back
+FITZ_0d8457a,0d8457afebb67905127da37baece43d8,mel,follow_up,40.0,male,abdomen
+FITZ_835a931,835a931b5ddf66e9b58b47421a8c4dad,mel,histo,50.0,male,lower extremity
+FITZ_e64bc4a,e64bc4a3e3dfc2db301f0b8c64253da5,mel,follow_up,35.0,female,lower extremity
+FITZ_24b359b,24b359bb354232f22414960892020819,mel,follow_up,55.0,male,trunk
+FITZ_b582f9e,b582f9ec2a329edfbe814680a81a0354,mel,follow_up,55.0,male,back
+FITZ_cb70852,cb7085277de61ca9601240e2c242f902,mel,histo,45.0,male,lower extremity
+FITZ_b3bc16c,b3bc16cf6e0ce8cc7ee9a78ad45d0617,mel,histo,60.0,female,face
+FITZ_72bcd87,72bcd875e7a573b4139883059e69328d,mel,follow_up,40.0,male,upper extremity
+FITZ_e276cd9,e276cd90d46ab882c257483591cc659f,mel,follow_up,45.0,male,upper extremity
+FITZ_bfb6b1b,bfb6b1bace873ed26a0f69d6bfde27ba,mel,follow_up,70.0,male,neck
+FITZ_80602e4,80602e43414e592443aee9e67fcca5c7,mel,follow_up,40.0,female,abdomen
+FITZ_fbd64d8,fbd64d85fa7bfed3ba061ca05ff90f69,mel,histo,60.0,female,foot
+FITZ_e89b0dc,e89b0dc455f91346e87beb4fdda74b47,mel,histo,40.0,female,back
+FITZ_65f7b7d,65f7b7df48effe3ad7238404ca5318ce,mel,follow_up,85.0,female,lower extremity
+FITZ_e734481,e734481a48634d1df0a307ec8bbb5c35,mel,histo,60.0,female,lower extremity
+FITZ_dc015fe,dc015fe727ae7edab1c022a7ba0cf1bd,mel,histo,35.0,female,back
+FITZ_6616522,6616522cf5d8912260a17e4d2061ae6a,mel,histo,55.0,female,back
+FITZ_2579d25,2579d2594790cb42b7e701c279c2cf91,mel,follow_up,55.0,male,back
+FITZ_6ed5abe,6ed5abe85b1aeaf3c3246e1c6fd375a6,mel,histo,50.0,female,face
+FITZ_13aa2de,13aa2de8804ae601cd45c1c4cac9bc6f,mel,follow_up,30.0,female,neck
+FITZ_d3a72ac,d3a72ac99209301ae7910103ac5e0d6d,mel,consensus,65.0,female,back
+FITZ_af99627,af9962796753508481866c02851f21b9,mel,follow_up,35.0,female,upper extremity
+FITZ_62d2777,62d277784521ca0bc25d6e91268b3c71,mel,histo,35.0,female,lower extremity
+FITZ_0fc62c7,0fc62c72c433cd6f7ff35d6ba510ac48,mel,follow_up,55.0,female,trunk
+FITZ_25e4eae,25e4eae439e80e56c8228d9c4cf03ce0,mel,follow_up,45.0,female,trunk
+FITZ_83cd956,83cd9569896510c012ebc6c5bb7f3c74,mel,follow_up,60.0,female,trunk
+FITZ_7d41825,7d4182584c503100338e00b7b46bcc4b,mel,histo,55.0,female,abdomen
+FITZ_6c01e05,6c01e05cf7c76a641b92bb4b7383d27b,mel,follow_up,55.0,female,lower extremity
+FITZ_68623ff,68623ff99e2d99707211ae16ac655ebf,mel,consensus,55.0,male,back
+FITZ_43e565b,43e565b277ea2460eada9e871505a203,mel,consensus,45.0,male,abdomen
+FITZ_4fab663,4fab663ca875d7ce04524182c53aa4cc,mel,histo,45.0,male,back
+FITZ_1ef7299,1ef72998789229d4659d564ba15e7432,mel,follow_up,65.0,male,back
+FITZ_1d78d91,1d78d91cb196cb45b40c615cbf7a94ff,mel,histo,50.0,male,abdomen
+FITZ_25a9a37,25a9a37f1edef70afe4cbfb380f01224,mel,confocal,80.0,female,back
+FITZ_2ddc13c,2ddc13cb0aad47b2dda40db94427db99,mel,follow_up,10.0,female,scalp
+FITZ_72bf4c0,72bf4c07c8873dbf8d4b2c7ab5989853,mel,histo,60.0,male,foot
+FITZ_ac04675,ac04675f4d3943dfcfadd5284c60ef20,mel,histo,55.0,male,trunk
+FITZ_943a5ff,943a5ffcd4da3122732edad290533470,mel,histo,60.0,male,upper extremity
+FITZ_06aa37c,06aa37c1fb2ae9dadf126143b98a1640,mel,follow_up,70.0,female,foot
+FITZ_ecd97fd,ecd97fd36f39e9fd52f09f50c3dc59b5,mel,histo,75.0,female,back
+FITZ_ea19152,ea19152434347b623f2e98c92ebd7938,mel,follow_up,70.0,male,lower extremity
+FITZ_64c07aa,64c07aac49ad73078795d74a2ef6c860,mel,follow_up,45.0,female,scalp
+FITZ_46409fa,46409faa46521c676c8e1c3c3330704b,mel,histo,75.0,female,back
+FITZ_db65909,db6590971625b0e98971f449b4ed6ee7,mel,histo,55.0,male,upper extremity
+FITZ_e61194e,e61194e04e5e450a4d3d40de07d9f2ed,mel,follow_up,45.0,female,abdomen
+FITZ_45f2d03,45f2d036cba6a8d8da3240c27217a6ff,mel,histo,60.0,male,unknown
+FITZ_e315766,e315766377e07b3a78c789f1ef6cf529,mel,histo,45.0,female,face
+FITZ_a4bd02f,a4bd02ffa70ff94c6c0d4e8f3c412b81,mel,histo,50.0,male,face
+FITZ_37de8e0,37de8e0406609884c1140bf660798d40,mel,follow_up,70.0,male,lower extremity
+FITZ_d888164,d888164ff416adf7a9049f5e5fe3efe3,mel,consensus,70.0,male,face
+FITZ_6df7ccd,6df7ccd15c4c9b072863e03224ebf65d,mel,histo,45.0,female,back
+FITZ_8acc8d2,8acc8d28a8f6040d23041bfbf16fcf09,mel,follow_up,55.0,male,face
+FITZ_acf9046,acf9046d1fb65c2020996133795f9b76,mel,histo,45.0,male,trunk
+FITZ_80af448,80af44814ea5730ac2e9ba49971ed054,mel,histo,80.0,male,lower extremity
+FITZ_084d223,084d223d5918ec2ddae37f2f8061e23c,mel,histo,60.0,male,upper extremity
+FITZ_6f7e732,6f7e7323fc3b1d98c4e3bfe5273f6b92,mel,histo,75.0,male,back
+FITZ_b9ddf5d,b9ddf5dbd6257c786e13658934c56ac6,mel,histo,60.0,female,back
+FITZ_c8f2e70,c8f2e70de27ec0f45e7cd3774e86f076,mel,follow_up,85.0,male,lower extremity
+FITZ_8ad1a12,8ad1a12672261156e2dd3ac462215d76,mel,follow_up,25.0,female,lower extremity
+FITZ_ff5fbdb,ff5fbdbf0d3221c3ba5628b50fc0aa41,mel,follow_up,55.0,male,back
+FITZ_cc63958,cc63958a1cedccb7dc1f0628f010206e,mel,consensus,60.0,female,unknown
+FITZ_8a891f4,8a891f4bfb77344d6ae4d236cb9ac4e5,mel,consensus,60.0,male,back
+FITZ_051e5c8,051e5c8ce730d6a81961ca551c9fdb2a,mel,follow_up,65.0,female,trunk
+FITZ_b222fec,b222feca6ef56a50502589690b14cb1a,mel,histo,40.0,male,abdomen
+FITZ_cc21b8b,cc21b8b35c671d672d568d98d0434f08,mel,histo,60.0,male,back
+FITZ_4032259,40322591e45e91f55f0ba4daff917d1f,mel,histo,40.0,female,trunk
+FITZ_9ee1712,9ee17127331be5b1c1f2bdea846ee60f,mel,histo,50.0,male,lower extremity
+FITZ_2dbf863,2dbf863f60d92fcb6bd2cb08ab04abba,mel,histo,40.0,male,back
+FITZ_ae40c3c,ae40c3cfca9899067d0e75465586cf97,mel,follow_up,70.0,female,lower extremity
+FITZ_c05b03b,c05b03bcef867fca1e842f5226089b2c,mel,follow_up,35.0,female,face
+FITZ_2fdb31f,2fdb31f6c3f6fc50b96f6607510cc263,mel,histo,70.0,male,lower extremity
+FITZ_6c83bef,6c83bef6f525b8734ecdbd9dd5f0e822,mel,consensus,20.0,male,lower extremity
+FITZ_68528c3,68528c33db3fc238d183b5d2c14d6f75,mel,consensus,45.0,male,back
+FITZ_b4df499,b4df499e2397da0425aecca6849c55f0,mel,follow_up,60.0,male,abdomen
+FITZ_0a07b5a,0a07b5a38573468dbd4d503d6f1e800b,mel,histo,75.0,female,chest
+FITZ_4c3f795,4c3f795cf8eb72b946f9bd2642cf23c1,mel,histo,50.0,male,neck
+FITZ_5492bcf,5492bcfe87eb32401225a4ababbdad52,mel,follow_up,35.0,male,hand
+FITZ_70766ed,70766ed2b71ab0e8c5b387e172213eee,mel,consensus,40.0,male,face
+FITZ_0e9e79e,0e9e79e3884112fdccf813ffebd698ea,mel,histo,50.0,female,lower extremity
+FITZ_ddc2dbe,ddc2dbe2b62e2bb78ce1b4305110b67f,mel,histo,55.0,female,back
+FITZ_5db01c8,5db01c89de63e47302555704e3e5661e,mel,consensus,35.0,female,chest
+FITZ_2e3a440,2e3a440729e7c6dc0543b21895324b18,mel,consensus,85.0,female,lower extremity
+FITZ_1e7a332,1e7a332c75655b759c774efeac3d9dcc,mel,histo,65.0,female,lower extremity
+FITZ_e28cbb7,e28cbb701b1b2ff727c3c7aba01fe6ff,mel,histo,40.0,female,upper extremity
+FITZ_1cc5a0f,1cc5a0ffcaf2f370cd65f10eeeb7fddd,mel,histo,75.0,female,trunk
+FITZ_00f1b7b,00f1b7bb9581e91250a2bb224c3321b8,mel,consensus,30.0,male,chest
+FITZ_6744db7,6744db78a0f5c8b6a5ce65df24cb7473,mel,histo,45.0,female,back
+FITZ_f7c6e5f,f7c6e5f7929dd5ca2b066698fd2e83ba,mel,histo,30.0,male,upper extremity
+FITZ_163d9c5,163d9c550fad4704990a3d1b8183d0f8,mel,consensus,35.0,female,foot
+FITZ_318c1c6,318c1c68fbf43892f05191ea20e618cb,mel,follow_up,75.0,female,back
+FITZ_1d8fcc4,1d8fcc49e4dda6868fcf76916fc14405,mel,consensus,35.0,female,lower extremity
+FITZ_a60800f,a60800f82f6a2588e2cf624ad64f2db1,mel,follow_up,45.0,female,back
+FITZ_7d6ae09,7d6ae096a58cc9a689e28ab2fc06a75f,mel,histo,50.0,female,abdomen
+FITZ_361528c,361528caed6ebd18a0a558726a3999c0,mel,histo,75.0,male,trunk
+FITZ_bd70e00,bd70e00d188e7ef98bf9e7edaaff752e,mel,consensus,25.0,male,back
+FITZ_5998708,59987085d01b140ce512082866095ddd,mel,follow_up,70.0,female,back
+FITZ_78710cb,78710cb06fd6e3d4147fc1c7ebb2f4a3,mel,consensus,20.0,male,back
+FITZ_4695bfd,4695bfda5557fa0aaae6e81d4492e0a5,mel,histo,45.0,female,scalp
+FITZ_de9b248,de9b248a86bd8333e14692796aa72ec1,mel,follow_up,50.0,male,trunk
+FITZ_d84e0c8,d84e0c83920384e79354019fd467e6b1,mel,histo,50.0,female,abdomen
+FITZ_98a86bd,98a86bd0a6b6d31cc399703220627eab,mel,histo,50.0,female,abdomen
+FITZ_e4e6247,e4e6247b65749ac9939b1465693e9bfb,mel,histo,80.0,male,abdomen
+FITZ_71a7b35,71a7b35ef0e804f4dac01d3119be6748,mel,follow_up,45.0,male,trunk
+FITZ_af64b98,af64b98b5de693db79b9ff3c008fbd33,mel,histo,40.0,female,face
+FITZ_4ff1ea0,4ff1ea06e98ef27ae93b27fbfa384a75,mel,follow_up,40.0,female,trunk
+FITZ_30b3bb7,30b3bb79b3d16b45ec095a91cd9c32ee,mel,follow_up,55.0,female,lower extremity
+FITZ_1400a56,1400a56e8de2b64427acf3ba96895ded,mel,histo,50.0,male,abdomen
+FITZ_99a55ba,99a55ba343bf11c3a8e37beb8f023684,mel,follow_up,45.0,male,abdomen
+FITZ_3975cb1,3975cb19ffaee90ea9185c17b032c9a9,mel,follow_up,25.0,female,abdomen
+FITZ_cc2bd78,cc2bd788c5212e2ec7e0869b9e9279e5,mel,follow_up,45.0,female,trunk
+FITZ_e668f37,e668f37499adaead040d7d893e778cc7,mel,consensus,55.0,male,back
+FITZ_aea33f4,aea33f41d93dbd5aa59131a57c001714,mel,histo,50.0,female,trunk
+FITZ_2cb3ff3,2cb3ff37c40ccf6614c4e23c4ed0d91a,mel,follow_up,35.0,male,back
+FITZ_9d994f1,9d994f1278a9788612fa2af179328c31,mel,histo,45.0,female,face
+FITZ_3ac17ec,3ac17ec80430bdeb06a2134912d21d42,mel,histo,35.0,female,lower extremity
+FITZ_69425e7,69425e7f864b9775266eca2c328fe766,mel,histo,50.0,male,trunk
+FITZ_d4862d1,d4862d1b866e2c536dde339f60de4f0d,mel,histo,30.0,male,lower extremity
+FITZ_3d9906a,3d9906a74daa3f200a177ee57fcf8310,mel,histo,50.0,female,ear
+FITZ_de2fe2e,de2fe2ef59eae8ce0633efc84d0baef3,mel,histo,40.0,female,abdomen
+FITZ_85f9b49,85f9b49f753224a9a20c6fb66169335b,mel,consensus,60.0,female,foot
+FITZ_5e01c67,5e01c679167124fe9b9af10354d084bf,mel,follow_up,30.0,female,scalp
+FITZ_e5ad8f4,e5ad8f497e1246ffd4ef79b930670250,mel,histo,45.0,female,trunk
+FITZ_7041e0d,7041e0d82e0d554237bd1e6dc886a81f,mel,histo,40.0,female,upper extremity
+FITZ_8b1aac6,8b1aac66f2434dc37c84ba01f2c08605,mel,consensus,40.0,male,trunk
+FITZ_8cbf01e,8cbf01e080ba75fbf6716769acc0f36c,mel,histo,60.0,male,lower extremity
+FITZ_b878044,b87804452f60aa162a6d29c0f66a2466,mel,histo,75.0,female,back
+FITZ_889a8ed,889a8ed4164c01992b4981e78597a29a,mel,follow_up,60.0,male,face
+FITZ_098d28d,098d28da6fe1db559126d701d74fc8e0,mel,follow_up,70.0,male,back
+FITZ_691260f,691260f9a6de48296c0bcd79084d1c24,mel,histo,35.0,female,lower extremity
+FITZ_95c004c,95c004cc4ef4eff26861698463f19262,mel,follow_up,50.0,male,face
+FITZ_1bbb889,1bbb8898bb34295f884ba8d726809800,mel,follow_up,45.0,female,lower extremity
+FITZ_ee93be8,ee93be8080b3d5f5535f4e4273033bb1,mel,confocal,50.0,female,upper extremity
+FITZ_9071aa3,9071aa339d3fe202cd0fd9a9ae1de1e7,mel,consensus,35.0,female,abdomen
+FITZ_5a18fc5,5a18fc5a172112cbb0636b16d76078c5,mel,histo,60.0,female,lower extremity
+FITZ_686586e,686586ef815913c5cd197bcdb3718b5e,mel,histo,25.0,male,abdomen
+FITZ_658446b,658446bde66c64e374d317e40fb40f91,mel,histo,50.0,male,back
+FITZ_4ab4fa9,4ab4fa98f5acf7ec42886917128df401,mel,histo,45.0,female,trunk
+FITZ_aad7602,aad76025ff2ae079b4d8c881496c3372,mel,histo,65.0,female,abdomen
+FITZ_6af0a95,6af0a95515b388eac5fa547ca8f8e931,mel,histo,40.0,male,trunk
+FITZ_d0eea0a,d0eea0ab5d1d2a33efea4e0257a03825,mel,follow_up,70.0,male,back
+FITZ_b02895e,b02895e0d729c9bcecaed2ee070cada9,mel,histo,30.0,female,abdomen
+FITZ_c6a917a,c6a917a5d74ab6def73579084f791251,mel,consensus,75.0,female,back
+FITZ_2295197,22951972e56cf7574ccd1bbe6a45765a,mel,follow_up,25.0,female,lower extremity
+FITZ_59c6018,59c60187f6e65c32cbbadbdfc8b8df1d,mel,histo,35.0,male,upper extremity
+FITZ_74bc180,74bc180ce4619e21a8a8d425c4e86765,mel,histo,75.0,male,neck
+FITZ_60f79f8,60f79f88cbb999246aea835979d1c1db,mel,histo,35.0,male,trunk
+FITZ_6eb2412,6eb241282698d3a3b24f8a5427f1bbbf,mel,consensus,45.0,male,back
+FITZ_74c640f,74c640f21d94d59eec3ac37cebaedd2d,mel,follow_up,80.0,female,trunk
+FITZ_8761091,8761091f0e6c7609bfc61713a34dd872,mel,follow_up,40.0,male,upper extremity
+FITZ_f0758a3,f0758a39abe4ef22f174aa6e68689459,mel,follow_up,70.0,female,abdomen
+FITZ_2e9a44d,2e9a44d7373e97c682c937249b38d622,mel,histo,30.0,male,lower extremity
+FITZ_22f1365,22f13657c4a6b4a3fc6ea06d313c3725,mel,follow_up,45.0,female,lower extremity
+FITZ_fd1fa18,fd1fa18a3033459631670d50b9b5bfc9,mel,follow_up,70.0,male,lower extremity
+FITZ_70758a1,70758a12b61186edea167fbcf51c7598,mel,follow_up,20.0,male,ear
+FITZ_9aaef41,9aaef41b9332298c3e98b4ee33e39fb5,mel,histo,70.0,male,chest
+FITZ_25f0286,25f0286ffedff3a8a17bcdb8f220cdaf,mel,consensus,40.0,male,upper extremity
+FITZ_203f72e,203f72e12bfd9132ba8f843eaa9a894f,mel,histo,45.0,male,foot
+FITZ_d4bc1c9,d4bc1c91b2d568108d77e93011564a6c,mel,histo,50.0,female,lower extremity
+FITZ_7fd141e,7fd141e0b81e5573612d46472ec9fe52,mel,histo,35.0,female,back
+FITZ_d107222,d10722216af2bab5bfc450259169f9fe,mel,histo,85.0,male,trunk
+FITZ_44dd09c,44dd09cec3d8e1a42c64235346e4d062,mel,histo,45.0,female,back
+FITZ_8972c76,8972c76e23d9f6d7c301532573961b99,mel,follow_up,65.0,male,trunk
+FITZ_b3d94dd,b3d94ddf1388ed3894ad18ea3fefc880,mel,follow_up,60.0,male,foot
+FITZ_2882e2a,2882e2a31a604e3633e61708802d5926,mel,histo,65.0,male,upper extremity
+FITZ_879ce3a,879ce3af2a8769225d4120980e850814,mel,histo,55.0,male,back
+FITZ_617f9dd,617f9ddb778028f305520a92ac052c68,mel,follow_up,75.0,male,face
+FITZ_c12375f,c12375fa8da3696e9198df1fd74703c1,mel,histo,65.0,female,upper extremity
+FITZ_df17d90,df17d9052c095d5b0593a3b9dd306d75,mel,histo,65.0,female,back
+FITZ_9b82bbf,9b82bbff48d88f3bea9d30cfd96606dc,mel,follow_up,65.0,male,lower extremity
+FITZ_b304688,b30468853e0ad984dfbf53fceee5942f,mel,histo,55.0,female,trunk
+FITZ_0393b04,0393b043e435e566657cf7d61879026c,mel,histo,50.0,male,upper extremity
+FITZ_a646b94,a646b94f0637b904e4becca57a2dc26f,mel,follow_up,55.0,female,lower extremity
+FITZ_eab91c1,eab91c11e20398a89c454717dc5eaa94,mel,follow_up,45.0,male,back
+FITZ_f67c5d6,f67c5d66436fcf3f656cb2ab5bd026df,mel,histo,70.0,female,lower extremity
+FITZ_3b24865,3b24865e842419e4efc3fb909c633077,mel,histo,70.0,male,lower extremity
+FITZ_a177a5f,a177a5fc4b0e7033c39fb4f2503279ab,mel,follow_up,40.0,male,abdomen
+FITZ_c44a275,c44a2756525afdfd56566f0dd9a37551,mel,follow_up,55.0,male,abdomen
+FITZ_29a86d8,29a86d89608e63ccfc57b1e40c827ead,mel,follow_up,35.0,male,lower extremity
+FITZ_f1979b9,f1979b9bf4e026d9204bf15e85984c47,mel,follow_up,40.0,female,back
+FITZ_cef2dd1,cef2dd1c93103711aed6687a619e0230,mel,follow_up,45.0,female,back
+FITZ_96e3209,96e320998184af49bfc791c8f1b0e174,mel,follow_up,65.0,male,chest
+FITZ_442efb9,442efb92b5f59923668f0d2e6316b9cb,mel,histo,40.0,male,lower extremity
+FITZ_c8e1569,c8e15692cc70579b3ca3b0cf8236ac0d,mel,histo,45.0,male,trunk
+FITZ_6c3081a,6c3081a5e16b9a11fb33cf8b022122cb,mel,histo,80.0,female,trunk
+FITZ_85bfb73,85bfb7325d93bac71fcbc08ae0a9ba23,mel,histo,75.0,male,back
+FITZ_1e4917e,1e4917eb8252158b3e1de9ab8a4110ff,mel,histo,50.0,male,lower extremity
+FITZ_d10dfbe,d10dfbefc8303b80b1d7e8b661506da0,mel,follow_up,40.0,male,lower extremity
+FITZ_26ad865,26ad865bcdc627dfa0dc2e419252a0ed,mel,histo,55.0,male,face
+FITZ_7eb72f8,7eb72f83e8c15e7f1c4d3facd0abfa8f,mel,histo,45.0,male,trunk
+FITZ_d9491d4,d9491d49e41af0734b1bfe6e4cde4ade,mel,histo,75.0,male,lower extremity
+FITZ_ddcb809,ddcb8094a49516b627eb25de87bb37e8,mel,follow_up,30.0,male,back
+FITZ_9a79f7e,9a79f7e64ca44bf0f9bec4183925ae64,mel,histo,30.0,male,back
+FITZ_aebfb4a,aebfb4a4b7eaeb406195faf9c997a5ea,mel,follow_up,35.0,female,abdomen
+FITZ_3f01448,3f014488acf61087ab152f8dc5fac8b3,mel,histo,65.0,male,back
+FITZ_b75d1a3,b75d1a302ae3ec412297ae45ff14bc02,mel,histo,0.0,male,upper extremity
+FITZ_229048c,229048c8bf711a1039380054d624e368,mel,follow_up,45.0,female,lower extremity
+FITZ_227aaba,227aabac4aa7eca8fa4b9fb2abddc5a0,mel,consensus,80.0,male,back
+FITZ_c1b162e,c1b162ecbd537349c8df036a7f7627dc,mel,follow_up,15.0,male,upper extremity
+FITZ_fc6e05f,fc6e05f39ad27f0d3717f4fb51e607ef,mel,histo,75.0,male,lower extremity
+FITZ_cb0bd43,cb0bd4370fb0154d4d13e6495ef746d8,mel,histo,60.0,female,trunk
+FITZ_3b36608,3b36608c5ee59c5c9d86d64fb5309007,mel,histo,45.0,female,face
+FITZ_3bb4765,3bb47651dab6157dbca1fb1585de91f2,mel,histo,60.0,male,back
+FITZ_4429b71,4429b712b5f7463459067286a73d1231,mel,follow_up,85.0,female,ear
+FITZ_db88650,db88650aad0641ca4353f14650d90f22,mel,histo,70.0,female,lower extremity
+FITZ_b8837a0,b8837a0285f7c4288c772a079c64fb84,mel,confocal,35.0,female,back
+FITZ_fb89d4f,fb89d4fa5b5c3696f327d14ee041942c,mel,histo,40.0,female,lower extremity
+FITZ_4874ae4,4874ae4360510673a0cbe6310a4acce0,mel,histo,55.0,male,lower extremity
+FITZ_8e4316c,8e4316c8cc5208eac7a1405d66cb401e,mel,histo,50.0,male,trunk
+FITZ_e170d12,e170d124649f3cddf0e8d2ac7a4e597f,mel,follow_up,45.0,male,abdomen
+FITZ_32ea52f,32ea52fa6dde393c5affeb0107d15e8c,mel,histo,70.0,male,lower extremity
+FITZ_1d56b7d,1d56b7d688b6b276893107a6bdb93bba,mel,follow_up,75.0,male,chest
+FITZ_c0a31af,c0a31afecc839c5fccf8c15ca9cee431,mel,histo,40.0,male,lower extremity
+FITZ_a37ed02,a37ed02cd54e4b530341f7587d4e444a,mel,follow_up,40.0,female,face
+FITZ_3e79b06,3e79b0695698f58d3d40482c2aef87a9,mel,histo,85.0,male,back
+FITZ_72e2feb,72e2febe065d177b01564edeb420e24b,mel,follow_up,45.0,male,lower extremity
+FITZ_2d8dd8e,2d8dd8e2b1d3f0af318b320f7d77e595,mel,histo,55.0,male,face
+FITZ_079c3dd,079c3dd9e4b48d119bcdcfc024558128,mel,follow_up,70.0,female,lower extremity
+FITZ_480fd80,480fd80167d7865ce9aafe14aba4ec9d,mel,histo,65.0,female,trunk
+FITZ_7738a1f,7738a1fedc6181dd976623470feaffd4,mel,histo,45.0,male,back
+FITZ_b22e94f,b22e94f7e5cde4d33adf24245ea5faf2,mel,consensus,50.0,female,lower extremity
+FITZ_938528c,938528c2ba772fc83832aeca85171cf2,mel,histo,75.0,male,trunk
+FITZ_673c068,673c068053868490c15fefe7aad07b35,mel,histo,40.0,male,lower extremity
+FITZ_bb6ae8c,bb6ae8c9458a9760ef0be6d2fb6f2bd9,mel,histo,40.0,female,trunk
+FITZ_93b062b,93b062b6dfa77f4c6e763612557adee5,mel,histo,65.0,unknown,lower extremity
+FITZ_a38c514,a38c514b6e09c788efe6438a5e76f864,mel,follow_up,55.0,male,upper extremity
+FITZ_c2741f8,c2741f8b0ec47a8b6c24ad34bc03621b,mel,histo,45.0,male,abdomen
+FITZ_8aa0c02,8aa0c0210a09a713036cc34e4a77511c,mel,histo,75.0,male,back
+FITZ_4e8cd39,4e8cd3941081738f8f1405aa9b7399ef,mel,follow_up,45.0,male,trunk
+FITZ_339d21e,339d21e178104dd6280e1ac6d354a695,mel,follow_up,70.0,male,upper extremity
+FITZ_3a10a2d,3a10a2d2c76b10042d4936a1e0e5f695,mel,follow_up,40.0,female,lower extremity
+FITZ_6fba1ba,6fba1ba992dd21cd3eaaf1ecacaf291d,mel,histo,50.0,male,lower extremity
+FITZ_402f0c0,402f0c0b3da52105897eadd247cb100e,mel,follow_up,35.0,male,scalp
+FITZ_62d9ec3,62d9ec3242500622172da0af41cef076,mel,follow_up,30.0,male,back
+FITZ_4173d5a,4173d5a2337e044eaced6778c34be2ea,mel,follow_up,40.0,male,lower extremity
+FITZ_95cb2ae,95cb2ae15bc9f52ea53b07b78fbfbd26,mel,follow_up,40.0,male,face
+FITZ_1edc419,1edc419cfccfb2728ee1743bc921facb,mel,histo,30.0,female,back
+FITZ_30559e9,30559e9ff81800fcc4e2819d89988b88,mel,follow_up,60.0,male,lower extremity
+FITZ_822ce90,822ce90b3e5bd12124932beb7134ca3e,mel,histo,45.0,male,upper extremity
+FITZ_132a3c5,132a3c58203c070e74e9791b04bd4fff,nv,follow_up,45.0,male,upper extremity
+FITZ_eb526a7,eb526a756bb373c00f8e94ded1dae624,nv,histo,50.0,male,trunk
+FITZ_c448800,c448800e477a0e559564ed545179ee83,nv,histo,50.0,female,back
+FITZ_f10e8db,f10e8db0da8109ca38912dcec52b779b,nv,follow_up,30.0,male,neck
+FITZ_0e89f04,0e89f04740ad87bdecb1e5256b079469,nv,histo,35.0,male,upper extremity
+FITZ_6acff07,6acff072751ef8db15a4a16b92d810af,nv,histo,25.0,female,upper extremity
+FITZ_b94e808,b94e8082f033bc6c41e584d339bfc633,nv,histo,50.0,male,trunk
+FITZ_e5ca79a,e5ca79ad2e29216d3e105ad65a959921,nv,histo,30.0,male,back
+FITZ_c1e1779,c1e1779aa5f1b9afd1016bb8018b5605,nv,follow_up,55.0,female,lower extremity
+FITZ_d6b5dd9,d6b5dd9e59b4278130002e8ce6139919,nv,follow_up,60.0,female,lower extremity
+FITZ_4753305,47533058c881ca04b1c98f6b1a5720b2,nv,follow_up,65.0,male,lower extremity
+FITZ_d653edb,d653edb6aa702f095a9b00550738a821,nv,follow_up,45.0,female,back
+FITZ_b91c83b,b91c83b771f230c29cc22d034200bdae,nv,histo,55.0,female,trunk
+FITZ_b71c0b8,b71c0b85580e06b347da7e16d1aff3ff,nv,histo,60.0,male,chest
+FITZ_25baea3,25baea3546ebb667c4a391636846d377,nv,consensus,70.0,female,lower extremity
+FITZ_49e78ef,49e78ef5bd9ddef0106c09c86916f245,nv,histo,65.0,male,face
+FITZ_2c80528,2c80528309aa066a38f56cb560565fa9,nv,histo,70.0,male,unknown
+FITZ_bf2efda,bf2efda0fe0a44569f6bd99acc58716a,nv,histo,40.0,female,lower extremity
+FITZ_da109ff,da109ffc19dc029bb71698a05419e9ff,nv,histo,40.0,female,back
+FITZ_50cd18a,50cd18aba2ee68865f8ec0c033ac276f,nv,histo,30.0,female,unknown
+FITZ_bb18c88,bb18c8800c62e37bd21641ad30aa3982,nv,histo,45.0,male,lower extremity
+FITZ_98ebd05,98ebd0568dc1804989f83706c229b5b7,nv,histo,55.0,male,abdomen
+FITZ_babe125,babe125be18f7ba4fa8a2f7eafce4693,nv,histo,50.0,male,upper extremity
+FITZ_cb191c9,cb191c9c268825b566ef9ecff1c6a740,nv,histo,70.0,female,upper extremity
+FITZ_1f44599,1f44599103695a126e5bb6496ba52cb7,nv,consensus,70.0,male,chest
+FITZ_aae5e1f,aae5e1fc8b00606e765f95f9181e2ab8,nv,consensus,65.0,female,back
+FITZ_27831e1,27831e1a3089f98f8aa98c84b198084f,nv,histo,30.0,male,chest
+FITZ_697b984,697b984c46c3ee6e0ced7a87e449a8dc,nv,histo,50.0,female,face
+FITZ_20d5f8c,20d5f8c267aa61d08472efe48dc51010,nv,histo,40.0,female,trunk
+FITZ_c0ea1e8,c0ea1e88aa3ba697014dca3924e559e6,nv,histo,25.0,male,lower extremity
+FITZ_9f982f2,9f982f2c55254d90155975744427c786,nv,histo,70.0,female,lower extremity
+FITZ_b6cf008,b6cf008da895fb856a76c033fddf6ec5,nv,follow_up,45.0,female,upper extremity
+FITZ_a87c6f3,a87c6f398c7c3a24e8fa26a9fabceab3,nv,follow_up,35.0,female,trunk
+FITZ_3f80bf8,3f80bf8d754311831c564a6e5a879a73,nv,histo,30.0,female,face
+FITZ_aa1951a,aa1951a8a09b8b08d1d30607ddf5770f,nv,histo,35.0,female,ear
+FITZ_eb004e7,eb004e70cf162d77ba002ffa5cef9217,nv,histo,20.0,male,trunk
+FITZ_a743f74,a743f74b27f769f56bc4f6d1eebe587c,nv,histo,45.0,female,back
+FITZ_7e61087,7e610878f5cf3531be4dc138a04005a7,nv,histo,60.0,female,lower extremity
+FITZ_85cd558,85cd558777b881b5a3294367ffd253a0,nv,follow_up,35.0,male,chest
+FITZ_9a0245a,9a0245a8032ecb098d05e719e6f369af,nv,histo,35.0,male,neck
+FITZ_d863e7b,d863e7bbbcaeee146406683d15cdbb01,nv,histo,40.0,male,back
+FITZ_04c59d8,04c59d8184ca0d3280e23de40c68fc47,nv,follow_up,50.0,male,trunk
+FITZ_1470949,1470949e388d233341041b24e8dd6f1d,nv,histo,60.0,male,lower extremity
+FITZ_6421142,642114296aa558155206d8465cf2da93,nv,histo,55.0,female,back
+FITZ_8b761c8,8b761c87fb2ccf360157a83f07c4e8df,nv,follow_up,40.0,male,lower extremity
+FITZ_d05fb27,d05fb27a087443340b2eb25c0d43d5fa,nv,follow_up,75.0,female,neck
+FITZ_377119a,377119a9792a5995497cdd74ab4af3d2,nv,histo,50.0,male,lower extremity
+FITZ_dd6b189,dd6b1892756433a699c8fea1e59f9b3e,nv,follow_up,75.0,female,foot
+FITZ_de49050,de49050472666ae8573048c5d768c8b7,nv,follow_up,35.0,female,upper extremity
+FITZ_6b4632e,6b4632eb4eb9ee5df977ad7fb3548810,nv,histo,70.0,female,back
+FITZ_7c475b1,7c475b1d06b9dac9e35264f718be1999,nv,follow_up,60.0,female,lower extremity
+FITZ_74fb80e,74fb80ef4a52be7af14be1af1f6fc2f1,nv,histo,60.0,female,lower extremity
+FITZ_d18c768,d18c7682d14d03b077b1e352e900c97b,nv,follow_up,45.0,male,foot
+FITZ_db05857,db0585772571cb1d0bb61d1d13f6a052,nv,consensus,30.0,male,lower extremity
+FITZ_d235616,d235616b62083b9380e5336616ac6979,nv,histo,60.0,female,abdomen
+FITZ_32acc72,32acc72c4d4c0d7659280c2dba57b948,nv,histo,75.0,female,back
+FITZ_4e7ff6c,4e7ff6cbff9ded53dcfcdb1bfcc14ef2,nv,follow_up,55.0,male,lower extremity
+FITZ_41c04dd,41c04ddd82aea245cdf7e98a0ce82ece,nv,histo,60.0,male,trunk
+FITZ_6ba4d97,6ba4d97062cca79a3754b550f7f2efba,nv,follow_up,75.0,male,back
+FITZ_b6d24e5,b6d24e57cd34b3d10f9e3ccc8028470a,nv,histo,75.0,male,hand
+FITZ_15e80bd,15e80bdb79a83a5336efe5efbd5ec198,nv,follow_up,60.0,female,back
+FITZ_13563b4,13563b4c006e5cae101e869d99e8d036,nv,histo,35.0,male,back
+FITZ_f4f2739,f4f2739937c149a255148f697ee3ddf9,nv,histo,55.0,female,lower extremity
+FITZ_a7eae4f,a7eae4ffe6b9a261528fda4ee1ef9fc0,nv,consensus,65.0,male,upper extremity
+FITZ_9c468f8,9c468f8877045d70dbb7ad2c18671dbe,nv,histo,25.0,male,lower extremity
+FITZ_870cd24,870cd24cfb557b73441cf716aecf42b6,nv,histo,75.0,female,back
+FITZ_ca1b4cf,ca1b4cfe143a7c562868c4055752595e,nv,follow_up,35.0,female,back
+FITZ_5940022,5940022fa2a35306a7e1b8438bddc7e6,nv,follow_up,45.0,female,chest
+FITZ_d9ec09d,d9ec09dd078d81bd9f7895e190b82f5e,nv,follow_up,60.0,male,neck
+FITZ_21990c0,21990c0bb830e8bb56bf997067a154a3,nv,histo,40.0,female,upper extremity
+FITZ_c95cd18,c95cd182d8e4c691e5c6d4287e40e370,nv,follow_up,75.0,female,back
+FITZ_7aed3e7,7aed3e745e8ed103013059839577b80c,nv,follow_up,60.0,female,upper extremity
+FITZ_1d76114,1d76114ea1cee496eb21836e03bb6aca,nv,follow_up,50.0,female,upper extremity
+FITZ_5c81dac,5c81dac7d18a14bfd34a087e0c04195f,nv,histo,40.0,male,trunk
+FITZ_c6a9be1,c6a9be15246f408c883b625dc7bc5662,nv,histo,50.0,male,chest
+FITZ_8dce682,8dce6823c51ba27908e26d3aa9455e1d,nv,histo,50.0,male,back
+FITZ_e9161fe,e9161fe41230fc27334f0a404a13f211,nv,histo,50.0,female,chest
+FITZ_fd29fb7,fd29fb706c41cc9552b40a057024f460,nv,histo,50.0,male,back
+FITZ_e02d985,e02d985c2fd40bf343fca2be6e6d555b,nv,follow_up,45.0,male,unknown
+FITZ_9df19e4,9df19e451d1b39bc9317cc3c56f50cec,nv,histo,75.0,male,face
+FITZ_ffb2a78,ffb2a785dd5182f2375ab2a3bf839f60,nv,histo,65.0,male,upper extremity
+FITZ_fa866bb,fa866bb459eb719101f756a3b6244ca4,nv,histo,25.0,male,face
+FITZ_53f2ead,53f2eadf5f293c90bb3cda5fb91ec1c5,nv,follow_up,50.0,female,neck
+FITZ_2965539,2965539620963fea7f51907224ec840c,nv,follow_up,80.0,female,trunk
+FITZ_5655691,56556910e0dbf4960d3c11d1f1fdef40,nv,follow_up,60.0,male,face
+FITZ_e253e3d,e253e3ddfec9778647c4bb078bcf8754,nv,follow_up,45.0,female,lower extremity
+FITZ_e9550ec,e9550ec93d0ab041c7aac77e7e933b48,vasc,follow_up,25.0,male,trunk
+FITZ_18ddfa2,18ddfa2d48b0ea0d44aacc5db88d7186,vasc,histo,50.0,female,back
+FITZ_55380b8,55380b8e11469709714b2994f8ce8fd7,vasc,histo,40.0,male,scalp
+FITZ_8a7e4ec,8a7e4ecd73f138d982cf8999b3a0a6d6,vasc,histo,70.0,male,back
+FITZ_7fc0fd4,7fc0fd4fb86200dc3cb36c4d07573b1e,vasc,histo,30.0,female,face
+FITZ_665f80f,665f80f32b472d1bf8ce9f868299a68d,vasc,consensus,55.0,female,foot
+FITZ_3e24ace,3e24acec59317c0c6f8358ba86607fc0,vasc,histo,40.0,male,back
+FITZ_538f608,538f608a6224a5d949b97ac410f10726,vasc,histo,30.0,male,abdomen
+FITZ_98feee4,98feee4e79ef8312db7e5604d95ad66f,vasc,follow_up,25.0,female,lower extremity
+FITZ_13d64f9,13d64f9a6400be36be08e6bff4bd2f62,vasc,histo,55.0,female,hand
+FITZ_5011f3b,5011f3bf50e0d3015a5dce69929954fb,vasc,histo,75.0,male,abdomen
+FITZ_d34afc3,d34afc36bc5206d5daf58f634bdcff2b,vasc,histo,55.0,female,upper extremity
+FITZ_f9d5cf0,f9d5cf0a6ab6630874a7950647af3223,vasc,histo,80.0,male,back
+FITZ_3e1bc42,3e1bc42db9faa46f59f192554f109d54,vasc,histo,40.0,female,back
+FITZ_96faf50,96faf50dd3f125eaa72e54bf5b103ad9,vasc,follow_up,30.0,male,upper extremity
+FITZ_5658d95,5658d956fc167e1cfda3d1e9048c221c,vasc,follow_up,50.0,female,back
+FITZ_8c221e0,8c221e093907ad7ac2864d40ac3de5b3,vasc,follow_up,60.0,female,abdomen
+FITZ_63324b9,63324b9995e84a5e20c3d46dec5b7a8b,vasc,follow_up,60.0,male,trunk
+FITZ_ecd5b4b,ecd5b4bc5413b2370470c83de294157b,vasc,histo,45.0,male,face
+FITZ_a353598,a35359879caa23975bff9b1204c6d109,vasc,follow_up,50.0,male,back
+FITZ_b7a2e89,b7a2e8937bb8f5ba34015727d7fed227,vasc,follow_up,60.0,male,trunk
+FITZ_e66f752,e66f752ef5a39908b8ad993df12d465d,vasc,histo,55.0,male,abdomen
+FITZ_8448465,8448465e199de9bce2662cf133c703e8,vasc,histo,85.0,female,foot
+FITZ_efef5dc,efef5dcc5edf244f92b30b8ac370d621,vasc,histo,45.0,male,lower extremity
+FITZ_644c83b,644c83bb4c86485907b6b49ad2784081,vasc,follow_up,65.0,male,lower extremity
+FITZ_3a48646,3a48646aa627e0cba2d26c943bafcc00,vasc,histo,45.0,female,abdomen
+FITZ_5616f24,5616f246d079e208cb3f88c97eb6025d,vasc,follow_up,55.0,male,back
+FITZ_a655a59,a655a59abef2fdb8d3f7b7ee5fa042a2,vasc,follow_up,80.0,male,face
+FITZ_b642e3c,b642e3c2227b664fe5d3f8dde9470b36,vasc,consensus,85.0,male,trunk
+FITZ_5911ef3,5911ef373f6523ed63d010ed2d62c29b,vasc,follow_up,45.0,male,lower extremity
+FITZ_a4fbe12,a4fbe129fc29a16cfe5dbc7d1fa483b8,vasc,follow_up,35.0,male,chest
+FITZ_cfd8694,cfd8694ca639f7a637cb5b423bc848df,vasc,histo,60.0,male,back
+FITZ_78361d0,78361d0448b60a8bfc04824ea41c0bca,vasc,follow_up,55.0,female,abdomen
+FITZ_db35916,db35916cf721021829daedb8648125bf,vasc,follow_up,70.0,female,back
+FITZ_f206053,f206053f8df79e80fe17365004c4f48a,vasc,follow_up,40.0,female,trunk
+FITZ_3c780e9,3c780e90b5e0638a766c9f01f4ffd2ef,vasc,follow_up,45.0,male,ear
+FITZ_b28450c,b28450c55ea4e0d0b075c6e87c9119d3,vasc,histo,40.0,male,lower extremity
+FITZ_0a8d57f,0a8d57f06114ff087d106c7137520927,vasc,histo,40.0,unknown,back
+FITZ_961ccbc,961ccbc7f5506fc49c62140f634de8ce,vasc,histo,35.0,female,lower extremity
+FITZ_f27dd7e,f27dd7e1ba3ff8f012f14f36451fdb05,vasc,histo,35.0,female,upper extremity
+FITZ_796e5cd,796e5cdfb2b1851048a9c8a858e6f7b3,vasc,follow_up,50.0,male,upper extremity
+FITZ_4e727e2,4e727e2e4c36570c33715f23fa6e8b1c,vasc,confocal,80.0,female,chest
+FITZ_bb7427e,bb7427e9be69e945afe743ef0c158232,vasc,histo,50.0,male,upper extremity
+FITZ_4e4e18e,4e4e18efc2cf35be57a59bd8d83c1990,vasc,histo,55.0,male,trunk
+FITZ_defdb79,defdb79a643ed90c6614ca9f85210219,vasc,histo,45.0,female,face
+FITZ_fe35305,fe35305dffc8e83fe82398b7899c4d22,vasc,histo,65.0,male,trunk
+FITZ_285b7f0,285b7f018c0d7079fadc9f276494643f,vasc,histo,40.0,female,back
+FITZ_a5645ca,a5645ca9f8d3b3a188e20c81bda97359,vasc,confocal,45.0,female,abdomen
+FITZ_4f2a79b,4f2a79bb86c6def913141b31db152e04,vasc,histo,65.0,male,trunk
+FITZ_8122d22,8122d22b5c021372042307a9c1c6d854,vasc,histo,40.0,male,lower extremity
+FITZ_301e6dc,301e6dcb22e76915c34f2136f007b0ab,vasc,follow_up,35.0,male,lower extremity
+FITZ_623faa4,623faa459db4f5aef96431cfad70cf68,vasc,follow_up,60.0,male,abdomen
+FITZ_2c6a4a9,2c6a4a93bfe730618180907b34d875d7,vasc,follow_up,10.0,male,lower extremity
+FITZ_f5e8715,f5e8715fbaf46681d3a262d12cc410aa,vasc,follow_up,75.0,female,face
+FITZ_fe9cef9,fe9cef9e6b609fa344d5a681336c3b37,vasc,follow_up,40.0,female,trunk
+FITZ_585659f,585659f5deb7c18c4a6d62e3cc50b963,vasc,follow_up,80.0,female,scalp
+FITZ_9b0bc55,9b0bc55492fa85d78e0a00878fb43e32,vasc,follow_up,30.0,female,face
+FITZ_01011bb,01011bb38480c92b637d4adc216122bd,vasc,histo,55.0,female,face
+FITZ_ecd9690,ecd9690ec6e29b46c322a7a962aff002,vasc,follow_up,60.0,female,back
+FITZ_d6fc57f,d6fc57f3afdc323a0dc3a7001e8dc978,vasc,follow_up,70.0,male,trunk
+FITZ_e020308,e020308630c7f4286f0514031b4caa31,vasc,histo,20.0,female,upper extremity
+FITZ_33d7d2e,33d7d2e1277143a7356f628723bc39e1,vasc,follow_up,40.0,male,trunk
+FITZ_d663751,d66375120f60d71f2c14adc76f047b3a,vasc,follow_up,65.0,male,upper extremity
+FITZ_f3a3934,f3a39341732b7f64a9006d1e7104ade3,vasc,consensus,70.0,female,face
+FITZ_576d835,576d835921aceb16eea483aa84fc138a,vasc,follow_up,55.0,male,back
+FITZ_145e13a,145e13a479f0c026fcb0630d2f9d47b8,vasc,follow_up,15.0,female,lower extremity
+FITZ_158b595,158b595ac3b57ae843eadbb63636c3ba,vasc,histo,35.0,male,lower extremity
+FITZ_72402bf,72402bf92105525d70761829d80afe94,vasc,follow_up,45.0,male,back
+FITZ_a7a5cd8,a7a5cd82ebb1724ae67c7b592419387c,vasc,histo,65.0,male,lower extremity
+FITZ_4cca89d,4cca89d029db2c55afc0af3dca625988,vasc,follow_up,5.0,male,abdomen
+FITZ_1d5fec5,1d5fec5379a83b91079dcc0721ba7a11,vasc,histo,15.0,male,upper extremity
+FITZ_c98ac6d,c98ac6d896cd630653360d1fb6db7ec4,vasc,histo,55.0,male,face
+FITZ_c5e27c3,c5e27c3e2b64d8d39b1318ed1291d9db,vasc,follow_up,35.0,male,back
+FITZ_6b88b2b,6b88b2ba13040fd00a31046b5e4a35be,vasc,follow_up,75.0,female,lower extremity
+FITZ_82d5100,82d51006e6d32b5d5471b13010d425aa,vasc,follow_up,55.0,female,lower extremity
+FITZ_ecb59cf,ecb59cf54a5631ed4286190984942360,vasc,follow_up,70.0,female,lower extremity
+FITZ_be8b684,be8b6845068f1070f3052fb2e54cc48a,vasc,follow_up,40.0,female,upper extremity
+FITZ_54801c1,54801c1335acfcc8a1085ee9a29334bd,vasc,follow_up,20.0,male,back
+FITZ_0a4ad3b,0a4ad3b7c8705af214e73f8f771dfd47,vasc,histo,50.0,female,abdomen
+FITZ_424ca46,424ca461d8e2d667d55f7af7c9fc035e,vasc,follow_up,80.0,male,upper extremity
+FITZ_f84344a,f84344a909fc4da13005a5e762a6de05,vasc,histo,50.0,female,back
+FITZ_935062a,935062a8a821a27e6a8c6bd069d45966,vasc,histo,45.0,female,unknown
+FITZ_a3398ad,a3398ad74106f09472d7c43078d4ead2,vasc,histo,70.0,male,lower extremity
+FITZ_7c1f1d9,7c1f1d90d75ab40a0d2394da7ce8727c,vasc,histo,45.0,female,back
+FITZ_274e709,274e709838c304892ddaa0454b4c8819,vasc,histo,65.0,male,hand
+FITZ_e7238e1,e7238e13d9c656ec499e7d419057248b,vasc,histo,70.0,female,back
+FITZ_b508adc,b508adc3c308a18da62ac2b7680bdb0a,vasc,histo,45.0,male,trunk
+FITZ_149c50b,149c50b34d43bb358ee087fc8e69ea9b,vasc,follow_up,40.0,female,trunk
+FITZ_02dfbc0,02dfbc0e14a4655ca9190705fe1b7d56,vasc,histo,20.0,male,ear
+FITZ_acd8feb,acd8feb1ca7fddf6e5237aa3eaced966,vasc,histo,55.0,female,back
+FITZ_f2970a2,f2970a2819453c0f887024bdfba57706,vasc,histo,55.0,female,upper extremity
+FITZ_fbb98f8,fbb98f8b8eaa78dc6892126ba97c76f9,vasc,histo,50.0,female,lower extremity
+FITZ_c7a2551,c7a2551b4696422a14b23dfd400c63a9,vasc,follow_up,25.0,female,lower extremity
+FITZ_2da89b7,2da89b781d450fc5c6b768f6290d1243,vasc,histo,70.0,male,trunk
+FITZ_e74b6e2,e74b6e2c4948d21c738e190208e599e5,vasc,follow_up,30.0,female,face
+FITZ_2475581,2475581bf40d111f31146165fce3441b,vasc,follow_up,30.0,male,face
+FITZ_bccb35d,bccb35d2a45a3b17d7b5401d6a1c00be,vasc,histo,35.0,female,trunk
+FITZ_112b232,112b232367766cbb661c931b22c7d4e6,vasc,histo,30.0,female,back
+FITZ_f45c9e9,f45c9e9dd24903c26f37ae35dfae843b,vasc,follow_up,80.0,male,back
+FITZ_6cc1fda,6cc1fda21f970f561248aefa16c19054,vasc,histo,50.0,male,trunk
+FITZ_88ba2df,88ba2df0ca75ff23c31d0239d44855f6,vasc,histo,45.0,female,foot
+FITZ_cbce0a9,cbce0a9f9ef16752dc6ac47637b0748f,vasc,follow_up,65.0,male,upper extremity
+FITZ_00742b7,00742b7d36ec4038d68e4956deb8fa83,vasc,histo,10.0,female,back
+FITZ_28b50c7,28b50c74740af1b28882069776a49205,vasc,histo,65.0,male,abdomen
+FITZ_83d314e,83d314e140426d1a7cd1e915470aa532,vasc,consensus,85.0,female,lower extremity
+FITZ_73153de,73153de151483785856796f6e9577c3d,vasc,follow_up,60.0,male,face
+FITZ_3b4333c,3b4333ce8e3c7622b7282784b99b8bd7,vasc,histo,75.0,female,upper extremity
+FITZ_9f4cec6,9f4cec6b3ce59db29cb3a64d782d0d53,vasc,histo,20.0,male,back
+FITZ_a50e722,a50e722048c0231d2ee8f1f6a4c07867,vasc,follow_up,55.0,female,chest
+FITZ_26ca166,26ca1663d0d35255aa471578fd030131,vasc,follow_up,80.0,female,trunk
+FITZ_7494f71,7494f71845aa6663c050f6c029fd2f1d,vasc,follow_up,40.0,male,abdomen
+FITZ_f09014e,f09014ee407545b42e8b29d35d5b7ab6,vasc,consensus,45.0,female,upper extremity
+FITZ_1434d60,1434d60a40572f05850b0420857bad31,vasc,follow_up,45.0,female,hand
+FITZ_3826e75,3826e75f78b423e266c2dafc1b9809a9,vasc,follow_up,75.0,female,chest
+FITZ_b935d5f,b935d5f370685fbfdfb676b492dd5deb,vasc,follow_up,35.0,male,acral
+FITZ_5ffd8bf,5ffd8bfd72bf93492e07434924e9d15a,vasc,histo,35.0,female,upper extremity
+FITZ_4094556,4094556d382c6873c3f4f873fceeccb9,vasc,histo,50.0,male,abdomen
+FITZ_95f8d90,95f8d909518bf35e2a2a6789cfccce5a,vasc,follow_up,35.0,male,lower extremity
+FITZ_90c3762,90c37624ede8bedb2051a85c2d9d7a0a,vasc,histo,50.0,female,abdomen
+FITZ_0e4b53c,0e4b53cec9919e20dee742eaf50cee45,vasc,histo,50.0,female,lower extremity
+FITZ_fac5075,fac50755ac0a661403eedb4f63ab2d6d,vasc,follow_up,35.0,female,unknown
+FITZ_1317bc3,1317bc312a84b5aa8fc6b9b4a7c3318c,vasc,consensus,70.0,male,lower extremity
+FITZ_7d5fa40,7d5fa40a383359710b838eeb6c08324d,vasc,histo,70.0,male,back
+FITZ_3217ba3,3217ba36e80b39e457245877a77349d8,vasc,histo,40.0,male,unknown
+FITZ_63b530d,63b530d653923c1fa20cf2966cd689df,vasc,histo,80.0,male,face
+FITZ_160dbc3,160dbc3e65bc20f7fa82f27bcd79d60c,vasc,histo,45.0,male,trunk
+FITZ_46e8e18,46e8e18c64c228c71550ae4f50a92036,vasc,consensus,35.0,female,back
+FITZ_9a7c145,9a7c1451aa6d667b5b4dc11e243f40f5,vasc,histo,65.0,male,abdomen
+FITZ_1767114,17671141fadfbc7d358a5e2cc4b98b58,vasc,consensus,45.0,male,back
+FITZ_d0cdfc1,d0cdfc100d1dcc1a4d4e6c06babc514b,vasc,follow_up,80.0,male,face
+FITZ_75c6ea8,75c6ea8bd73ca6164b0a666afe401274,vasc,histo,35.0,male,abdomen
+FITZ_25f6a08,25f6a083995ad41ed8c8017e38054c16,vasc,histo,75.0,female,back
+FITZ_784b540,784b540a0e8eb55db7d850b538d3e5f1,vasc,histo,55.0,male,abdomen
+FITZ_1f86593,1f86593be7ade70623c093be3b87919b,vasc,follow_up,65.0,female,upper extremity
+FITZ_4d36657,4d36657f6a39bec453c8e41acc40023f,vasc,histo,70.0,female,lower extremity
+FITZ_2017a27,2017a2789790c2ae724917624752ae5e,vasc,histo,55.0,male,lower extremity
+FITZ_20f4aab,20f4aab1a014bc3c9b59bf0a36606800,vasc,histo,45.0,male,foot
+FITZ_9ed56bc,9ed56bccd586abaa9c3854c98eeb2c62,vasc,histo,35.0,female,upper extremity
+FITZ_656c560,656c560e200b0cfca63346939fa848d3,vasc,follow_up,65.0,male,face
+FITZ_53db27b,53db27b77dbd8f55b5f3cdcf3bfc19d3,vasc,histo,0.0,male,face
+FITZ_dcea8f7,dcea8f755d638e11fe9f69e9e058d4a6,vasc,histo,75.0,male,back
+FITZ_7b11131,7b11131e99b5e053bf85dfeed5229ab5,vasc,histo,75.0,male,face
+FITZ_5469148,5469148cef4a35a7d7c0f97cd2d0c345,vasc,histo,70.0,female,back
+FITZ_77e57be,77e57be20830beea9846d2c3a9ed5bd1,vasc,follow_up,60.0,female,chest
+FITZ_40b19a3,40b19a32bbb16d53c40fa6a93b8dc365,vasc,follow_up,55.0,female,back
+FITZ_f3a4d8d,f3a4d8da2bdb24a1d78a061f30496e9b,vasc,histo,10.0,female,chest
+FITZ_70723e2,70723e21c1596cc31bbc3fbbed564bce,vasc,follow_up,55.0,female,abdomen
+FITZ_6f84d7e,6f84d7e006c14c6446280a6a3775fb86,vasc,follow_up,0.0,male,trunk
+FITZ_b2c2ae2,b2c2ae2a075ace424a68eed4a0b196ef,vasc,histo,40.0,female,upper extremity
+FITZ_d5d0521,d5d0521e54f4ea7e4d9f20004af9c36a,vasc,follow_up,75.0,female,abdomen
+FITZ_bf572e4,bf572e4969549881665d6acad07eae0a,vasc,consensus,55.0,male,trunk
+FITZ_25953ec,25953eccb17d10bc30915ce2a4a72afd,vasc,histo,0.0,male,chest
+FITZ_3aef03e,3aef03ecc3e4c163acc454eec08eec71,vasc,confocal,45.0,male,back
+FITZ_c5697d6,c5697d664a8030cc92f976c7c4fdcb34,vasc,histo,45.0,male,face
+FITZ_f20d6a5,f20d6a54fdbc05d9c1266671c8e9475d,vasc,histo,55.0,male,abdomen
+FITZ_d686f90,d686f900a49b13cf0c33720e6d6357e9,vasc,consensus,70.0,female,upper extremity
+FITZ_f3cb766,f3cb766ae50852bd76a1669ee7a5e4ee,vasc,follow_up,45.0,male,face
+FITZ_7f5b8a9,7f5b8a9cc04f8954bbb968f6b85f32c4,vasc,histo,80.0,female,back
+FITZ_fdd2644,fdd264496207d775fa6dedb4ebfe26bb,vasc,histo,80.0,male,trunk
+FITZ_0182168,018216845bb29c0717a0b01a038b96eb,vasc,histo,50.0,male,face
+FITZ_77cbfca,77cbfcac621e1e9473cb6963d4c35463,vasc,histo,20.0,female,chest
+FITZ_dcac9e6,dcac9e6edc14ebee868dc5594984b9b9,vasc,follow_up,75.0,female,face
+FITZ_13aa381,13aa381871e7b7acd8bd340db1e99e45,vasc,histo,60.0,male,back
+FITZ_8f7ba0c,8f7ba0cfef85438ef1d41aa1872492c0,vasc,histo,40.0,female,trunk
+FITZ_f8625e6,f8625e6ba7ead84d5e9a283df868584d,vasc,follow_up,60.0,female,back
+FITZ_f8fc75a,f8fc75a657dab62d13cf045abb3f47e0,vasc,histo,65.0,female,trunk
+FITZ_68c4093,68c4093d23c19116b586d84b57c348ab,vasc,histo,65.0,female,lower extremity
+FITZ_6959d7c,6959d7c3d12b67da344cf59ba8c11f22,vasc,follow_up,65.0,male,foot
+FITZ_3a9e834,3a9e8348a8c8673250c009cd940bd082,vasc,follow_up,60.0,female,lower extremity
+FITZ_1824973,1824973d61a11cde18cf42affcc0f080,vasc,follow_up,60.0,female,upper extremity
+FITZ_be1bc30,be1bc30308ed6b2b3bbb3a67996dd2e8,vasc,histo,25.0,female,upper extremity
+FITZ_a6cb40a,a6cb40a0f3d23424ca15a8f5db6712e7,vasc,follow_up,75.0,male,abdomen
+FITZ_e600041,e600041da17eda6cff4cf14cdfb25d15,bkl,follow_up,70.0,male,lower extremity
+FITZ_ed04779,ed04779a244ceb4766056ed347da1988,bkl,follow_up,45.0,female,chest
+FITZ_8d7d693,8d7d69353979c66faac2f9e5fbdfe348,bkl,follow_up,70.0,female,upper extremity
+FITZ_6c020d5,6c020d5ca043291afee65afb74cd4019,bkl,histo,70.0,male,abdomen
+FITZ_1f0af24,1f0af24c77f720c6c009b0aaae30c3ea,bkl,follow_up,45.0,male,lower extremity
+FITZ_d5fb25d,d5fb25d79f8b930793f1be5e98244a6c,bkl,histo,25.0,male,upper extremity
+FITZ_f51aae6,f51aae6b3d3b76b975070baac2145672,bkl,histo,85.0,female,abdomen
+FITZ_57885e3,57885e3f5a3c043c3621a06bca196282,bkl,histo,75.0,female,trunk
+FITZ_8a10429,8a10429e9c89822448998ea15aae1231,bkl,histo,35.0,male,lower extremity
+FITZ_9592684,9592684eb42a6fc366f9120d54d3e9ae,bkl,histo,10.0,male,trunk
+FITZ_637e6d4,637e6d4ec6072a0f2d9d4ca17f63449b,bkl,histo,50.0,male,lower extremity
+FITZ_e076415,e0764158441e95f9d96fc3b9f1155673,bkl,histo,60.0,female,foot
+FITZ_f18b9bd,f18b9bd6c541fa3c97e8b4007158dddc,bkl,histo,60.0,female,abdomen
+FITZ_d678692,d6786927b91d6676c532d902bb219796,bkl,histo,70.0,female,abdomen
+FITZ_c329c20,c329c20ec5c8b1275abcc368e0e4f43b,bkl,histo,35.0,male,upper extremity
+FITZ_c1cde75,c1cde759eca19dd8fbe3884a352ba3c1,bkl,follow_up,80.0,female,back
+FITZ_99dace5,99dace5207bb65ce934451c7089e36df,bkl,follow_up,45.0,male,abdomen
+FITZ_a2abd32,a2abd32b2f43d0039dcde191919a88bf,bkl,histo,40.0,female,back
+FITZ_46d63b6,46d63b65e22a9550311ee36217e78f00,bkl,follow_up,25.0,female,back
+FITZ_3bf6a0b,3bf6a0b2b07e4139ac67a0ff5207915a,bkl,histo,50.0,female,abdomen
+FITZ_12056f4,12056f489798de5eb80a7d07dde875df,bkl,histo,85.0,female,lower extremity
+FITZ_d5b3b90,d5b3b90897f255f97ac19c06585a948c,bkl,histo,65.0,female,upper extremity
+FITZ_e19700b,e19700bdfef1034b79b79f1146d38bca,bkl,follow_up,75.0,male,abdomen
+FITZ_e86d4d9,e86d4d984d45fba9f79f9c44578da9d6,bkl,follow_up,70.0,male,lower extremity
+FITZ_3d27256,3d2725644347e8b2d567c79c424671f8,bkl,histo,50.0,female,lower extremity
+FITZ_5d08b14,5d08b1474179bb4874416b01064b56ae,bkl,histo,45.0,male,lower extremity
+FITZ_e4e34b9,e4e34b900d74574638f5b57b533e9333,bkl,follow_up,40.0,female,hand
+FITZ_123f141,123f1416445adb8b3b5bb5f9a4ee6eb9,bkl,histo,50.0,female,unknown
+FITZ_b024e42,b024e423de295d22a5f5504c396b6325,bkl,histo,70.0,male,lower extremity
+FITZ_9b5f85d,9b5f85d8f2edd57e3fd3be9e1d5fade6,bkl,follow_up,45.0,female,lower extremity
+FITZ_a8f7b68,a8f7b68bd47976e476776a08acc2f70d,bkl,follow_up,40.0,female,lower extremity
+FITZ_36df9f6,36df9f6b3e37b31fa3a4b7f2cc7e6aec,bkl,histo,35.0,female,upper extremity
+FITZ_a852433,a852433b45a05261e7d85043c401dfcc,bkl,histo,35.0,male,unknown
+FITZ_338772c,338772cc570ce83a7cca87638bcbc40b,bkl,follow_up,45.0,male,back
+FITZ_bd5a5de,bd5a5de305764b9affc516838c7f57e7,bkl,consensus,35.0,male,trunk
+FITZ_fc81b32,fc81b32afc618847af57d0f68c05f0a6,bkl,follow_up,45.0,female,foot
+FITZ_dbaaaf4,dbaaaf438d822950b52e1ccc75435333,bkl,follow_up,30.0,female,back
+FITZ_e857b88,e857b88b3c330541c58dd22c418d01e3,bkl,histo,70.0,male,lower extremity
+FITZ_a9fb58b,a9fb58b18a51d2a06299a9de971271e7,bkl,follow_up,60.0,female,back
+FITZ_3693864,3693864fcaad69d5bd59f2c020ec125d,bkl,consensus,80.0,male,chest
+FITZ_7b13cb1,7b13cb1d76325ee8cf4017de62a4f135,bkl,follow_up,70.0,male,back
+FITZ_eb7652e,eb7652e04c1c3ba509e0e6269cae7b5d,bkl,histo,55.0,female,trunk
+FITZ_37efc50,37efc50b4a1755cb4a489dc0620a4096,bkl,follow_up,75.0,male,abdomen
+FITZ_2dabcd7,2dabcd75a550fda4a489b2b92b0e1f1a,bkl,histo,45.0,male,back
+FITZ_63b6094,63b6094e083862d617afe313c4aa9f1f,bkl,follow_up,75.0,female,back
+FITZ_3c421aa,3c421aa1b1d94df229df3c6ae9a4530a,bkl,consensus,60.0,male,back
+FITZ_9a0d07c,9a0d07c6fb153412607c195bb552f132,bkl,follow_up,55.0,female,trunk
+FITZ_61be413,61be413c52eb1d7dad6a93d071f7d52e,bkl,histo,35.0,male,unknown
+FITZ_edb47f0,edb47f0f7a10ad7f4fc60f27094dbecd,bkl,follow_up,35.0,male,unknown
+FITZ_153ccb1,153ccb1a4f539ab26615f322caefac10,bkl,histo,75.0,female,upper extremity
+FITZ_c53b839,c53b8392fe54762302c1ea611b31f0a4,bkl,follow_up,45.0,male,foot
+FITZ_f803063,f80306379e420cd0581d9d1ed493d283,bkl,histo,75.0,male,abdomen
+FITZ_3c066c1,3c066c1414b59ef40046a836a0b905e5,bkl,histo,50.0,female,trunk
+FITZ_0ee7316,0ee7316d0dd4ad139cc108e871b7676d,bkl,follow_up,75.0,male,lower extremity
+FITZ_1a34852,1a3485252a20ba5b11e3958881f21b4e,bkl,histo,70.0,female,abdomen
+FITZ_9e8595b,9e8595b4c1edec4b70653523997c267f,bkl,histo,35.0,female,trunk
+FITZ_f1fa0c1,f1fa0c1a7632dfa036777befc290cc5f,bkl,histo,60.0,male,trunk
+FITZ_8adbab8,8adbab80b2c0fd475a0cdd1c719eca09,bkl,histo,45.0,female,abdomen
+FITZ_ae59731,ae597315643401a7e6d1c97adc01004a,bkl,histo,40.0,male,lower extremity
+FITZ_5876dff,5876dff01e567b140782cb4d6ddc30dc,bkl,follow_up,25.0,unknown,lower extremity
+FITZ_881d6d9,881d6d9d24f6cfc93b670a338355e41c,bkl,follow_up,35.0,female,foot
+FITZ_e99ba73,e99ba7397c33ba169192ffdb25b66ccf,bkl,histo,75.0,male,lower extremity
+FITZ_5491afb,5491afb7705ed393a798e8317fd57d48,bkl,histo,55.0,male,lower extremity
+FITZ_a2e69b3,a2e69b3c6fee28fcc613174973aa8ff2,bkl,follow_up,60.0,female,lower extremity
+FITZ_914d148,914d148a80029bf56971c2dd5a2b96b4,bkl,histo,50.0,female,back
+FITZ_bfeede8,bfeede852aaa590eeae10fd7607163f9,bkl,follow_up,65.0,female,lower extremity
+FITZ_ca788c4,ca788c4d33fb4bdd7dd9e603916a6616,bkl,follow_up,55.0,female,abdomen
+FITZ_8469304,8469304f4c86bcba90430e4e658ebbff,bkl,follow_up,50.0,female,upper extremity
+FITZ_51b5420,51b542089596a4d122839b333b656871,bkl,histo,45.0,male,back
+FITZ_66a8646,66a864690bb29d8a87837a90809092d2,bcc,histo,50.0,female,back
+FITZ_f586cbd,f586cbd345b1e4d5a14404aa1fc13b87,bcc,consensus,65.0,female,face
+FITZ_d9d5e1e,d9d5e1e288350dc6c14981ee9b51576b,bcc,histo,50.0,female,abdomen
+FITZ_b822f04,b822f042c5ff575ac4f2d49684f8eff8,bcc,histo,60.0,male,back
+FITZ_bc1a453,bc1a453b16e32352b492d12725f557c5,bcc,histo,70.0,female,abdomen
+FITZ_426ec16,426ec16fd5a64a6cc9b528e6c31e22e9,bcc,histo,85.0,male,trunk
+FITZ_37b1200,37b1200de998bfad315d19e66e9146d5,bcc,histo,75.0,female,back
+FITZ_32eaca7,32eaca7cb6a5408f4ad5a090187cdb25,bcc,histo,70.0,male,lower extremity
+FITZ_af52bb1,af52bb1087469cc110332783dd328d6a,bcc,consensus,75.0,male,abdomen
+FITZ_874c068,874c068761a094896dc6a19678bfb2cb,bcc,follow_up,60.0,male,trunk
+FITZ_e67b930,e67b930ae640f110d216563f46404c06,bcc,follow_up,50.0,male,back
+FITZ_3e83745,3e83745d7e86dfb8b0aa6549e28e33d0,bcc,histo,35.0,female,abdomen
+FITZ_568f9d4,568f9d4fb1e06cb13e77f61b339b81fa,bcc,histo,50.0,male,trunk
+FITZ_83e3734,83e37346b35f00b1fc3e226a9a1eef87,bcc,histo,45.0,female,back
+FITZ_2449ba4,2449ba4a799597725e0751b4bcec9566,bcc,consensus,35.0,male,back
+FITZ_c04c5f3,c04c5f3afa749fb75019acfe5f243877,bcc,follow_up,40.0,female,face
+FITZ_cda40e7,cda40e7e52d709b9957dcf5d2b016601,bcc,follow_up,55.0,female,upper extremity
+FITZ_332d061,332d0613825a47f3220d6c2dcf3e7b0d,bcc,histo,85.0,male,chest
+FITZ_7692cb0,7692cb086f7213b19eeb33accf8aa219,bcc,follow_up,40.0,male,upper extremity
+FITZ_1ba9b93,1ba9b93ba453254fd9cc42cb0837d021,bcc,histo,40.0,female,trunk
+FITZ_c44f442,c44f442003cee331175ba5eb38b9a900,bcc,histo,50.0,female,trunk
+FITZ_7c24e66,7c24e660ff34da3d4285e5b4b915a25b,bcc,histo,60.0,male,lower extremity
+FITZ_27f0e7a,27f0e7a7365483f98d68f0e2f4dd057e,bcc,histo,45.0,female,abdomen
+FITZ_1ee7c2a,1ee7c2a9070946d3b7b583c9ba4590f8,bcc,follow_up,70.0,female,back
+FITZ_371c578,371c578b2b298f59e97b620924576ff9,bcc,histo,45.0,female,chest
+FITZ_709cda1,709cda1386b72789222d1d30cb3506e8,bcc,follow_up,35.0,female,lower extremity
+FITZ_4159e22,4159e2236b2119f9c8aa39623aab4a84,bcc,histo,65.0,male,upper extremity
+FITZ_cfe8d10,cfe8d105a94caa9ff66ae4b2bae34d37,bcc,histo,65.0,female,abdomen
+FITZ_4b64778,4b64778ad3a274af138c1a4a269d0e69,bcc,histo,80.0,male,face
+FITZ_45dd4d7,45dd4d741779ee7a492bc0085d33dec2,bcc,histo,50.0,female,back
+FITZ_4fe3639,4fe3639425f904963bfef4c492664577,bcc,consensus,65.0,female,upper extremity
+FITZ_3e53dd4,3e53dd43521fc2ccaa2c6a95c8df3fa5,bcc,follow_up,35.0,male,lower extremity
+FITZ_b3893bf,b3893bf84b0c306b7e86253d4d98972a,bcc,follow_up,50.0,male,trunk
+FITZ_6eb126c,6eb126c1caf11faa3beb61fb4a489dae,bcc,histo,45.0,female,lower extremity
+FITZ_6d2fcc0,6d2fcc07e77392888a0b7b063bf56bbb,bcc,follow_up,20.0,female,abdomen
+FITZ_4011dab,4011dabf3af68e62fcada857c96a056f,bcc,follow_up,60.0,male,lower extremity
+FITZ_df36e9e,df36e9e73a06b3a37cc7bca56f6181b6,bcc,histo,50.0,male,lower extremity
+FITZ_c0fbc46,c0fbc46df75bf601b8cf5f869c76d6d3,bcc,histo,80.0,female,back
+FITZ_8017d1d,8017d1da313f196c232fe842131d4b80,bcc,histo,60.0,male,chest
+FITZ_bcd9a84,bcd9a842f246259d1fa54199aa5c6905,bcc,follow_up,45.0,male,lower extremity
+FITZ_98246d8,98246d823da6fbd5d0c345dfc8a63d5c,bcc,histo,40.0,female,lower extremity
+FITZ_570eaa2,570eaa25233c63c46e6cbbd3cb6ed42e,bcc,histo,45.0,female,upper extremity
+FITZ_c7101a0,c7101a08e026de24041aed144751ee53,bcc,follow_up,55.0,male,unknown
+FITZ_39f2c75,39f2c7532c560b9665bd06b2956d3acd,bcc,histo,45.0,male,trunk
+FITZ_ebbc575,ebbc575f609b16ed95aee520b9feacf1,bcc,consensus,50.0,male,lower extremity
+FITZ_83a7155,83a71553579194fa29e6b9e76fc90bbf,bcc,histo,55.0,female,upper extremity
+FITZ_aced50e,aced50eca3b94bc5a21142c87d461e01,bcc,histo,55.0,female,lower extremity
+FITZ_66d010a,66d010a52397b508509c4f44e6c3c869,bcc,histo,35.0,female,abdomen
+FITZ_c59e08e,c59e08e62fb00753b5857d0aa3bb0d3f,bcc,histo,50.0,male,back
+FITZ_49d9726,49d972675c4d3997aa2e8186bf6a06c6,bcc,histo,55.0,female,back
+FITZ_16427cd,16427cdda745655c1fd5a503bc702a68,bcc,follow_up,50.0,male,back
+FITZ_206be92,206be927bc9030c8608c2ded1df534cb,bcc,histo,55.0,male,lower extremity
+FITZ_a0a223a,a0a223a633e059ffd1ce089274f101a0,bcc,consensus,75.0,female,foot
+FITZ_6de49b7,6de49b7ddf64239e6768e317b4840cac,bcc,histo,75.0,female,abdomen
+FITZ_f3eaf2e,f3eaf2eec333043953f8e6bf884cd19e,bcc,histo,65.0,female,trunk
+FITZ_107e238,107e238a14ead26da7464917a6a5d8a3,bcc,follow_up,45.0,female,chest
+FITZ_c8f1c03,c8f1c03a90e5a0ead446526bbfc8e86a,bcc,histo,65.0,male,back
+FITZ_2db3633,2db363302f9ab9feaf27e91c64328fcc,bcc,histo,40.0,male,upper extremity
+FITZ_89fac5f,89fac5f4cd1f6d2a181337f8b2b30752,bcc,histo,60.0,male,lower extremity
+FITZ_925ad6d,925ad6d312f71a30cdb5c5e4e773d8a8,bcc,follow_up,75.0,female,trunk
+FITZ_127c614,127c614a1b7946171d4481ece27e5834,bcc,histo,75.0,female,abdomen
+FITZ_a72927a,a72927a9733ed3072b41b7c353b259db,bcc,histo,55.0,male,abdomen
+FITZ_35e050f,35e050f8df5d396334b3a7f61cdaaa49,bcc,follow_up,55.0,male,back
+FITZ_5b9a861,5b9a861673164365c98ba2e5eca55328,bcc,follow_up,55.0,male,back
+FITZ_d98bea0,d98bea04bd38bb2f6591bcb2a0336eff,bcc,histo,75.0,female,lower extremity
+FITZ_f3e07d3,f3e07d3a25ab2e154c3b1950a8ab6617,bcc,follow_up,55.0,male,back
+FITZ_ab28440,ab28440ed0d4fd832a76b06f5d86e401,mel,follow_up,60.0,male,foot
+FITZ_77e241b,77e241b18f2f7f615e4a76ae87cd42ac,mel,follow_up,40.0,female,lower extremity
+FITZ_2331c92,2331c9221825472c0a643dcc3a1f5249,mel,histo,50.0,male,upper extremity
+FITZ_d611911,d611911777942df51c973badfb02c4a4,mel,follow_up,35.0,male,upper extremity
+FITZ_2c41b06,2c41b068641c862f5f26911422ffd78f,mel,follow_up,30.0,female,abdomen
+FITZ_e7fd792,e7fd792efe793efba7a339d3dd29e404,mel,histo,70.0,female,lower extremity
+FITZ_f7860a6,f7860a668bff417fdf35a16e8229a587,mel,consensus,50.0,male,face
+FITZ_98bd1bb,98bd1bb7764270260e9b3720e57fc880,mel,histo,60.0,female,lower extremity
+FITZ_fa01a1c,fa01a1c2272065c237e67fdc34b42ae9,mel,follow_up,65.0,male,back
+FITZ_c375880,c3758805959417fcc2d8e98a8483217f,mel,histo,60.0,female,chest
+FITZ_cba6bd5,cba6bd5b134c25e21d636d87b711f662,mel,histo,45.0,male,trunk
+FITZ_d6e1592,d6e1592cd3d3cd6718b56f6d556f77c4,mel,follow_up,45.0,male,back
+FITZ_d58998e,d58998ebb0839c54404e9f55bf8a5d2a,mel,histo,30.0,male,foot
+FITZ_304f8ce,304f8ce123139ee152d5bd43415e2edc,mel,histo,45.0,male,lower extremity
+FITZ_3abf697,3abf697cc51d3887c188136ef0a4d941,mel,histo,75.0,male,trunk
+FITZ_41815a6,41815a6d1d3a27c58d42c818b2efb236,mel,histo,50.0,female,trunk
+FITZ_923228f,923228f28903085907978dbba69ee1e6,mel,follow_up,45.0,male,back
+FITZ_37c9a98,37c9a984fbf34057023942c77d1ddff2,mel,histo,45.0,male,lower extremity
+FITZ_a07d58a,a07d58a0a2d13823ee977d0f2c399450,mel,histo,85.0,female,back
+FITZ_6fe05b4,6fe05b4958791a509557c5fc392762ce,mel,follow_up,65.0,male,abdomen
+FITZ_c4c2e94,c4c2e945778e09af22e5fc0a0e92bcbf,mel,follow_up,50.0,female,lower extremity
+FITZ_7680cf6,7680cf6433be49fb7ed5964e7c1ed440,mel,histo,55.0,male,abdomen
+FITZ_2108e9d,2108e9d766f1c6ed6ad83765f576d347,mel,histo,60.0,female,upper extremity
+FITZ_e6a148f,e6a148f384e31d30c51c4472defc1bdf,mel,follow_up,75.0,male,trunk
+FITZ_47ae016,47ae0164d37b5c26a524d8b33132fcb5,mel,histo,60.0,female,upper extremity
+FITZ_e5274fb,e5274fb265a7fbd6db292a6e8959f467,mel,histo,10.0,female,upper extremity
+FITZ_306991d,306991d08929be5a1c9cad3ecc9423bf,mel,histo,65.0,female,lower extremity
+FITZ_d718d65,d718d651cbb1a4041ee554bd22956206,mel,histo,85.0,male,lower extremity
+FITZ_a012732,a012732fd2caf22e3168ea643b0df97e,mel,follow_up,60.0,female,back
+FITZ_58005ed,58005ed792a5445438c7f32043d1818b,mel,histo,80.0,female,trunk
+FITZ_32dc52b,32dc52b5114e1aac6dab9fca50a6746a,mel,follow_up,65.0,male,back
+FITZ_256e58f,256e58f0e342d523cae925d1a3e55a38,mel,follow_up,75.0,male,foot
+FITZ_df0ccf6,df0ccf61a18dd7434630862455337495,mel,histo,45.0,male,trunk
+FITZ_430f3cb,430f3cba46045b2e5eb12092c03b98fd,mel,follow_up,75.0,male,upper extremity
+FITZ_c654431,c654431b35ae082b8b5ec407fbdc501b,mel,consensus,55.0,male,upper extremity
+FITZ_21988ed,21988edf56792632bf60230be54b4ecb,mel,follow_up,45.0,female,back
+FITZ_0ee34d8,0ee34d8cc387db6430bba2d2ce793ac9,mel,histo,80.0,male,abdomen
+FITZ_2e9026d,2e9026dc8e4b4256aaad236b808de767,mel,histo,65.0,female,lower extremity
+FITZ_a4b48f0,a4b48f03133497b7ff25ec2af7505ef1,mel,confocal,45.0,male,back
+FITZ_f45dc98,f45dc98e818745e359d7d25b00c91151,mel,histo,5.0,male,chest
+FITZ_f728b8a,f728b8ad950fa5a36cd26cbdf9651179,mel,histo,55.0,female,foot
+FITZ_a27211a,a27211a5b0e1bbde690a3e5feb341653,mel,follow_up,50.0,female,face
+FITZ_6a9b56f,6a9b56f5a0721bde502d526ac0128936,mel,follow_up,45.0,female,trunk
+FITZ_d13e941,d13e9416a0204d2e004f93eb5f853448,mel,follow_up,60.0,female,lower extremity
+FITZ_bb2e052,bb2e052ba0951cf787b9e831ab2a5b10,mel,follow_up,65.0,male,foot
+FITZ_fb645ff,fb645ff861b4aa453c8bc1208a93184c,mel,consensus,50.0,male,lower extremity
+FITZ_a2cc79f,a2cc79f44fdb6241278e3098721cf684,mel,histo,75.0,female,lower extremity
+FITZ_2251707,22517077a92297c9c87dced4121b1e00,mel,histo,75.0,female,upper extremity
+FITZ_846d543,846d5436d995ac586b03958fbcfc1a96,mel,histo,35.0,female,trunk
+FITZ_56c7427,56c7427df79c37d0602a2797539ca761,mel,histo,60.0,male,lower extremity
+FITZ_a51617e,a51617e00dfdf9febbdef2b0741ee82d,mel,histo,60.0,female,trunk
+FITZ_fb0dcd3,fb0dcd31990c06d1c8f254ce8b0115c1,mel,consensus,55.0,female,face
+FITZ_7910e6f,7910e6ff11c72c6266d5749017c6f72e,mel,histo,75.0,male,foot
+FITZ_88c8c11,88c8c110ade2657fbe1c840dd2494511,mel,follow_up,65.0,male,lower extremity
+FITZ_0afbf2e,0afbf2ec3f745735dc677ca739055838,mel,follow_up,60.0,male,lower extremity
+FITZ_acfa64e,acfa64e67d3581bc2a1db0c5dcadf860,mel,follow_up,35.0,female,lower extremity
+FITZ_20cc2e0,20cc2e089e50034c164fb3e49bad142f,mel,consensus,50.0,female,face
+FITZ_4ef7b09,4ef7b09678867c6921d5385ecb18aef2,mel,follow_up,35.0,male,face
+FITZ_48a2d3c,48a2d3c07db35f6232411a257e7a95e9,mel,consensus,75.0,male,face
+FITZ_6ddff07,6ddff0707d6bfe84b1b4be7a7c41bf5e,mel,histo,45.0,female,foot
+FITZ_dc6b70e,dc6b70e34949c1fa255c0c936fc53655,mel,consensus,80.0,male,face
+FITZ_9140159,9140159f37dd700e5a4d25351ae805fe,mel,follow_up,35.0,male,face
+FITZ_9695951,9695951a2cb28eb40557aa22e201b9c4,mel,histo,80.0,female,upper extremity
+FITZ_f78395e,f78395e7569fea6aa0263b0680b39fed,mel,histo,55.0,male,trunk
+FITZ_b791ec8,b791ec8f969acd3d0736ac679dea0d29,mel,histo,40.0,male,ear
+FITZ_454e68b,454e68bf5705eabf0f4d28fc1dbd77be,mel,histo,50.0,male,upper extremity
+FITZ_c6e0265,c6e02651c6e15b52376ccfb095ee0509,mel,histo,60.0,female,scalp
+FITZ_3361f78,3361f78e86e2c0dcd0868286fb042384,mel,histo,65.0,female,face
+FITZ_39db1b5,39db1b5308e58e1e486703dcb53b33ee,mel,consensus,50.0,male,upper extremity
+FITZ_77aa716,77aa716ae6d1b7c52f7007fd36864dc2,mel,histo,35.0,male,back
+FITZ_f1c06ae,f1c06ae789abed0425b017fc77eb16e5,mel,histo,70.0,male,lower extremity
+FITZ_4e28e2e,4e28e2e586e563db2112ad1afa25fcf0,mel,histo,50.0,female,unknown
+FITZ_c0de110,c0de110fb3fb880b122cc8f058b731af,mel,histo,60.0,female,back
+FITZ_16b8f54,16b8f543987fd7f15139f36114a238d5,mel,follow_up,35.0,male,upper extremity
+FITZ_132fe9a,132fe9a3f576acc03bfd96ccd4b43783,mel,histo,80.0,male,back
+FITZ_46a52b0,46a52b0203c2e2e10adcfdb6dd3d30a0,mel,follow_up,60.0,female,upper extremity
+FITZ_deba174,deba1747c5e39cae4b05d5a6e31139fa,mel,histo,50.0,female,lower extremity
+FITZ_b373d99,b373d991b75e405e4d1d3b2bf805a5df,mel,histo,45.0,female,back
+FITZ_8ea3141,8ea314195479001aaa5ce386c9f45433,mel,histo,35.0,female,abdomen
+FITZ_81c007d,81c007db8cc1bc57cb08bcc00dda653b,mel,follow_up,55.0,female,trunk
+FITZ_cd98750,cd9875059a12da6235552ef1bfe6b306,mel,histo,70.0,female,back
+FITZ_b995b00,b995b00ca0f6e3a5ac881db2d40a5c34,mel,histo,75.0,male,unknown
+FITZ_ae1dd2f,ae1dd2f408512900bb5149de7c3d6a66,mel,follow_up,50.0,male,upper extremity
+FITZ_1225748,1225748569e2495256edb1f615dab952,mel,consensus,50.0,male,upper extremity
+FITZ_1c31b43,1c31b43cce49c0e53349f4f1adb59b1d,mel,histo,25.0,female,trunk
+FITZ_e8fd022,e8fd022f0fbc938d8b2a44056f1bdec5,mel,histo,65.0,unknown,back
+FITZ_e485d00,e485d00e33e95305b3b1bc03d0e852ed,mel,follow_up,40.0,male,back
+FITZ_2fd4888,2fd4888414963b05fe63544829295e3b,mel,histo,55.0,male,abdomen
+FITZ_01753b8,01753b8013e298aa27ca91ac721ee0a8,mel,histo,40.0,female,foot
+FITZ_d962d44,d962d44c1ad9d8007dd31cbc9cb6aad8,mel,follow_up,70.0,female,lower extremity
+FITZ_0461936,04619369ecec27c92b5f782adfd21b05,mel,histo,75.0,male,face
+FITZ_97daccb,97daccbe6d587b298b2949cf1b0a3f21,mel,follow_up,70.0,male,hand
+FITZ_701ef9d,701ef9d6cfb1c845baa969eb5d49e58e,mel,histo,30.0,female,upper extremity
+FITZ_47f82c7,47f82c73448a0cbf900d839ac3872496,mel,follow_up,45.0,male,lower extremity
+FITZ_c85a414,c85a414180c75d978fb7259f2781b72e,mel,histo,85.0,female,back
+FITZ_b50a802,b50a802b6d5e458e6d6e446b6cee35d9,mel,histo,40.0,female,back
+FITZ_ca9fe71,ca9fe71f9b4e6348554b749f3c2e56d2,mel,follow_up,60.0,male,upper extremity
+FITZ_02f1182,02f11821915d67f20fb15a8e8b96c1d3,mel,follow_up,15.0,female,back
+FITZ_1f24cd9,1f24cd91d3536af05573c716cee9afe3,mel,histo,85.0,female,back
+FITZ_e1c75de,e1c75dee6b18610b7d5f6e745e2d46d7,mel,histo,70.0,male,back
+FITZ_d7da287,d7da287fc4ca06ca56fa7a77bc66ff3a,mel,histo,55.0,female,chest
+FITZ_ee0ca09,ee0ca09169187d556308c034caa9fda4,mel,histo,50.0,female,abdomen
+FITZ_cc391af,cc391aff32bf98e352ddaf3c1e6865cb,mel,follow_up,45.0,female,back
+FITZ_fb1feb5,fb1feb5dbf0038eee9348a3740cef6f9,mel,follow_up,50.0,male,face
+FITZ_94d83b7,94d83b7ef6a07cda5e0ce98dbc2a5550,mel,follow_up,35.0,female,trunk
+FITZ_270a217,270a217e6e961cf405a4ad46a110ff69,mel,histo,30.0,female,scalp
+FITZ_86665d2,86665d212e168b26d21f1dc4a8d1f12b,mel,follow_up,85.0,male,upper extremity
+FITZ_8718cf6,8718cf620c0488269eb502f2c2ed588c,mel,follow_up,45.0,male,back
+FITZ_7e0b3d4,7e0b3d4f2a678d812e94c1f77f9820fa,mel,histo,45.0,male,chest
+FITZ_3bc65e3,3bc65e392aaeb35c1c6d871831a2b71c,mel,follow_up,55.0,female,upper extremity
+FITZ_3cc5bf0,3cc5bf092e65969413ebb390d9c0344e,mel,follow_up,45.0,male,upper extremity
+FITZ_8e9b1ff,8e9b1ff865f03340b6023a68b1dd2bea,mel,histo,55.0,female,lower extremity
+FITZ_d9fbdad,d9fbdadef6ca5cd7f3c3d3928fa6d57d,mel,follow_up,50.0,male,lower extremity
+FITZ_467b2ac,467b2ac03723ec804ecb709da4a5bb16,mel,histo,55.0,female,back
+FITZ_07bbb2e,07bbb2e37d5e4febf70890df43c9fbd6,mel,histo,40.0,male,lower extremity
+FITZ_37ef6ef,37ef6efc7b2498d4a693e3da285fe940,mel,histo,80.0,male,face
+FITZ_b6b1480,b6b148041be55b10f5f94abd7ea29307,mel,consensus,85.0,female,back
+FITZ_becab80,becab807bbe933d1a5e84f378dfc083f,mel,histo,50.0,male,trunk
+FITZ_37da794,37da794ff30e33b060b401faa6d71abd,vasc,histo,40.0,male,face
+FITZ_7242e9e,7242e9e489adf1b3891f562d7f01f82d,vasc,histo,40.0,female,trunk
+FITZ_0139024,01390246dab3bff207a63cba3eb571e3,vasc,histo,70.0,female,abdomen
+FITZ_e5afb8b,e5afb8b3f6b6586ebc4264cccc2ac3ed,vasc,consensus,85.0,male,foot
+FITZ_03fa6b4,03fa6b46375e432cbf6a5c80ec39fcc6,vasc,follow_up,50.0,female,chest
+FITZ_1b8e1b6,1b8e1b61ab30fd12129793b30791d247,vasc,follow_up,80.0,male,face
+FITZ_fb73a33,fb73a33eac130c13896bfb7494557226,vasc,histo,45.0,female,trunk
+FITZ_db73140,db7314018845a10942fab2b5e737e436,vasc,follow_up,50.0,female,unknown
+FITZ_bb31116,bb311169c44ad5348401431f33a95668,vasc,histo,40.0,male,lower extremity
+FITZ_37b60d4,37b60d44e70c828d90891fb5672fa8d1,vasc,histo,45.0,male,lower extremity
+FITZ_c6e89b3,c6e89b36d3e2d5f97c4298037d1bde13,vasc,follow_up,45.0,male,abdomen
+FITZ_efe3e25,efe3e2531920684f5b2aed7a3b38b34c,vasc,histo,35.0,female,trunk
+FITZ_cee463e,cee463ee3ef9b8a1e3c9d237a96e1a9a,vasc,follow_up,75.0,male,upper extremity
+FITZ_0c9a638,0c9a63866e446cb601bdeb9a4d3787a6,vasc,consensus,35.0,male,upper extremity
+FITZ_f387cd4,f387cd4c71421fdceddeec985b93b376,vasc,follow_up,70.0,female,abdomen
+FITZ_8d90c29,8d90c2944cdf23c18f305093c7a7fa32,vasc,histo,55.0,female,lower extremity
+FITZ_ff376d7,ff376d7fda946563d0b03d6649451d66,vasc,follow_up,50.0,female,trunk
+FITZ_b49e517,b49e517f6e88f5f0f139927acd7e00a3,vasc,histo,35.0,female,unknown
+FITZ_1ce68dc,1ce68dc228b5414729a7acdd6815647d,vasc,follow_up,40.0,male,face
+FITZ_c9d828d,c9d828d3c3cc193f7c802814fb6fba11,vasc,histo,80.0,male,upper extremity
+FITZ_63df510,63df5103948caaf40259faaf280c3baf,vasc,follow_up,20.0,male,trunk
+FITZ_c7d29c4,c7d29c46a5011566c9e3b4144e970292,vasc,histo,70.0,male,foot
+FITZ_3b9bd3e,3b9bd3e9eb966555a82388a453feda2f,vasc,histo,60.0,male,abdomen
+FITZ_9e41dfe,9e41dfef88af0d8e29fddd91da1f4c5a,vasc,histo,45.0,female,back
+FITZ_8b9207f,8b9207f1125612191d2a54ceb68619dd,vasc,histo,75.0,male,trunk
+FITZ_f4dbcbc,f4dbcbc8a3b5110599e23ab3ebd8a6d1,vasc,histo,50.0,male,chest
+FITZ_ce264c1,ce264c1179fe63735a19ff0adf4ed942,vasc,follow_up,40.0,male,lower extremity
+FITZ_e96aa1f,e96aa1f63f0fefc720b3c880ed99df3a,vasc,histo,55.0,female,lower extremity
+FITZ_7754295,77542950a7b476c885fee02e0902019b,vasc,histo,85.0,female,trunk
+FITZ_3b1ee7a,3b1ee7a7fee0c7a7fa2a8df126482542,vasc,follow_up,75.0,male,upper extremity
+FITZ_52febf5,52febf5b7413bb8b3210667f2356f4a0,vasc,histo,40.0,female,face
+FITZ_a5b8139,a5b813957d0fe8ad0edc6e9b96dede2c,vasc,histo,35.0,unknown,trunk
+FITZ_3c037f8,3c037f81cfe29dd2bd8834d823499190,vasc,histo,25.0,female,neck
+FITZ_5f521d5,5f521d58de1d2d361306a0f3a73f8f7b,vasc,consensus,40.0,female,lower extremity
+FITZ_eb06340,eb063404ab5fcf68b37891e80b2e4fad,vasc,histo,70.0,male,abdomen
+FITZ_66f8486,66f84860d3920287b8093d95dd49162a,vasc,follow_up,60.0,female,trunk
+FITZ_097e214,097e214c5c8f30b5b9ed202bde45dbd2,vasc,histo,55.0,male,abdomen
+FITZ_c454423,c45442337cf13c347250283d770cc146,vasc,histo,85.0,female,trunk
+FITZ_d876f96,d876f96ad056b53f40f8f178737c2100,vasc,histo,70.0,female,back
+FITZ_b536c3c,b536c3c3111a2ebb815a8710a89efc5a,vasc,histo,50.0,male,upper extremity
+FITZ_369c2cd,369c2cd28465c877364ccbc5cadd1a6c,vasc,follow_up,30.0,female,lower extremity
+FITZ_c23edb4,c23edb4060ddaeb9e0dea2d7bbe5019c,vasc,histo,60.0,male,unknown
+FITZ_de2a218,de2a218985a8833bf59af0bd2179fca2,vasc,histo,35.0,female,trunk
+FITZ_0869487,0869487b3f53ea6e3fe7c63017d0e94d,vasc,follow_up,55.0,female,back
+FITZ_e0212a4,e0212a4120b4c576d7cfd63d4829b2cb,vasc,histo,25.0,male,abdomen
+FITZ_b2ac57d,b2ac57db2a7c0162ce96690f98d67bc0,vasc,histo,75.0,male,lower extremity
+FITZ_468feda,468fedaf0c0f9897f1d7a24c458572b2,vasc,follow_up,60.0,male,back
+FITZ_c95cc8c,c95cc8c46c6788ad25c6e6b08e25a24d,vasc,histo,60.0,male,face
+FITZ_05ce4f7,05ce4f72f511f936743822e539ea8314,vasc,histo,55.0,male,face
+FITZ_676f64c,676f64c842eec80eded6a4b7da155a1a,vasc,follow_up,45.0,female,upper extremity
+FITZ_278f77c,278f77c0cfc37e499635784af16ea365,vasc,histo,65.0,male,back
+FITZ_d26899a,d26899a09ac4a25f2a598d4253ef9a51,vasc,histo,50.0,female,abdomen
+FITZ_7314c0c,7314c0c02f1d521c6b2b4ba955d369e8,vasc,follow_up,50.0,female,lower extremity
+FITZ_fd3fdc5,fd3fdc5110af7828c87a952582efa397,vasc,follow_up,50.0,female,abdomen
+FITZ_1c9c52f,1c9c52faf5ceda41ae02cf54427e1bd1,vasc,histo,45.0,female,back
+FITZ_bcf0585,bcf05850a0b064f29cc22f372d9781fd,vasc,follow_up,45.0,male,trunk
+FITZ_d309e64,d309e64d03dfb72ac6ec87d7c6c820e5,vasc,histo,50.0,male,upper extremity
+FITZ_1f22073,1f22073e2682cfccd92846d92b9d29bf,vasc,follow_up,40.0,male,abdomen
+FITZ_81affd3,81affd3006c11138c4f983d662f60140,vasc,histo,60.0,male,abdomen
+FITZ_7244389,7244389323ed273ce0fa8c7e4da67e7e,vasc,follow_up,45.0,male,upper extremity
+FITZ_6377305,6377305422c4b4c392dce2abf7b38cfe,vasc,follow_up,35.0,female,back
+FITZ_ef1b896,ef1b896137ba87b44467ede3a28d029b,vasc,consensus,25.0,female,upper extremity
+FITZ_5f1de16,5f1de163a9b6dbe52a516085848399d3,vasc,follow_up,45.0,male,back
+FITZ_6393ad9,6393ad9b71c4dfb21aaca14808665845,vasc,histo,45.0,male,chest
+FITZ_1159b03,1159b03167f3e222e22265b7e19933b6,vasc,histo,50.0,male,upper extremity
+FITZ_45ac75a,45ac75a23af3859cbffa500b64e97631,vasc,histo,45.0,female,upper extremity
+FITZ_3fd5fa2,3fd5fa206a4b2d087e61f198540e4a0d,vasc,histo,75.0,male,upper extremity
+FITZ_935e026,935e0269fc0388b71e656ba30761c633,vasc,histo,35.0,female,face
+FITZ_6e50e6c,6e50e6c51326bd5cda671908e02fe299,vasc,follow_up,55.0,male,unknown
+FITZ_cd47eba,cd47ebac91efee6d13dd2d5fbfb62568,vasc,follow_up,50.0,male,back
+FITZ_452670f,452670f5d314b708459d19b8e2c3326f,vasc,histo,65.0,female,upper extremity
+FITZ_01c5cd2,01c5cd2467560cbb5f4a1e3dac3b03ef,vasc,consensus,70.0,female,upper extremity
+FITZ_1676b7a,1676b7a4cc695ade9741dcb68d5797e4,vasc,histo,45.0,male,unknown
+FITZ_aec1e76,aec1e76dfe2266c73db2794889443ed7,vasc,follow_up,50.0,male,neck
+FITZ_ea5aafb,ea5aafbb230f654c1ee46aa7fd6f1047,vasc,histo,65.0,female,abdomen
+FITZ_abf70b5,abf70b58e93e881fdad4566809970a1a,vasc,follow_up,50.0,male,upper extremity
+FITZ_49e6bfc,49e6bfc2f759e9991761a12e7e16ee24,vasc,histo,60.0,male,lower extremity
+FITZ_12d8f73,12d8f73d904a3c86dfa4076c09c63316,vasc,follow_up,55.0,female,scalp
+FITZ_d28d3c4,d28d3c4548f7d21b34cd5908b110984f,vasc,histo,55.0,male,lower extremity
+FITZ_137283e,137283e695fe68dface4d9eabb6d4086,vasc,consensus,40.0,male,face
+FITZ_18ada6c,18ada6cd1bf0888784eaadadd531b26c,vasc,follow_up,45.0,female,lower extremity
+FITZ_713057e,713057e92d074a42877ca7c50c7816ad,vasc,histo,60.0,female,lower extremity
+FITZ_1db228b,1db228b878cf9e99681fd881c1d70e3b,vasc,histo,50.0,male,lower extremity
+FITZ_f4ea1f7,f4ea1f79c657fb4d55abb8abbbbc5678,vasc,follow_up,30.0,male,abdomen
+FITZ_ce0b81d,ce0b81d408adacbc981c448110a192e8,vasc,follow_up,5.0,female,unknown
+FITZ_9eb643a,9eb643a85636816ca2efe457db1aa944,vasc,histo,20.0,male,chest
+FITZ_1c2fd7b,1c2fd7b29de34a662845d6efd8df0a74,vasc,follow_up,55.0,female,face
+FITZ_158b0e4,158b0e4832f254123abef07ef0c6b014,vasc,follow_up,65.0,female,face
+FITZ_d53296d,d53296d308e53f866a173a0d21578a80,vasc,histo,45.0,male,back
+FITZ_0896aad,0896aad5d8447d068503c8f0c0071668,vasc,follow_up,20.0,female,lower extremity
+FITZ_a0ae926,a0ae926830cf382bed7b1d0de867d6a7,vasc,histo,45.0,male,foot
+FITZ_7efe1b1,7efe1b1d6a4bc821b98e5cbe6dfd077c,vasc,histo,55.0,male,abdomen
+FITZ_34a8688,34a8688a08a03afb29d5cf253c6547ff,vasc,follow_up,45.0,female,abdomen
+FITZ_4994826,49948266f4b2fc08c7c3155f519ae624,vasc,follow_up,45.0,female,lower extremity
+FITZ_02c35a2,02c35a23f0b8f5926b2185b328c5551a,vasc,follow_up,40.0,male,foot
+FITZ_5322c14,5322c14309c560adc3a2927133a7763d,vasc,histo,75.0,female,trunk
+FITZ_98c7561,98c75613c9a3b31816fe4e7840b4eb71,vasc,histo,70.0,male,foot
+FITZ_7db71f8,7db71f8f3a8a5f6e9ffab45ab54740ec,vasc,histo,35.0,male,back
+FITZ_3163688,3163688a06ed18b9cfbff29d28cef80f,vasc,histo,75.0,male,lower extremity
+FITZ_27da81c,27da81c09d3981318a1ff175ad12628e,vasc,histo,75.0,female,scalp
+FITZ_f2595d5,f2595d53264c01b372ee9acb4591461f,vasc,histo,40.0,female,unknown
+FITZ_e268515,e268515e2171df91156578c7d0862969,vasc,histo,50.0,male,lower extremity
+FITZ_588ba57,588ba57ac05647fd82650926624dedeb,vasc,histo,45.0,female,face
+FITZ_b6a1850,b6a18504475d38e563b89a6ecf3558b3,vasc,follow_up,30.0,female,face
+FITZ_1f60e81,1f60e819229b11d3e51c9b722b5dba70,vasc,consensus,50.0,female,abdomen
+FITZ_a5d29f0,a5d29f02b817abdc648f7c0d8ace86db,vasc,histo,25.0,female,trunk
+FITZ_0ef6a41,0ef6a4157b7bbe44c357d9d1ff7151c8,vasc,histo,45.0,male,abdomen
+FITZ_22bb9a0,22bb9a02ca24e603e9ee6dfcf9298a9d,vasc,histo,80.0,female,trunk
+FITZ_639a003,639a003e0857847a59a4c381a2745717,vasc,follow_up,50.0,female,lower extremity
+FITZ_75d7f57,75d7f57d6270a3c90ba039c088053432,vasc,follow_up,45.0,male,lower extremity
+FITZ_b89f0df,b89f0df848e11733fcb8abfc25834f2e,vasc,consensus,55.0,male,upper extremity
+FITZ_607feae,607feae3c6d99925958dc04c439ee530,vasc,follow_up,50.0,female,face
+FITZ_e52b7a2,e52b7a2a09b2c6958619bb9e4357abae,vasc,consensus,85.0,female,face
+FITZ_9939b40,9939b401b3456a746a2a6f9038eb860a,vasc,histo,70.0,male,back
+FITZ_6eacb8c,6eacb8cf8625e9564d7365e89f919ae0,vasc,follow_up,50.0,female,lower extremity
+FITZ_ada500a,ada500a88d68a997ed3804382208cc0b,vasc,follow_up,50.0,female,abdomen
+FITZ_7e26fd0,7e26fd08ff4581a71e16e158696fe5d9,vasc,consensus,55.0,male,ear
+FITZ_22d83c9,22d83c95771d43a75085530f8f68ae89,vasc,histo,40.0,female,trunk
+FITZ_9352531,935253176f36da2ffbfa63299b8afa6b,vasc,follow_up,35.0,unknown,back
+FITZ_61c021a,61c021a8acd87dd9da55381b44e05396,vasc,histo,40.0,female,back
+FITZ_45bf5b0,45bf5b097b5bd1001b8e9eb2cda52c74,vasc,histo,75.0,female,face
+FITZ_b76bc54,b76bc541faaa9e3b095afdcf5fd2909b,vasc,follow_up,35.0,male,abdomen
+FITZ_c944e1c,c944e1cd9974adf18268e705718bf2f5,vasc,histo,60.0,female,lower extremity
+FITZ_e417b5f,e417b5f3c269cd00089cd0b5366ba7e8,vasc,follow_up,85.0,male,upper extremity
+FITZ_4911f2d,4911f2d6b92042664419ac56180140d9,vasc,follow_up,60.0,male,upper extremity
+FITZ_f1f6242,f1f6242d87f06f252c62d1d0173cff27,vasc,histo,55.0,female,upper extremity
